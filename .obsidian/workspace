@@ -78,6 +78,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c0bce58b9e528af7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       }
