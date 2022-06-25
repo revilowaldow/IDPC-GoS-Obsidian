@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c88c5e45497f96aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d9b3d0abf51446e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tes2t.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2613b9568390a1e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae14728cd71f600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db1ecaed981d070e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a39f92651fc093e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a32a20bc5ff8c607",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c8586d02bf2288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa215fc1835a0173",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tes2t.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0d9b3d0abf51446e",
+  "lastOpenFiles": [
+    "tes2t.md"
+  ]
+}
