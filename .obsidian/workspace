@@ -7,9 +7,11 @@
         "id": "0d9b3d0abf51446e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Assets/dragao-no-mar-wallpaper.jpg"
+            "file": "Backstories/Kairon.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -19,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tes2t.md",
-            "mode": "preview",
+            "file": "Overarching Plot.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/dragao-no-mar-wallpaper.jpg",
+                "file": "Backstories/Kairon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +108,11 @@
   },
   "active": "0d9b3d0abf51446e",
   "lastOpenFiles": [
-    "Assets/dragao-no-mar-wallpaper.jpg",
-    "Assets/Green_dragon_variant_AFR.webp",
+    "Backstories/Kairon.md",
+    "Overarching Plot.md",
     "Assets/Viondrúit.jpg",
+    "Assets/Green_dragon_variant_AFR.webp",
+    "Assets/dragao-no-mar-wallpaper.jpg",
     "tes2t.md"
   ]
 }
