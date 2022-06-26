@@ -9,9 +9,41 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Backstories/Kairon.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d89ecefea028e426",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Backstories/Gerhard.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "3fe183bfc725dcb2",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Assets/Tiamat.jpg"
+          }
+        }
+      },
+      {
+        "id": "da0575f17b0d34c8",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Assets/Shimanteoroth.webp"
           }
         }
       }
@@ -69,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstories/Gerhard.md",
+                "file": "Backstories/Kairon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +128,15 @@
   },
   "active": "87caa7cc3c768c89",
   "lastOpenFiles": [
+    "Backstories/Kairon.md",
     "Backstories/Gerhard.md",
+    "Assets/Shimanteoroth.webp",
+    "Assets/Tiamat.jpg",
     "The Aspects/Chorazzo.md",
     "The Aspects/Viondrút.md",
     "The Aspects/Shimanteoroth.md",
     "Overarching Plot.md",
     "tes2t.md",
-    "Backstories/Kairon.md",
-    "The Aspects/The Aspects.md",
-    "Assets/Chorazzo.jpg",
-    "Assets/Viondrúit.jpg"
+    "The Aspects/The Aspects.md"
   ]
 }
