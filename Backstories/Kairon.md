@@ -1,4 +1,6 @@
 # Kairon
+![[Kairon.jpg]]
+ ![[Kairon Token.png]]
 ## Origin:
 Kairon is from an ancient draconic bloodline that produces a sorcerer once every generation. The family have been cursed with the Tiefling appearance since the ancient beast entered the bloodline and little is known of the family tree beforehand. The Dragon is known as “The Tempest”, an enormous green dragon that torched village after village in the north searching for magical items and caused titanic storms of fire when towns or villages were spent. One day the beast left the north and was not seen again. Some say he fell victim of one of his many hoarded magical items and was killed, others say he ventured far away, looking for a legendary item that would make him unstoppable.
 

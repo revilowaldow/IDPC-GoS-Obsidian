@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Overarching Plot.md",
+            "file": "The Aspects/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstories/Kairon.md",
+                "file": "The Aspects/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,13 +106,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0d9b3d0abf51446e",
+  "active": "87caa7cc3c768c89",
   "lastOpenFiles": [
-    "Backstories/Kairon.md",
+    "The Aspects/Untitled.md",
     "Overarching Plot.md",
+    "Assets/dragao-no-mar-wallpaper.jpg",
+    "Backstories/Kairon.md",
     "Assets/Viondrúit.jpg",
     "Assets/Green_dragon_variant_AFR.webp",
-    "Assets/dragao-no-mar-wallpaper.jpg",
     "tes2t.md"
   ]
 }
