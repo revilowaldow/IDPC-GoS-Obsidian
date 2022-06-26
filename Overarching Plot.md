@@ -2,5 +2,5 @@
 
 Aspect of Tiamat
 
-5 dragons
+[[The Aspects]]-5 dragons
 (inc Kairon's patron)

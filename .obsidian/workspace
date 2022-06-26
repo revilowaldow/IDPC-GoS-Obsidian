@@ -7,12 +7,8 @@
         "id": "48a485f56fd70c63",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Backstories/Gerhard.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstories/Gerhard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,14 +92,14 @@
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
     "Backstories/Gerhard.md",
+    "Overarching Plot.md",
+    "Backstories/Party Members.md",
+    "The Aspects/The Aspects.md",
+    "The Aspects/Viondrúit.md",
     "Backstories/Nix.md",
     "Backstories/Auberon.md",
     "Locations/Saltmarsh/Saltmarsh Village.md",
     "Assets/Tiamat.jpg",
-    "Backstories/Kairon.md",
-    "Assets/Shimanteoroth.webp",
-    "The Aspects/Chorazzo.md",
-    "The Aspects/Viondrút.md",
-    "The Aspects/Shimanteoroth.md"
+    "Backstories/Kairon.md"
   ]
 }
