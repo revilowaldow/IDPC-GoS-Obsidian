@@ -1,0 +1,3995 @@
+{
+  "monsters": [
+    [
+      "Adranach",
+      {
+        "image": null,
+        "name": "Adranach",
+        "source": "TDCSR",
+        "type": "construct",
+        "subtype": "",
+        "size": "Huge",
+        "alignment": "",
+        "hp": 170,
+        "hit_dice": "20d12 + 40",
+        "ac": 17,
+        "speed": "40 ft., fly 60 ft.",
+        "stats": [
+          23,
+          16,
+          14,
+          8,
+          14,
+          11
+        ],
+        "damage_immunities": "poison, bludgeoning, piercing, slashing from non-magical attacks",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
+        "saves": [
+          {
+            "strength": "1"
+          },
+          {
+            "dexterity": "8"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "1"
+          },
+          {
+            "perception": "7"
+          }
+        ],
+        "senses": "darkvision 120 ft., passive Perception 17",
+        "languages": "understands the languages spoken by its creator but can't speak",
+        "cr": "12",
+        "traits": [
+          {
+            "name": "Arcane Leak",
+            "desc": "When the adranach is reduced to half its hit point maximum (85 hit points), its mithral mask cracks and its arcane form begins to waver, creating a field of unstable magic around it. Any creature that starts its turn within 10 feet of the adranach or enters that area for the first time on a turn takes 10 (3d6) radiant damage. Additionally, if a creature casts a spell within this area, it must make a 14 ability check using its spellcasting ability. On a failure, the spell backfires, consuming the spell slot and dealing 3 (1d6) force damage to the caster for each level of the spell slot that was consumed."
+          },
+          {
+            "name": "Immutable Form",
+            "desc": "The adranach is immune to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The adranach has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Magic Weapons",
+            "desc": "The adranach's weapon attacks are magical."
+          },
+          {
+            "name": "Powerful Build",
+            "desc": "The adranach counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The adranach makes two attacks with its claws."
+          },
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack +11 to hit, one target, reach 5 ft. 32 (4d12 + 6) slashing damage."
+          },
+          {
+            "name": "Force Bolts (Recharge 5-6)",
+            "desc": "The adranach targets up to four creatures it can see within 60 feet of it. Each target must succeed on a 18 Dexterity saving throw or take 28 (8d6) force damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Master Adranach",
+      {
+        "image": null,
+        "name": "Master Adranach",
+        "source": "TDCSR",
+        "type": "construct",
+        "subtype": "",
+        "size": "Gargantuan",
+        "alignment": "",
+        "hp": 290,
+        "hit_dice": "20d20 + 80",
+        "ac": 19,
+        "speed": "60 ft., fly 120 ft.",
+        "stats": [
+          25,
+          16,
+          19,
+          10,
+          14,
+          11
+        ],
+        "damage_immunities": "poison, bludgeoning, piercing, slashing from non-magical attacks",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
+        "saves": [
+          {
+            "strength": "4"
+          },
+          {
+            "dexterity": "0"
+          },
+          {
+            "wisdom": "9"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "4"
+          },
+          {
+            "perception": "6"
+          }
+        ],
+        "senses": "darkvision 360 ft., passive Perception 26",
+        "languages": "the languages spoken by its creator",
+        "cr": "21",
+        "traits": [
+          {
+            "name": "Arcane Leak",
+            "desc": "When the adranach is reduced to half its hit point maximum (145 hit points), its mithral mask cracks and its arcane form begins to waver, creating a field of unstable magic around it. Any creature that starts its turn within 20 feet of the adranach or enters that area for the first time on a turn takes 21 (6d6) radiant damage. Additionally, if a creature casts a spell within this area, it must make a 18 ability check using its spellcasting ability. On a failure, the spell backfires, consuming the spell slot and dealing 7 (2d6) force damage to the caster for each level of the spell slot that was consumed."
+          },
+          {
+            "name": "Immutable Form",
+            "desc": "The adranach is immune to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The adranach has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Magic Weapons",
+            "desc": "The adranach's weapon attacks are magical."
+          },
+          {
+            "name": "Colossal Build",
+            "desc": "The adranach's carrying capacity is doubled, as is the weight it can push, drag, or lift."
+          },
+          {
+            "name": "Slipstream",
+            "desc": "The adranach can cast invisibility on itself at will. While it is invisible, its speed is doubled."
+          },
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "If the adranach fails a saving throw, it can choose to succeed instead."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The adranach makes three attacks: two with its claws and one with its tail."
+          },
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack +14 to hit, one target, reach 5 ft. 33 (4d12 + 7) slashing damage."
+          },
+          {
+            "name": "Tail",
+            "desc": "Melee Weapon Attack +14 to hit, one target, reach 15 ft. 20 (2d12 + 7) bludgeoning damage."
+          },
+          {
+            "name": "Force Bolts (Recharge 5-6)",
+            "desc": "The adranach targets up to six creatures it can see within 120 feet of it. Each target must succeed on a 22 Dexterity saving throw or take 35 (10d6) force damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Claw Attack",
+            "desc": "The adranach makes one claw attack."
+          },
+          {
+            "name": "Vanish (Costs 2 Actions)",
+            "desc": "The adranach casts invisibility and moves up to its walking or flying speed. (This movement doesn't benefit from its Slipstream trait.)"
+          },
+          {
+            "name": "Starry Burst (Costs 3 Actions)",
+            "desc": "A burst of astral energy flares from the adranach's body. Each creature within 60 feet of it must make a 22 Constitution saving throw. On a failed save, a creature takes 27 (5d10) force damage and is blinded until the end of its next turn. On a successful save, the creature takes half as much damage and is not blinded. The adranach then turns invisible until the start of its next turn or until it makes an attack."
+          }
+        ],
+        "spells": []
+      }
+    ],
+    [
+      "Ashari Firetamer",
+      {
+        "image": null,
+        "name": "Ashari Firetamer",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 92,
+        "hit_dice": "16d8 + 20",
+        "ac": 17,
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          15,
+          14,
+          12,
+          18,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "fire",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "arcana": "4"
+          },
+          {
+            "nature": "7"
+          }
+        ],
+        "senses": ", passive Perception 14",
+        "languages": "Common, Druidic, Ignan",
+        "cr": "7",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Scimitar",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 5 (1d6 + 2) slashing damage plus 14 (4d6) fire damage."
+          },
+          {
+            "name": "Flamecharm (Recharges after a Short or Long Rest)",
+            "desc": "The firetamer can cast the dominate monster spell (save 15) on a fire elemental or other elemental fire creature. If the creature has 150 or more hit points, it has advantage on the saving throw."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [
+          "The firetamer is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save 15, +7 to hit with spell attacks). It has the following druid spells prepared:",
+          {
+            "Cantrips (at will)": "druidcraft, mending, produce flame (2d8)"
+          },
+          {
+            "1st level (4 slots)": "cure wounds, faerie fire, jump"
+          },
+          {
+            "2nd level (3 slots)": "flame blade, heat metal, lesser restoration"
+          },
+          {
+            "3rd level (3 slots)": "daylight, dispel magic, protection from energy"
+          },
+          {
+            "4th level (3 slots)": "freedom of movement, wall of fire"
+          },
+          {
+            "5th level (1 slots)": "conjure elemental"
+          }
+        ]
+      }
+    ],
+    [
+      "Ashari Skydancer",
+      {
+        "image": null,
+        "name": "Ashari Skydancer",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 63,
+        "hit_dice": "14d8",
+        "ac": 14,
+        "speed": "30 ft., fly 60 ft. (with {@item skysail|TDCSR})",
+        "stats": [
+          10,
+          18,
+          10,
+          12,
+          16,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": "7"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "7"
+          },
+          {
+            "perception": "6"
+          }
+        ],
+        "senses": ", passive Perception 16",
+        "languages": "Auran, Common, Druidic",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Evasion",
+            "desc": "If the skydancer is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the skydancer instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+          },
+          {
+            "name": "Flyby",
+            "desc": "The skydancer doesn't provoke an {@action opportunity attack|PHB|opportunity attack} when it flies out of an enemy's reach."
+          },
+          {
+            "name": "Skysail",
+            "desc": "The skydancer flies with a special Ashari magic item called a skysail|TDCSR {@homebrew |(see page 199)}. While the skysail|TDCSR|skysail's wings are extended, the skydancer can glide through the air at a speed of 60 feet, but must descend by at least 10 feet at the end of its turn and can't gain altitude."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The skydancer makes two skysail|TDCSR staff attacks."
+          },
+          {
+            "name": "Skysail Staff",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 7 (1d6 + 4) bludgeoning damage. If the skydancer makes this attack while flying, the target must make a 14 Dexterity saving throw, taking 21 (6d6) lightning damage on a failed save, or half as much damage on a successful one."
+          },
+          {
+            "name": "Fly (1/Day)",
+            "desc": "The skydancer uses its skysail|TDCSR to cast fly on itself for up to 1 minute (no concentration required)."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Slow Fall",
+            "desc": "When the skydancer takes falling damage, it can reduce the damage by half."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "The skydancer is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save 14, +6 to hit with spell attacks). It has the following druid spells prepared:",
+          {
+            "Cantrips (at will)": "guidance, shillelagh"
+          },
+          {
+            "1st level (4 slots)": "entangle, fog cloud, jump"
+          },
+          {
+            "2nd level (2 slots)": "gust of wind, pass without trace"
+          }
+        ]
+      }
+    ],
+    [
+      "Ashari Stoneguard",
+      {
+        "image": null,
+        "name": "Ashari Stoneguard",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 152,
+        "hit_dice": "16d8 + 80",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          10,
+          20,
+          10,
+          14,
+          9
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "bludgeoning, piercing, slashing from non-magical attacks, when using skin-to-stone",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "petrified",
+        "saves": [
+          {
+            "strength": "7"
+          },
+          {
+            "constitution": "8"
+          },
+          {
+            "wisdom": "5"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "7"
+          },
+          {
+            "intimidation": "2"
+          }
+        ],
+        "senses": "tremorsense 30 ft., passive Perception 12",
+        "languages": "Common, Druidic, Terran",
+        "cr": "7",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The stoneguard makes three granite maul attacks."
+          },
+          {
+            "name": "Granite Maul",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) bludgeoning damage. If the attack hits, the stoneguard can also immediately cast thunderwave as a bonus action. This casting uses a spell slot but requires no components."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Sentinel",
+            "desc": "When a creature within 5 feet of the stoneguard attacks a target other than the stoneguard, the stoneguard can make one attack against that creature."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "The stoneguard is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save 13, +5 to hit with spell attacks). It has the following druid spells prepared:",
+          {
+            "Cantrips (at will)": "druidcraft, resistance"
+          },
+          {
+            "1st level (4 slots)": "goodberry, speak with animals, thunderwave"
+          },
+          {
+            "2nd level (2 slots)": "hold person, spike growth"
+          }
+        ]
+      }
+    ],
+    [
+      "Ashari Waverider",
+      {
+        "image": null,
+        "name": "Ashari Waverider",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 77,
+        "hit_dice": "14d8 + 14",
+        "ac": 14,
+        "speed": "30 ft.",
+        "stats": [
+          15,
+          14,
+          12,
+          10,
+          16,
+          13
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "cold",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "constitution": "4"
+          },
+          {
+            "wisdom": "6"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "8"
+          },
+          {
+            "nature": "3"
+          }
+        ],
+        "senses": ", passive Perception 13",
+        "languages": "Aquan, Common, Druidic",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Healing Tides",
+            "desc": "Whenever the waverider casts a spell of 1st level or higher that affects a non-hostile creature, that creature regains 3 hit points (in addition to any healing the spell may provide)."
+          },
+          {
+            "name": "Marine Empathy",
+            "desc": "The waverider can speak with and understand aquatic plants and animals."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Harpoon",
+            "desc": "Melee / Ranged Weapon Attack +5 to hit, reach 5 ft., range 20/60 ft., one target. 7 (1d10 + 2) piercing damage. If the target is a Large or smaller creature, it must succeed on a Strength contest against the waverider or be pulled up to 20 feet toward the waverider. Attacks with this weapon made while underwater do not have disadvantage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Fishform (Recharges after a Short or Long Rest)",
+            "desc": "The waverider can transform into a hunter shark or a giant octopus. Its game statistics are replaced by the statistics of the chosen creature, but the waverider retains its alignment, personality, and Intelligence, Wisdom, and Charisma scores. It also retains its skill proficiencies, in addition to gaining those of the creature it transforms into. When the waverider is reduced to 0 hit points, falls unconscious, or dies in this form, it reverts to its humanoid form. It can remain in fishform for up to 3 hours or until it reverts to its humanoid form as a bonus action."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "The waverider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save 14, +6 to hit with spell attacks). It has the following druid spells prepared:",
+          {
+            "Cantrips (at will)": "druidcraft, poison spray (2d12), resistance"
+          },
+          {
+            "1st level (4 slots)": "create or destroy water, cure wounds, healing word"
+          },
+          {
+            "2nd level (3 slots)": "animal messenger, lesser restoration, moonbeam"
+          },
+          {
+            "3rd level (3 slots)": "conjure animals (aquatic beasts only), water breathing, water walk"
+          },
+          {
+            "4th level (1 slots)": "control water"
+          }
+        ]
+      }
+    ],
+    [
+      "Cinderslag Elemental",
+      {
+        "image": null,
+        "name": "Cinderslag Elemental",
+        "source": "TDCSR",
+        "type": "elemental",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "",
+        "hp": 102,
+        "hit_dice": "12d10 + 36",
+        "ac": 15,
+        "speed": "20 ft., burrow 40 ft.",
+        "stats": [
+          15,
+          12,
+          17,
+          1,
+          10,
+          3
+        ],
+        "damage_immunities": "fire, poison",
+        "damage_resistances": "bludgeoning, piercing, slashing from non-magical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "",
+        "cr": "8",
+        "traits": [
+          {
+            "name": "Searing Presence",
+            "desc": "Any creature that starts its turn within 5 feet of the elemental takes 5 (1d10) fire damage."
+          },
+          {
+            "name": "Molten Form",
+            "desc": "The elemental can move through a space as narrow as 1 inch wide without squeezing. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and must succeed on a 14 Strength saving throw or be restrained. A creature that starts its turn restrained in this way takes 5 (1d10) fire damage. It can repeat the saving throw at the end of each of its turns, freeing itself on a success."
+          },
+          {
+            "name": "Water Susceptibility",
+            "desc": "For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The elemental makes two slam attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 12 (3d6 + 2) bludgeoning damage plus 5 (1d10) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns."
+          },
+          {
+            "name": "Molten Gaze",
+            "desc": "Ranged Spell Attack +8 to hit, range 30 ft., one target. 21 (6d6) fire damage, and the target must succeed on a 14 Constitution saving throw or have one nonmagical item of the elemental's choice that the target is carrying instantly melt or burn to cinders."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Clasp Cutthroat",
+      {
+        "image": null,
+        "name": "Clasp Cutthroat",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 44,
+        "hit_dice": "8d8 + 8",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          18,
+          12,
+          8,
+          14,
+          9
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": "6"
+          }
+        ],
+        "skillsaves": [
+          {
+            "deception": "3"
+          },
+          {
+            "stealth": "8"
+          }
+        ],
+        "senses": ", passive Perception 12",
+        "languages": "Common, Thieves' cant",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Sneak Attack (1/Turn)",
+            "desc": "The cutthroat deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the cutthroat that isn't incapacitated and the cutthroat doesn't have disadvantage on the attack roll."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The cutthroat makes two shortsword or dagger attacks."
+          },
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack +6 to hit, reach 5 ft., one target. 7 (1d6 + 4) piercing damage."
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee / Ranged Weapon Attack +6 to hit, reach 5 ft., range 20/60 ft., one target. 6 (1d4 + 4) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Uncanny Dodge",
+            "desc": "The cutthroat halves the damage that it takes from an attack that hits it. The cutthroat must be able to see the attacker."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Clasp Enforcer",
+      {
+        "image": null,
+        "name": "Clasp Enforcer",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 102,
+        "hit_dice": "12d8 + 48",
+        "ac": 16,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          12,
+          18,
+          8,
+          11,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "athletics": "6"
+          },
+          {
+            "intimidation": "8"
+          }
+        ],
+        "senses": ", passive Perception 10",
+        "languages": "Common, Thieves' cant",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Intimidating Presence",
+            "desc": "Whenever the enforcer hits a creature with a melee attack, the target must succeed on a 15 Wisdom saving throw or be frightened of the enforcer until the end of the target's next turn. The enforcer and its allies have advantage on attack rolls against any creature frightened in this way. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the enforcer's Intimidating Presence for the next 24 hours."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The enforcer makes three warhammer attacks."
+          },
+          {
+            "name": "Warhammer",
+            "desc": "Melee Weapon Attack +6 to hit, reach 5 ft., one target. 8 (1d10 + 3) bludgeoning damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Cold Snap Spirit",
+      {
+        "image": null,
+        "name": "Cold Snap Spirit",
+        "source": "TDCSR",
+        "type": "elemental",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 78,
+        "hit_dice": "12d8 + 24",
+        "ac": 18,
+        "speed": "30 ft., fly 30 ft.",
+        "stats": [
+          10,
+          20,
+          14,
+          2,
+          7,
+          3
+        ],
+        "damage_immunities": "cold, poison",
+        "damage_resistances": "slashing, piercing from nonmagical attacks",
+        "damage_vulnerabilities": "fire",
+        "condition_immunities": "charmed, frightened, poisoned, paralyzed, stunned",
+        "saves": [
+          {
+            "dexterity": "8"
+          },
+          {
+            "wisdom": "1"
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": "1"
+          },
+          {
+            "stealth": "8"
+          }
+        ],
+        "senses": "darkvision 120 ft., passive Perception 11",
+        "languages": "",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Sense Heat",
+            "desc": "The cold snap spirit can sense heat within 60 feet of it."
+          },
+          {
+            "name": "Frozen Aura",
+            "desc": "Any creature that starts its turn within 5 feet of a cold snap spirit takes 5 (1d10) cold damage."
+          },
+          {
+            "name": "Jealous Spirit",
+            "desc": "If the spirit attacks a creature that is within 5 feet of another cold snap spirit, the attack deals an extra 10 (3d6) cold damage on a hit."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Consume Warmth",
+            "desc": "Melee Spell Attack +8 to hit, reach 5 ft., one target. 21 (6d6) cold damage, and the target's speed is halved until the end of the spirit's next turn."
+          },
+          {
+            "name": "Subzero Wave (1/Day)",
+            "desc": "Each creature within 30 feet of the cold snap spirit must make a 15 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Cyclops Stormcaller",
+      {
+        "image": null,
+        "name": "Cyclops Stormcaller",
+        "source": "TDCSR",
+        "type": "giant",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "",
+        "hp": 114,
+        "hit_dice": "12d10 + 48",
+        "ac": 18,
+        "speed": "30 ft., fly 60 ft. (stormy conditions only)",
+        "stats": [
+          16,
+          10,
+          18,
+          15,
+          8,
+          20
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "5"
+          },
+          {
+            "dexterity": "2"
+          },
+          {
+            "constitution": "6"
+          },
+          {
+            "intelligence": "4"
+          },
+          {
+            "wisdom": "5"
+          },
+          {
+            "charisma": "1"
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": "6"
+          }
+        ],
+        "senses": ", passive Perception 9",
+        "languages": "Common, Elvish, Giant",
+        "cr": "10",
+        "traits": [
+          {
+            "name": "One-Eyed",
+            "desc": "The cyclops has disadvantage on any attack roll against a target more than 30 feet away."
+          },
+          {
+            "name": "Storm Wings",
+            "desc": "While outdoors in stormy conditions, the cyclops has a flying speed of 60 feet."
+          },
+          {
+            "name": "Supernatural Focus",
+            "desc": "The cyclops has advantage on Constitution saving throws made to maintain concentration on spells, and cannot lose concentration because of turbulent weather."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The cyclops makes two ice claw attacks."
+          },
+          {
+            "name": "Ice Claw",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 13 (3d6 + 3) slashing damage plus 3 (1d6) cold damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [
+          "The cyclops's innate spellcasting ability is Charisma (spell save 17, +9 to hit with spell attacks). The cyclops can innately cast the following spells, requiring no material components:",
+          {
+            "At will": "ray of frost (3d8), water walk"
+          },
+          {
+            "Daily (3e)": "ice storm, sleet storm, wind wall"
+          },
+          {
+            "Daily (1e)": "control weather, storm of vengeance"
+          }
+        ]
+      }
+    ],
+    [
+      "Demonfeed Spider",
+      {
+        "image": null,
+        "name": "Demonfeed Spider",
+        "source": "TDCSR",
+        "type": "fiend",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "chaotic evil",
+        "hp": 75,
+        "hit_dice": "10d10 + 20",
+        "ac": 16,
+        "speed": "40 ft., climb 40 ft.",
+        "stats": [
+          16,
+          16,
+          15,
+          6,
+          10,
+          6
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "cold, fire, lightning",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "poisoned",
+        "saves": [
+          {
+            "dexterity": "7"
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": "3"
+          },
+          {
+            "stealth": "7"
+          }
+        ],
+        "senses": "darkvision 120 ft., passive Perception 13",
+        "languages": "",
+        "cr": "8",
+        "traits": [
+          {
+            "name": "Spider Climb",
+            "desc": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Web Walker",
+            "desc": "The spider ignores movement restrictions caused by webbing."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The spider makes two melee attacks: one with its bite and one with its stinger; or the spider can make one attack with its web spinner followed by a melee attack."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 8 (1d10 + 3) piercing damage, and the target must make a 14 Constitution saving throw. On a failed save, the target takes 27 (6d8) poison damage and is poisoned for 1 minute. On a successful save, the target takes half as much damage and isn't poisoned. If this poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way."
+          },
+          {
+            "name": "Stinger",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 9 (1d12 + 3) piercing damage, and the target must succeed on a 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+          },
+          {
+            "name": "Web Spinner",
+            "desc": "Ranged Weapon Attack +7 to hit, reach 40 ft., one target.  The target is pulled 40 feet toward the spider and is grappled (escape 14). The spider can {@action grapple} only one creature at a time in this way. As an action, the spider can cocoon a creature it has grappled in webbing, causing it to be restrained and ending the grappled condition."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Arterial Spray",
+            "desc": "When the spider takes damage while below half its hit point maximum, it can spray poisonous blood in a 15-foot cone. Each creature in the area must make a 14 Constitution saving throw. On a failed save, a creature takes 13 (3d8) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. If this poison damage reduces a creature to 0 hit points, the creature is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Demonfeed Spiderling",
+      {
+        "image": null,
+        "name": "Demonfeed Spiderling",
+        "source": "TDCSR",
+        "type": "fiend",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 16,
+        "hit_dice": "3d8 + 3",
+        "ac": 13,
+        "speed": "30 ft., climb 30 ft.",
+        "stats": [
+          10,
+          12,
+          12,
+          2,
+          7,
+          3
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "cold, fire, lightning",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "poisoned",
+        "saves": [
+          {
+            "dexterity": "3"
+          }
+        ],
+        "skillsaves": [
+          {
+            "stealth": "5"
+          },
+          {
+            "perception": "0"
+          }
+        ],
+        "senses": "darkvision 120 ft., passive Perception 10",
+        "languages": "",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Spider Climb",
+            "desc": "The spiderling can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Web Walker",
+            "desc": "The spiderling ignores movement restrictions caused by webbing."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +3 to hit, reach 5 ft., one target. 5 (1d8 + 1) piercing damage, and the target must make a 13 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Ember Roc",
+      {
+        "image": null,
+        "name": "Ember Roc",
+        "source": "TDCSR",
+        "type": "monstrosity",
+        "subtype": "",
+        "size": "Gargantuan",
+        "alignment": "",
+        "hp": 232,
+        "hit_dice": "16d20 + 64",
+        "ac": 14,
+        "speed": "20 ft., fly 120 ft.",
+        "stats": [
+          26,
+          10,
+          18,
+          4,
+          11,
+          9
+        ],
+        "damage_immunities": "fire",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "dexterity": "5"
+          },
+          {
+            "constitution": "9"
+          },
+          {
+            "wisdom": "5"
+          },
+          {
+            "charisma": "4"
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": "5"
+          }
+        ],
+        "senses": ", passive Perception 15",
+        "languages": "understands Ignan but can't speak",
+        "cr": "14",
+        "traits": [
+          {
+            "name": "Keen Sight",
+            "desc": "The roc has advantage on Wisdom (Perception) checks that rely on sight."
+          },
+          {
+            "name": "Searing Presence",
+            "desc": "Any creature that starts its turn within 5 feet of the roc takes 7 (2d6) fire damage."
+          },
+          {
+            "name": "Illumination",
+            "desc": "The roc sheds bright light in a 40-foot radius and dim light for an additional 40 feet."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The roc makes two attacks: one with its beak and one with its talons."
+          },
+          {
+            "name": "Beak",
+            "desc": "Melee Weapon Attack +13 to hit, reach 10 ft., one target. 26 (4d8 + 8) piercing damage and 7 (2d6) fire damage."
+          },
+          {
+            "name": "Talons",
+            "desc": "Melee Weapon Attack +13 to hit, reach 5 ft., one target. 22 (4d6 + 8) slashing damage and 7 (2d6) fire damage."
+          },
+          {
+            "name": "Inferno (Recharge 5-6)",
+            "desc": "The roc beats its wings, creating a swirling conflagration. Each creature within 30 feet of the roc must succeed on a 18 Dexterity saving throw or take 21 (6d6) fire damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Cobalt Golem",
+      {
+        "image": null,
+        "name": "Cobalt Golem",
+        "source": "TDCSR",
+        "type": "construct",
+        "subtype": "",
+        "size": "Huge",
+        "alignment": "",
+        "hp": 300,
+        "hit_dice": "24d12 + 144",
+        "ac": 21,
+        "speed": "40 ft.",
+        "stats": [
+          28,
+          9,
+          22,
+          3,
+          11,
+          1
+        ],
+        "damage_immunities": "fire, lightning, poison, psychic, bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 120 ft., passive Perception 10",
+        "languages": "understands the languages of its creator but can't speak",
+        "cr": "18",
+        "traits": [
+          {
+            "name": "Conductive Body",
+            "desc": "Whenever the golem is subjected to lightning damage, it takes no damage. Instead, its weapon attacks deal an extra 11 (2d10) lightning damage until the end of its next turn. Also until the end of the golem's next turn, any creature that touches it or hits it with a melee attack while within 5 feet of it takes 11 (2d10) lightning damage."
+          },
+          {
+            "name": "Immutable Form",
+            "desc": "The golem is immune to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The golem has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Magic Weapons",
+            "desc": "The golem's weapon attacks are magical."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The golem makes two attacks: one with its slam and one with its sword, or it uses its Magnetic Pulse and then its Spinning Cleave."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack +15 to hit, reach 5 ft., one target. 25 (3d10 + 9) bludgeoning damage."
+          },
+          {
+            "name": "Sword",
+            "desc": "Melee Weapon Attack +15 to hit, reach 10 ft., one target. 28 (3d12 + 9) slashing damage."
+          },
+          {
+            "name": "Spinning Cleave",
+            "desc": "The golem makes a sword attack against each creature within 10 feet of it."
+          },
+          {
+            "name": "Magnetic Pulse (Recharge 6)",
+            "desc": "The golem raises its arms and unleashes a magnetic pulse. All unattended metal objects within 30 feet of it are pulled to an unoccupied space within 5 feet of the golem. Each creature wearing metal armor or made of metal within 30 feet of the golem must succeed on a 20 Strength saving throw or be pulled to an unoccupied space within 5 feet of the golem, then fall prone."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Forge Guardian",
+      {
+        "image": null,
+        "name": "Forge Guardian",
+        "source": "TDCSR",
+        "type": "construct",
+        "subtype": "",
+        "size": "Gargantuan",
+        "alignment": "",
+        "hp": 420,
+        "hit_dice": "24d20 + 168",
+        "ac": 24,
+        "speed": "50 ft.",
+        "stats": [
+          30,
+          10,
+          24,
+          3,
+          11,
+          1
+        ],
+        "damage_immunities": "fire, poison, psychic, bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
+        "saves": [
+          {
+            "strength": "8"
+          },
+          {
+            "constitution": "5"
+          }
+        ],
+        "skillsaves": [],
+        "senses": "truesight 120 ft., passive Perception 10",
+        "languages": "",
+        "cr": "27",
+        "traits": [
+          {
+            "name": "Fire Absorption",
+            "desc": "Whenever the guardian is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt."
+          },
+          {
+            "name": "Immutable Form",
+            "desc": "The guardian is immune to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The guardian has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Magic Weapons",
+            "desc": "The guardian's weapon attacks are magical."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The guardian makes two melee attacks."
+          },
+          {
+            "name": "Runeblade",
+            "desc": "Melee Weapon Attack +18 to hit, reach 15 ft., one target. 36 (4d12 + 10) slashing damage, and the target must succeed on a 23 Constitution saving throw or be blinded until it deals damage to the guardian."
+          },
+          {
+            "name": "Kick",
+            "desc": "Melee Weapon Attack +18 to hit, reach 10 ft., one target. 23 (2d12 + 10) bludgeoning damage, and the target is pushed up to 15 feet away from the guardian and knocked prone."
+          },
+          {
+            "name": "Bladestorm (Recharge 5-6)",
+            "desc": "The guardian makes a Runeblade attack against every creature within 15 feet of it. On a hit, a target is also pushed up to 15 feet away from the guardian and knocked prone."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Runeblade",
+            "desc": "The guardian makes one Runeblade attack."
+          },
+          {
+            "name": "Kick",
+            "desc": "The guardian makes one Kick attack."
+          },
+          {
+            "name": "Trample (Costs 2 Actions)",
+            "desc": "The guardian moves up to 50 feet without triggering {@action opportunity attack|PHB|opportunity attacks}, and can pass through other creature's spaces. Each creature whose space the guardian passes through must make a 23 Dexterity saving throw. On a failure, the creature takes 23 (2d12 + 10) bludgeoning damage and is knocked prone. On a success, the creature takes half as much damage and isn't knocked prone. Any creature that shares the guardian's space when it stops this movement is pushed out of its space into the nearest unoccupied space."
+          }
+        ],
+        "spells": []
+      }
+    ],
+    [
+      "Mage Hunter Golem",
+      {
+        "image": null,
+        "name": "Mage Hunter Golem",
+        "source": "TDCSR",
+        "type": "construct",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "",
+        "hp": 243,
+        "hit_dice": "18d10 + 144",
+        "ac": 20,
+        "speed": "30 ft., fly 20 ft.",
+        "stats": [
+          24,
+          9,
+          26,
+          3,
+          11,
+          1
+        ],
+        "damage_immunities": "poison, psychic, bludgeoning, piercing, slashing from nonmagical weapons that aren't adamantine",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
+        "saves": [
+          {
+            "wisdom": "5"
+          },
+          {
+            "charisma": "0"
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": "5"
+          }
+        ],
+        "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 15",
+        "languages": "understands the languages of its creator but can't speak",
+        "cr": "15",
+        "traits": [
+          {
+            "name": "Antimagic Cone",
+            "desc": "The golem creates an area of antimagic, as in the antimagic field spell, in a 60-foot cone originating from it. At the start of each of its turns, the golem decides which way the cone faces and whether the cone is active."
+          },
+          {
+            "name": "Immutable Form",
+            "desc": "The golem is immune to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Magic Absorption",
+            "desc": "Whenever the golem is subjected to a damage-dealing spell of 4th level or lower, it takes no damage and instead regains a number of hit points equal to the damage dealt."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The golem has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Magic Weapons",
+            "desc": "The golem's weapon attacks are magical."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The golem uses its Antimagic Jolt and makes two melee attacks, or it makes three melee attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack +12 to hit, reach 5 ft., one target. 20 (3d8 + 7) bludgeoning damage."
+          },
+          {
+            "name": "Claw (Recharge 5-6)",
+            "desc": "Melee Weapon Attack +12 to hit, reach 5 ft., one target. 11 (1d8 + 7) bludgeoning damage, and the target must succeed on a 16 Dexterity saving throw or have a magic collar placed upon its neck. While the target wears the collar, it is magically prevented from speaking and cannot cast any spell. A successful 25 Dexterity check using thieves' tools|PHB removes the collar."
+          },
+          {
+            "name": "Antimagic Jolt",
+            "desc": "Each creature within the golem's Antimagic Cone that has the ability to cast a spell of 1st level or higher must make a 18 Wisdom saving throw, taking 21 (6d6) psychic damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Platinum Golem",
+      {
+        "image": null,
+        "name": "Platinum Golem",
+        "source": "TDCSR",
+        "type": "construct",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "",
+        "hp": 189,
+        "hit_dice": "18d10 + 90",
+        "ac": 21,
+        "speed": "30 ft.",
+        "stats": [
+          22,
+          10,
+          21,
+          3,
+          12,
+          1
+        ],
+        "damage_immunities": "acid, cold, fire, poison, psychic, bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 120 ft., passive Perception 11",
+        "languages": "understands the languages of its creator but can't speak",
+        "cr": "16",
+        "traits": [
+          {
+            "name": "Divine Custodian",
+            "desc": "When the golem hits a creature with an {@action opportunity attack}, that creature's speed becomes 0 for the rest of the turn."
+          },
+          {
+            "name": "Immutable Form",
+            "desc": "The golem is immune to any spell or effect that would alter its form."
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The golem has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Magic Weapons",
+            "desc": "The golem's weapon attacks are magical."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The golem makes two melee attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack +11 to hit, reach 5 ft., one target. 19 (3d8 + 6) piercing damage."
+          },
+          {
+            "name": "Mace",
+            "desc": "Melee Weapon Attack +11 to hit, reach 10 ft., one target. 22 (3d10 + 6) bludgeoning damage."
+          },
+          {
+            "name": "Radiant Blast (Recharge 6)",
+            "desc": "The golem emits a burst of radiant light in a 20-foot radius. Each creature in the area must make a 18 Constitution saving throw. On a failed save, a creature takes 18 (4d8) radiant damage and is blinded until the end of its next turn. On a success, the creature takes half as much damage and is not blinded."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Divine Judgment",
+            "desc": "When a creature within 10 feet of the golem makes an attack against a target other than the golem, the golem can make a mace attack against that creature."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Jourrael, the Caedogeist",
+      {
+        "image": null,
+        "name": "Jourrael, the Caedogeist",
+        "source": "TDCSR",
+        "type": {
+          "type": "fiend",
+          "tags": [
+            "drow"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "chaotic evil",
+        "hp": 152,
+        "hit_dice": "16d8 + 80",
+        "ac": 19,
+        "speed": "80 ft., fly 40 ft.",
+        "stats": [
+          13,
+          24,
+          20,
+          14,
+          17,
+          15
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "acid, fire, lightning, cold, thunder, bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "frightened, grappled, paralyzed, poisoned, prone, restrained",
+        "saves": [
+          {
+            "dexterity": "2"
+          },
+          {
+            "constitution": "0"
+          },
+          {
+            "wisdom": "8"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "2"
+          },
+          {
+            "perception": "3"
+          },
+          {
+            "stealth": "7"
+          }
+        ],
+        "senses": "darkvision 120 ft., passive Perception 23",
+        "languages": "Abyssal, Common, Infernal, Undercommon",
+        "cr": "15",
+        "traits": [
+          {
+            "name": "Incorporeal Movement",
+            "desc": "Jourrael can move through other creatures and objects as if they were difficult terrain. They take 5 (1d10) force damage if they end their turn inside an object."
+          },
+          {
+            "name": "Sneak Attack (1/Turn)",
+            "desc": "Jourrael deals an extra 35 (10d6) damage when they hit a target with a weapon attack and have advantage on the attack roll, or when the target is within 5 feet of an ally of Jourrael that isn't incapacitated and Jourrael doesn't have disadvantage on the attack roll."
+          },
+          {
+            "name": "Inevitable",
+            "desc": "If Jourrael is reduced to 0 hit points, they do not fall unconscious but becomes an incorporeal spirit for 24 hours. During this time, Jourrael can't return to their original form until they returns to full hit points. In this form, they are invisible, can't attack or interact with corporeal creatures or objects, and can't be targeted by spells. After 24 hours have passed, Jourrael regains 1 hit point and returns to their original form with four levels of exhaustion."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Jourrael makes two melee attacks or two ranged attacks."
+          },
+          {
+            "name": "Spectral Blade",
+            "desc": "Melee Weapon Attack +12 to hit, reach 5 ft., one target. 10 (1d6 + 7) slashing damage, and the target must succeed on a 14 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake."
+          },
+          {
+            "name": "Void Dagger",
+            "desc": "Ranged Weapon Attack +12 to hit, range 60/120 ft., one target. 9 (1d4 + 7) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parry",
+            "desc": "Jourrael adds 5 to her AC against one melee attack that would hit her. To do so, she must see the attacker"
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "Jourrael's spellcasting ability is Charisma (spell save 15). She can innately cast the following spells, requiring no material components:",
+          {
+            "At will": "dancing lights"
+          },
+          {
+            "Daily (1e)": "darkness, faerie fire"
+          }
+        ]
+      }
+    ],
+    [
+      "Kraghammer Goat-Knight",
+      {
+        "image": null,
+        "name": "Kraghammer Goat-Knight",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "dwarf"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "ac": 20,
+        "speed": "25 ft.",
+        "stats": [
+          17,
+          8,
+          14,
+          10,
+          11,
+          16
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "poison",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "5"
+          },
+          {
+            "dexterity": "1"
+          },
+          {
+            "constitution": "4"
+          },
+          {
+            "intelligence": "2"
+          },
+          {
+            "wisdom": "2"
+          },
+          {
+            "charisma": "5"
+          }
+        ],
+        "skillsaves": [
+          {
+            "nature": "2"
+          },
+          {
+            "religion": "4"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common, Dwarvish",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Aura of Protection",
+            "desc": "Whenever the goat-knight or a creature friendly to it within 10 feet of it makes a saving throw, that creature gains a +2 bonus (included in the goat-knight's saving throws above). The goat-knight must be conscious to grant and gain this bonus."
+          },
+          {
+            "name": "Divine Health",
+            "desc": "The goat-knight is immune to disease."
+          },
+          {
+            "name": "Dwarven Resilience",
+            "desc": "The goat-knight has resistance to poison damage and advantage on saving throws against poison."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The goat-knight makes two warhammer attacks."
+          },
+          {
+            "name": "Warhammer",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [
+          "The goat-knight is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save 13, +5 to hit with spell attacks). It has the following paladin spells prepared:",
+          {
+            "1st level (4 slots)": "bless, cure wounds, protection from evil and good, sanctuary, shield of faith"
+          },
+          {
+            "2nd level (2 slots)": "branding smite, find steed (Goat-Knight Steed|TDCSR only), lesser restoration, zone of truth"
+          }
+        ]
+      }
+    ],
+    [
+      "Magma Landshark",
+      {
+        "image": null,
+        "name": "Magma Landshark",
+        "source": "TDCSR",
+        "type": "elemental",
+        "subtype": "",
+        "size": "Huge",
+        "alignment": "",
+        "hp": 150,
+        "hit_dice": "12d12 + 72",
+        "ac": 18,
+        "speed": "50 ft., burrow 50 ft., swim 50 ft. (lava only)",
+        "stats": [
+          22,
+          11,
+          22,
+          2,
+          14,
+          5
+        ],
+        "damage_immunities": "fire",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "perception": "7"
+          }
+        ],
+        "senses": "darkvision 60 ft., tremorsense 120 ft., passive Perception 17",
+        "languages": "",
+        "cr": "14",
+        "traits": [
+          {
+            "name": "Searing Presence",
+            "desc": "Any creature that starts its turn within 10 feet of the landshark takes 11 (2d10) fire damage."
+          },
+          {
+            "name": "Standing Leap",
+            "desc": "The landshark's long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start."
+          },
+          {
+            "name": "Illumination",
+            "desc": "The landshark sheds bright light in a 15-foot radius and dim light for an additional 15 feet."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +11 to hit, reach 5 ft., one target. 45 (6d12 + 6) piercing damage, and 14 (4d6) fire damage. If the target is a Large or smaller creature, it must succeed on a 18 Dexterity saving throw or be swallowed by the landshark. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the landshark, and it takes 42 (12d6) fire damage at the start of each of the landshark's turns.\nIf the landshark takes 30 damage or more on a single turn from a creature inside it, the landshark must succeed on a 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the landshark. If the landshark dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone."
+          },
+          {
+            "name": "Deadly Leap",
+            "desc": "If the landshark jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a 18 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 27 (6d6 + 6) bludgeoning damage plus 21 (6d6) fire damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the landshark's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the landshark's space."
+          },
+          {
+            "name": "Lava Pool (Recharge 6)",
+            "desc": "If the landshark is on solid ground, it melts the area around it, creating a pool of lava in a 10-foot radius. Any creature that starts its turn in the area or enters it for the first time on a turn takes 44 (8d10) fire damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Young Magma Landshark",
+      {
+        "image": null,
+        "name": "Young Magma Landshark",
+        "source": "TDCSR",
+        "type": "elemental",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "",
+        "hp": 105,
+        "hit_dice": "10d10 + 50",
+        "ac": 16,
+        "speed": "40 ft., burrow 40 ft., swim 40 ft. (lava only)",
+        "stats": [
+          20,
+          11,
+          21,
+          2,
+          10,
+          5
+        ],
+        "damage_immunities": "fire",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "perception": "4"
+          }
+        ],
+        "senses": "darkvision 60 ft., tremorsense 120 ft., passive Perception 14",
+        "languages": "",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Searing Presence",
+            "desc": "Any creature that starts its turn within 10 feet of the landshark takes 11 (2d10) fire damage."
+          },
+          {
+            "name": "Standing Leap",
+            "desc": "The landshark's long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start."
+          },
+          {
+            "name": "Illumination",
+            "desc": "The landshark sheds bright light in a 15-foot radius and dim light for an additional 15 feet."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +9 to hit, reach 5 ft., one target. 31 (4d12 + 5) piercing damage, and 14 (4d6) fire damage."
+          },
+          {
+            "name": "Deadly Leap",
+            "desc": "If the landshark jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 19 (4d6 + 5) bludgeoning damage plus 14 (4d6) fire damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the landshark's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the land-shark's space."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Plainscow",
+      {
+        "image": null,
+        "name": "Plainscow",
+        "source": "TDCSR",
+        "type": "beast",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "",
+        "hp": 42,
+        "hit_dice": "5d10 + 15",
+        "ac": 13,
+        "speed": "40 ft.",
+        "stats": [
+          18,
+          8,
+          16,
+          2,
+          10,
+          6
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "insight": "2"
+          }
+        ],
+        "senses": ", passive Perception 10",
+        "languages": "",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Trampling Charge",
+            "desc": "If the plainscow moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a 14 Strength saving throw or be knocked prone. If the target is prone, the plainscow can make another attack with its hooves as a bonus action."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Hooves",
+            "desc": "Melee Weapon Attack +6 to hit, reach 5 ft., one target. 11 (2d6 + 4) bludgeoning damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Ravager Slaughter Lord",
+      {
+        "image": null,
+        "name": "Ravager Slaughter Lord",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Large",
+        "alignment": "chaotic evil",
+        "hp": 157,
+        "hit_dice": "15d10 + 75",
+        "ac": 17,
+        "speed": "30 ft.",
+        "stats": [
+          22,
+          14,
+          20,
+          12,
+          16,
+          16
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "0"
+          },
+          {
+            "constitution": "9"
+          },
+          {
+            "wisdom": "7"
+          }
+        ],
+        "skillsaves": [
+          {
+            "intimidation": "1"
+          },
+          {
+            "religion": "5"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "Abyssal, Common, one other language",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Legendary Resistance (2/Day)",
+            "desc": "If the Slaughter Lord fails a saving throw, it can choose to succeed instead."
+          },
+          {
+            "name": "Unarmored Defense",
+            "desc": "While the Slaughter Lord is wearing no armor and not wielding a shield|PHB, its AC includes its Constitution modifier."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Slaughter Lord makes four attacks with its dual greatswords or three attacks with its spear."
+          },
+          {
+            "name": "Dual Greatswords",
+            "desc": "Melee Weapon Attack +10 to hit, reach 5 ft., one target. 13 (2d6 + 6) piercing damage plus 3 (1d6) fire damage."
+          },
+          {
+            "name": "Spear",
+            "desc": "Melee / Ranged Weapon Attack +10 to hit, range 20/60 ft., one target. 13 (2d6 + 6) piercing damage plus 3 (1d6) fire damage, or 15 (2d8 + 6) piercing damage plus 3 (1d6) fire damage if used with both hands to make a melee attack."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Attack",
+            "desc": "The Slaughter Lord makes a spear or dual greatswords attack."
+          },
+          {
+            "name": "Move",
+            "desc": "The Slaughter Lord moves up to half its speed."
+          },
+          {
+            "name": "Cast a Spell (Costs 3 Actions)",
+            "desc": "The Slaughter Lord {@action cast a spell|PHB|casts an innate spell}."
+          }
+        ],
+        "spells": [
+          "The Slaughter Lord's innate spellcasting ability is Wisdom (spell save 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:",
+          {
+            "At will": "thaumaturgy"
+          },
+          {
+            "Daily (3e)": "flame strike, spirit guardians"
+          },
+          {
+            "Daily (1e)": "control weather, divine word, fire storm"
+          }
+        ]
+      }
+    ],
+    [
+      "Ravager Stabby-Stabber",
+      {
+        "image": null,
+        "name": "Ravager Stabby-Stabber",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Small",
+        "alignment": "chaotic evil",
+        "hp": 36,
+        "hit_dice": "8d6 + 8",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          16,
+          12,
+          10,
+          8,
+          7
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed",
+        "saves": [
+          {
+            "wisdom": "1"
+          }
+        ],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft., passive Perception 9",
+        "languages": "Common, one other language",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Stabby Frenzy",
+            "desc": "When the stabby-stabber hits with a melee attack, it can attack again and continue making additional attacks until it misses. The stabby-stabber cannot move between the attacks made with this trait."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) piercing damage."
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee / Ranged Weapon Attack +5 to hit, reach 5 ft., range 20/60 ft., one target. 5 (1d4 + 3) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Remnant Chosen",
+      {
+        "image": null,
+        "name": "Remnant Chosen",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 117,
+        "hit_dice": "18d8 + 36",
+        "ac": 12,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          14,
+          14,
+          15,
+          16,
+          20
+        ],
+        "damage_immunities": "necrotic",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "charisma": "9"
+          },
+          {
+            "wisdom": "7"
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": "0"
+          },
+          {
+            "deception": "9"
+          }
+        ],
+        "senses": "truesight 60 ft., passive Perception 13",
+        "languages": "Abyssal, Common, Infernal",
+        "cr": "12",
+        "traits": [
+          {
+            "name": "Magic Resistance",
+            "desc": "The chosen has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Withering Spells",
+            "desc": "When the chosen casts a spell of 1st level or higher, the next Withered Hand attack it makes before the end of its next turn deals extra damage equal to 1d6 per level of the spell cast."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Withering Touch",
+            "desc": "Melee Spell Attack +9 to hit, reach 5 ft., one target. 17 (5d6) force damage plus extra damage from the Withering Touch trait. If this damage reduces a creature to 0 hit points, the creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a true resurrection or a wish spell."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [
+          "The chosen is an 18th-level spellcaster. Its spellcasting ability is Charisma (spell save 17, +9 to hit with spell attacks). It has the following sorcerer spells prepared:",
+          {
+            "Cantrips (at will)": "chill touch (4d8), dancing lights, mage hand, message, shocking grasp (4d8)"
+          },
+          {
+            "1st level (4 slots)": "charm person, mage armor, shield"
+          },
+          {
+            "2nd level (3 slots)": "blindness/deafness, detect thoughts"
+          },
+          {
+            "3rd level (3 slots)": "counterspell, fly, hypnotic pattern"
+          },
+          {
+            "4th level (3 slots)": "greater invisibility"
+          },
+          {
+            "5th level (3 slots)": "dominate person, seeming"
+          },
+          {
+            "6th level (1 slots)": "eyebite"
+          },
+          {
+            "7th level (1 slots)": "finger of death"
+          },
+          {
+            "8th level (1 slots)": "power word stun"
+          },
+          {
+            "9th level (1 slots)": "power word kill"
+          }
+        ]
+      }
+    ],
+    [
+      "Remnant Cultist",
+      {
+        "image": null,
+        "name": "Remnant Cultist",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 60,
+        "hit_dice": "11d8 + 11",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          16,
+          12,
+          18,
+          8,
+          8
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "necrotic, psychic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "wisdom": "2"
+          }
+        ],
+        "skillsaves": [
+          {
+            "deception": "5"
+          },
+          {
+            "stealth": "6"
+          }
+        ],
+        "senses": ", passive Perception 9",
+        "languages": "Common, Infernal",
+        "cr": "7",
+        "traits": [
+          {
+            "name": "Unknowable Secrets",
+            "desc": "Any attempt to form a mental link with the cultist, cast scry on the cultist, or cast speak with dead on the cultist automatically fails, and the creature that initiated the attempt takes 21 (6d6) psychic damage."
+          },
+          {
+            "name": "One-Eyed",
+            "desc": "The cultist has disadvantage on any attack roll made against a target more than 30 feet away."
+          },
+          {
+            "name": "Spellsteal",
+            "desc": "If the cultist successfully uses counterspell to negate another creature's spell, it can cast the countered spell once before the end of its next turn using one of its spell slots of the same level or higher, and requiring no material components."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dagger of Wounding",
+            "desc": "Melee / Ranged Weapon Attack +6 to hit, reach 5 ft., range 20/60 ft., one target. 5 (1d4 + 3) piercing damage. Hit points lost to sword of wounding|DMG|this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.\nOnce per turn when the cultist hits a creature with an attack using this weapon, it can wound its target. At the start of each of the wounded creature's turns, it takes 2 (1d4) necrotic damage for each time it's been wounded by this weapon. It can then make a 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [
+          "The remnant cultist is an 11th-level spellcaster. Its spellcasting ability is Intelligence (spell save 15, +7 to hit with spell attacks). The cultist has the following wizard spells prepared:",
+          {
+            "Cantrips (at will)": "chill touch (3d8), message, minor illusion, prestidigitation, ray of frost (3d8)"
+          },
+          {
+            "1st level (4 slots)": "detect magic, hideous laughter, mage armor, shield"
+          },
+          {
+            "2nd level (3 slots)": "detect thoughts, suggestion"
+          },
+          {
+            "3rd level (3 slots)": "counterspell, fear, vampiric touch"
+          },
+          {
+            "4th level (3 slots)": "greater invisibility, phantasmal killer"
+          },
+          {
+            "5th level (2 slots)": "dream, mislead"
+          },
+          {
+            "6th level (1 slots)": "circle of death"
+          }
+        ]
+      }
+    ],
+    [
+      "Rivermaw Brawler",
+      {
+        "image": null,
+        "name": "Rivermaw Brawler",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 65,
+        "hit_dice": "10d8 + 20",
+        "ac": 15,
+        "speed": "40 ft.",
+        "stats": [
+          17,
+          14,
+          15,
+          14,
+          16,
+          8
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "5"
+          },
+          {
+            "wisdom": "5"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "4"
+          },
+          {
+            "athletics": "5"
+          },
+          {
+            "perception": "5"
+          }
+        ],
+        "senses": ", passive Perception 15",
+        "languages": "Common, Giant",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Unarmored Defense",
+            "desc": "While the brawler is wearing no armor and wielding no shield|PHB, its AC includes its Wisdom modifier."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The brawler makes three unarmed strikes."
+          },
+          {
+            "name": "Unarmed Strike",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 7 (1d8 + 3) bludgeoning damage. If the target is a Large or smaller creature, the brawler can choose one of the following additional effects:"
+          },
+          {
+            "name": "Bruise",
+            "desc": "The target must succeed on a 13 Constitution saving throw. On a failure, its speed is reduced by 5 feet until it receives at least 1 point of magical healing. A creature can use its action to make a 15 Wisdom (Medicine) check to heal an affected creature within 5 feet of it (including itself), restoring any lost speed on a success."
+          },
+          {
+            "name": "Disarm",
+            "desc": "The target must succeed on a 13 Strength saving throw or drop one item it is holding. The brawler can choose which item is dropped, and can pick it up."
+          },
+          {
+            "name": "Suplex",
+            "desc": "The target must succeed on a 13 Strength saving throw or be knocked prone."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Clever Fighter",
+            "desc": "When the brawler hits with an attack or is targeted by an attack, it can add its Intelligence modifier (+2) to its damage rolls or AC until the end of its turn."
+          },
+          {
+            "name": "Endurance (Recharges after a Short or Long Rest)",
+            "desc": "When the brawler takes damage, it can reduce the damage by 8 (1d12 + 2)."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Rivermaw Stormborn",
+      {
+        "image": null,
+        "name": "Rivermaw Stormborn",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "any"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 102,
+        "hit_dice": "12d8 + 48",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          12,
+          18,
+          11,
+          10,
+          12
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "lightning",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "constitution": "7"
+          },
+          {
+            "charisma": "4"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "7"
+          },
+          {
+            "intimidation": "4"
+          }
+        ],
+        "senses": ", passive Perception 10",
+        "languages": "Common, Giant",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Reckless",
+            "desc": "At the start of its turn, the stormborn can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The stormborn makes two greataxe attacks. If it is concentrating on call lightning, it can also call down a lightning bolt."
+          },
+          {
+            "name": "Greataxe",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 10 (1d12 + 4) slashing damage plus 3 (1d6) lightning damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Endurance (Recharges after a Short or Long rest)",
+            "desc": "When the stormborn takes damage, it can reduce the damage by 10 (1d12 + 4)."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "The stormborn's innate spellcasting ability is Charisma (spell save 12). The stormborn can innately cast the following spells, requiring no material components:"
+        ]
+      }
+    ],
+    [
+      "Centaur Skeleton",
+      {
+        "image": null,
+        "name": "Centaur Skeleton",
+        "source": "TDCSR",
+        "type": "undead",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "neutral evil",
+        "hp": 45,
+        "hit_dice": "6d10 + 12",
+        "ac": 12,
+        "speed": "50 ft.",
+        "stats": [
+          17,
+          14,
+          14,
+          6,
+          9,
+          5
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "bludgeoning",
+        "condition_immunities": "exhaustion, poisoned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft., passive Perception 9",
+        "languages": "understands Common but can't speak",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Charge",
+            "desc": "If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The centaur skeleton makes two attacks: one with its pike and one with its hooves, or two with its longbow."
+          },
+          {
+            "name": "Pike",
+            "desc": "Melee Weapon Attack +5 to hit, reach 10 ft., one target. 8 (1d10 + 3) piercing damage."
+          },
+          {
+            "name": "Hooves",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 10 (2d6 + 3) bludgeoning damage."
+          },
+          {
+            "name": "Longbow",
+            "desc": "Ranged Weapon Attack +4 to hit, range 150/600 ft., one target. 6 (1d8 + 2) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Flaming Skeleton",
+      {
+        "image": null,
+        "name": "Flaming Skeleton",
+        "source": "TDCSR",
+        "type": "undead",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "lawful evil",
+        "hp": 19,
+        "hit_dice": "3d8 + 6",
+        "ac": 12,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          14,
+          15,
+          6,
+          8,
+          5
+        ],
+        "damage_immunities": "fire, poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "bludgeoning",
+        "condition_immunities": "exhaustion, poisoned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft., passive Perception 9",
+        "languages": "understands all languages it knew in life but can't speak",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Heated Weapons",
+            "desc": "When the skeleton hits with a metal melee weapon, the weapon deals an extra 3 (1d6) fire damage (included in the attack)."
+          },
+          {
+            "name": "Illumination",
+            "desc": "The skeleton sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack +4 to hit, reach 5 ft., one target. 5 (1d6 + 2) piercing damage and 3 (1d6) fire damage."
+          },
+          {
+            "name": "Ignite",
+            "desc": "The skeleton flings itself at a Large or smaller creature within 5 feet of it. The target must succeed on a 12 Dexterity saving throw or be grappled (escape 12). On a failed save, the target also takes 3 (1d6) fire damage at the start of each of its turns, even after the {@action grapple} ends. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the effect ends."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Vos'skyriss Serpentfolk",
+      {
+        "image": null,
+        "name": "Vos'skyriss Serpentfolk",
+        "source": "TDCSR",
+        "type": "monstrosity",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "neutral evil",
+        "hp": 60,
+        "hit_dice": "8d10 + 16",
+        "ac": 14,
+        "speed": "40 ft., swim 40 ft.",
+        "stats": [
+          16,
+          15,
+          15,
+          12,
+          10,
+          14
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "poisoned",
+        "saves": [],
+        "skillsaves": [
+          {
+            "perception": "2"
+          },
+          {
+            "stealth": "4"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 12",
+        "languages": "Common, Draconic",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Hold Breath",
+            "desc": "The serpentfolk can hold its breath for 30 minutes."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The serpentfolk makes two scimitar attacks."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one creature. 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage."
+          },
+          {
+            "name": "Scimitar",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 6 (1d6 + 3) slashing damage."
+          },
+          {
+            "name": "Constrict",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one creature. 7 (1d8 + 3) bludgeoning damage, and the target is grappled (escape 13). Until this {@action grapple} ends, the creature is restrained, and the serpentfolk can't constrict another target."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [
+          "The serpentfolk's innate spellcasting ability is Charisma (spell save 12). It can innately cast the following spells, requiring no material components:",
+          {
+            "At will": "animal friendship, speak with animals (snakes only)"
+          },
+          {
+            "Daily (1)": "pass without trace"
+          },
+          {
+            "Daily (2e)": "sleep, suggestion"
+          }
+        ]
+      }
+    ],
+    [
+      "Vos'skyriss Serpentfolk Ghost",
+      {
+        "image": null,
+        "name": "Vos'skyriss Serpentfolk Ghost",
+        "source": "TDCSR",
+        "type": "undead",
+        "subtype": "",
+        "size": "Large",
+        "alignment": "neutral evil",
+        "hp": 55,
+        "hit_dice": "10d10",
+        "ac": 13,
+        "speed": "0 ft., fly 40 ft. (hover)",
+        "stats": [
+          7,
+          16,
+          10,
+          12,
+          10,
+          16
+        ],
+        "damage_immunities": "cold, necrotic, poison",
+        "damage_resistances": "acid, fire, lightning, thunder, bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, poisoned, prone, restrained",
+        "saves": [],
+        "skillsaves": [
+          {
+            "perception": "2"
+          },
+          {
+            "stealth": "7"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 12",
+        "languages": "Common, Draconic",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Ethereal Sight",
+            "desc": "The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa."
+          },
+          {
+            "name": "Incorporeal Movement",
+            "desc": "The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The ghost makes two spear attacks."
+          },
+          {
+            "name": "Spear",
+            "desc": "Melee / Ranged Weapon Attack +5 to hit, reach 5 ft. or range 20/60 ft., one target. 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. If the ghost makes a ranged attack, its spear rematerializes in its hands after the attack is resolved."
+          },
+          {
+            "name": "Etherealness",
+            "desc": "The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane."
+          },
+          {
+            "name": "Terrifying Hiss",
+            "desc": "The ghost emits an uncanny, rasping hiss. Each non-undead creature within 30 feet of the ghost that can hear it must succeed on a 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Terrifying Hiss for the next 24 hours."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Wraithroot Tree",
+      {
+        "image": null,
+        "name": "Wraithroot Tree",
+        "source": "TDCSR",
+        "type": "plant",
+        "subtype": "",
+        "size": "Huge",
+        "alignment": "neutral evil",
+        "hp": 270,
+        "hit_dice": "20d12 + 140",
+        "ac": 16,
+        "speed": "30 ft.",
+        "stats": [
+          23,
+          8,
+          24,
+          12,
+          16,
+          12
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "bludgeoning, piercing",
+        "damage_vulnerabilities": "fire",
+        "condition_immunities": "stunned, frightened, charmed, paralyzed, poisoned",
+        "saves": [],
+        "skillsaves": [
+          {
+            "perception": "8"
+          }
+        ],
+        "senses": ", passive Perception 18",
+        "languages": "Common, Druidic, Elvish, Sylvan",
+        "cr": "14",
+        "traits": [
+          {
+            "name": "False Appearance",
+            "desc": "While the wraithroot tree remains motionless, it is indistinguishable from a normal tree."
+          },
+          {
+            "name": "Wraith Shift",
+            "desc": "On its turn, the wraithroot tree can move through other creatures and objects as if they were difficult terrain. The tree does not provoke {@action opportunity attack|PHB|opportunity attacks} while moving, and must finish its movement in a space unoccupied by any Large or larger objects or creatures. Any Medium or smaller creature in the tree's space when it finishes moving is pushed to the nearest unoccupied space of the creature's choice. Medium or smaller objects in the tree's space are pushed to the nearest unoccupied spaces of the tree's choice."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The wraithroot tree makes two slam attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack +11 to hit, reach 10 ft., one target. 16 (3d6 + 6) bludgeoning damage."
+          },
+          {
+            "name": "Rock",
+            "desc": "Ranged Weapon Attack +11 to hit, range 60/180 ft., one target. 28 (4d10 + 6) bludgeoning damage."
+          },
+          {
+            "name": "Wraithstorm (Recharge 5-6)",
+            "desc": "The wraithroot tree pulls life energy from the area around it, leaving creatures temporarily frail. Each creature that is not a construct or undead within 30 feet of the tree must succeed on a 16 Constitution saving throw or have its speed halved and gain vulnerability to bludgeoning damage until the end of the tree's next turn."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Grog Strongjaw",
+      {
+        "image": null,
+        "name": "Grog Strongjaw",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "half-giant"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 290,
+        "hit_dice": "20d12 + 120 + 40",
+        "ac": 19,
+        "speed": "50 ft.",
+        "stats": [
+          26,
+          15,
+          22,
+          8,
+          10,
+          13
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "cold, fire, lightning, thunder while enlarged, bludgeoning, piercing, slashing while raging",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "4"
+          },
+          {
+            "constitution": "2"
+          }
+        ],
+        "skillsaves": [
+          {
+            "animal handling": "6"
+          },
+          {
+            "athletics": "4"
+          },
+          {
+            "intimidation": "7"
+          },
+          {
+            "survival": "6"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common, Dwarvish, Giant, with limited reading and writing",
+        "cr": "18",
+        "traits": [
+          {
+            "name": "Brutal Critical",
+            "desc": "When Grog scores a critical hit, he rolls double weapon damage dice as usual, then rolls 3 additional weapon damage dice."
+          },
+          {
+            "name": "Feral Instinct",
+            "desc": "Grog has advantage on initiative rolls."
+          },
+          {
+            "name": "Melee Master",
+            "desc": "Grog can take a −5 penalty to any melee attack roll to gain a +10 bonus to the damage roll."
+          },
+          {
+            "name": "Reckless",
+            "desc": "At the start of his turn, Grog can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn."
+          },
+          {
+            "name": "Relentless Rage",
+            "desc": "If Grog is reduced to 0 hit points while raging, he drops to 1 hit point instead if he succeeds on a 10 Constitution saving throw."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "Grog wears a belt of dwarvenkind. He wields the Bloodaxe|EGW (a +2 magic weapon), a dwarven thrower, and the Titanstone Knuckles (Exalted)|TDCSR|Titanstone Knuckles {@homebrew |(see page 211)}."
+          },
+          {
+            "name": "Spellbreaker",
+            "desc": "When Grog damages a creature that is concentrating on a spell, that creature has disadvantage on the saving throw to maintain its concentration. In addition, Grog has advantage on saving throws against spells cast by creatures within 5 feet of him."
+          },
+          {
+            "name": "Toughness",
+            "desc": "Grog has an additional 40 hit points."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Grog makes two attacks (three when raging) with his Bloodaxe|EGW, dwarven thrower, or Titanstone Knuckles (Exalted)|TDCSR|Titanstone Knuckles."
+          },
+          {
+            "name": "Bloodaxe|EGW",
+            "desc": "Melee Weapon Attack +16 to hit, reach 5 ft., one target. 20 (1d12 + 14) slashing damage and 3 (1d6) necrotic damage. If the target is reduced to 0 hit points, Grog gains 10 temporary hit points."
+          },
+          {
+            "name": "Dwarven Thrower",
+            "desc": "Melee / Ranged Weapon Attack +17 to hit, reach 5 ft. or range 20/60, one target. 24 (2d8 + 15) bludgeoning damage."
+          },
+          {
+            "name": "Titanstone Knuckles",
+            "desc": "Melee Weapon Attack +14 to hit, reach 5 ft., one target. 14 (1d4 + 12) bludgeoning damage."
+          },
+          {
+            "name": "Enlarge (Recharges after a Long Rest)",
+            "desc": "Grog casts enlarge/reduce on himself to grow in size for 10 minutes. While enlarged in this way, he has resistance to cold, fire, lightning, and thunder damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Opportunist",
+            "desc": "When a creature within 5 feet of Grog casts a spell or deals damage to him, Grog can make a melee weapon attack against that creature."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Keyleth, Voice of the Tempest",
+      {
+        "image": null,
+        "name": "Keyleth, Voice of the Tempest",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "half-elf"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 150,
+        "hit_dice": "20d8 + 60",
+        "ac": 17,
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          15,
+          16,
+          15,
+          22,
+          15
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "4"
+          },
+          {
+            "dexterity": "4"
+          },
+          {
+            "constitution": "5"
+          },
+          {
+            "intelligence": "0"
+          },
+          {
+            "wisdom": "4"
+          },
+          {
+            "charisma": "4"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "8"
+          },
+          {
+            "insight": "2"
+          },
+          {
+            "intimidation": "8"
+          },
+          {
+            "nature": "2"
+          },
+          {
+            "perception": "2"
+          },
+          {
+            "persuasion": "8"
+          },
+          {
+            "stealth": "8"
+          },
+          {
+            "survival": "2"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 22",
+        "languages": "Auran, Common, Druidic, Elvish",
+        "cr": "18",
+        "traits": [
+          {
+            "name": "Fey Ancestry",
+            "desc": "Keyleth has advantage on saving throws against being charmed, and magic can't put her to sleep."
+          },
+          {
+            "name": "Focused",
+            "desc": "Keyleth has advantage on Constitution saving throws made to maintain concentration on spells."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "Keyleth wears a circlet of wisdom|TDCSR (which increases her Wisdom score by 2), +2 leather armor, and a +2 Ring of Protection|TDCSR|ring of protection with a +2 bonus. She wields the Spire of Conflux (Exalted)|TDCSR|Spire of Conflux {@homebrew |(see page 209)}."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Shapechange",
+            "desc": "Keyleth casts shapechange to transform into a planetar, an adult bronze dragon, or {@filter another creature of CR 20 or lower that is not a construct or undead|bestiary|Challenge Rating=[0;&20]|type=!construct;!undead|source=null}."
+          },
+          {
+            "name": "Meteor (Earth Elemental Form Only)",
+            "desc": "When Keyleth falls at least 20 feet, she lands with meteoric force. Each creature within 20 feet of her must succeed on a 19 Dexterity saving throw or take 1d6 bludgeoning damage for every 10 feet Keyleth fell. Keyleth still takes falling damage while in earth elemental form."
+          },
+          {
+            "name": "Chain Lightning",
+            "desc": "Keyleth casts chain lightning (spell save 22) from the Spire of Conflux (Exalted)|TDCSR|Spire of Conflux at a creature she can see within 150 feet of her."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [
+          "Keyleth is a 20th-level spellcaster. Her spellcasting ability is Wisdom (spell save 22, +14 to hit with spell attacks). She has the following druid spells prepared:",
+          {
+            "Cantrips (at will)": "druidcraft, guidance, mending"
+          },
+          {
+            "1st level (4 slots)": "cure wounds, faerie fire, fog cloud, healing word, thunderwave"
+          },
+          {
+            "2nd level (3 slots)": "alter self (at will), flaming sphere, gust of wind, pass without trace"
+          },
+          {
+            "3rd level (3 slots)": "call lightning, wind wall"
+          },
+          {
+            "4th level (3 slots)": "blight, control water, grasping vine, polymorph, stone shape"
+          },
+          {
+            "5th level (3 slots)": "conjure elemental, greater restoration, scrying, wall of stone"
+          },
+          {
+            "6th level (2 slots)": "heroes' feast, move earth, transport via plants"
+          },
+          {
+            "7th level (2 slots)": "fire storm, plane shift"
+          },
+          {
+            "8th level (1 slots)": "control weather"
+          },
+          {
+            "9th level (1 slots)": "foresight, shapechange"
+          }
+        ]
+      }
+    ],
+    [
+      "Percival de Rolo",
+      {
+        "image": null,
+        "name": "Percival de Rolo",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "human"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 190,
+        "hit_dice": "20d10 + 40 + 40",
+        "ac": 18,
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          22,
+          14,
+          20,
+          16,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "lightning",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "7"
+          },
+          {
+            "constitution": "8"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "2"
+          },
+          {
+            "history": "1"
+          },
+          {
+            "perception": "9"
+          },
+          {
+            "persuasion": "8"
+          }
+        ],
+        "senses": ", passive Perception 19",
+        "languages": "Celestial, Common, Elvish",
+        "cr": "18",
+        "traits": [
+          {
+            "name": "Action Surge (2/Short Rest)",
+            "desc": "Once on his turn, Percy can take one additional action."
+          },
+          {
+            "name": "Cabal's Ruin",
+            "desc": "Cabal's Ruin (Exalted)|TDCSR|Cabal's Ruin grants Percy advantage on saving throws against spells or magical effects. Additionally, Cabal's Ruin (Exalted)|TDCSR|Cabal's Ruin has 10 charges. When Percy hits with a weapon attack, he can expend up to 10 charges to have the attack deal 1d6 extra lightning damage per charge spent."
+          },
+          {
+            "name": "Indomitable (3/Long Rest)",
+            "desc": "Percy can reroll a failed saving throw."
+          },
+          {
+            "name": "Misfire",
+            "desc": "When Percy rolls a 2 or lower on the d20 when making an attack with Animus or Bad News, the attack misses and he can't use the weapon again until he spends an action to repair it. On a misfire with Animus, he takes 7 (2d6) psychic damage."
+          },
+          {
+            "name": "No Mercy",
+            "desc": "Percy's weapon attacks score a critical hit on a roll of 19-20."
+          },
+          {
+            "name": "Ranged Master",
+            "desc": "Percy's ranged weapon attacks have a +2 bonus to hit (included in attacks), ignore half cover and three-quarters cover, and have no range penalty. Additionally, Percy can take a −5 penalty to any ranged attack roll to gain a +10 bonus to the damage roll."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "Percy wears a ring of lightning resistance and Cabal's Ruin (Exalted)|TDCSR|Cabal's Ruin {@homebrew |(see page 203)}. He wields Animus and Bad News, which are both +1 weapons."
+          },
+          {
+            "name": "Quick Draw",
+            "desc": "Percy adds his proficiency bonus to initiative rolls, giving him a +12 to initiative rolls."
+          },
+          {
+            "name": "Toughness",
+            "desc": "Percy has an additional 40 hit points."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Percy makes four ranged attacks with Animus, or two ranged attacks with Bad News. When Percy hits with an attack with either weapon, he can choose one of the following additional effects:"
+          },
+          {
+            "name": "Deadeye",
+            "desc": "Percy gains advantage on his next attack roll this turn made against the same target."
+          },
+          {
+            "name": "Disarm",
+            "desc": "The target must make a 20 Strength saving throw. On a failure, the target drops one item it is holding of Percy's choice."
+          },
+          {
+            "name": "Animus",
+            "desc": "Ranged Weapon Attack +15 to hit, range 320 ft., one target. 11 (1d10 + 6) piercing damage and 3 (1d6) psychic damage."
+          },
+          {
+            "name": "Bad News",
+            "desc": "Ranged Weapon Attack +15 to hit, range 800 ft., one target. 19 (2d12 + 6) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Absorb Magic (Recharges after a Short or Long Rest)",
+            "desc": "When Percy is targeted by an enemy's spell, he can absorb a portion of the spell's energy into Cabal's Ruin (Exalted)|TDCSR|Cabal's Ruin. The spell affects him normally, but the cloak gains a number of charges equal to the level of the spell. When he does so, he also gains resistance to one type of damage dealt by the spell until the end of his next turn."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Vex'ahlia",
+      {
+        "image": null,
+        "name": "Vex'ahlia",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "half-elf"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 130,
+        "hit_dice": "20d10 + 20",
+        "ac": 21,
+        "speed": "30 ft., fly 50 ft. (with {@item broom of flying})",
+        "stats": [
+          7,
+          20,
+          12,
+          14,
+          16,
+          17
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "cold",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "6"
+          },
+          {
+            "dexterity": "3"
+          },
+          {
+            "constitution": "3"
+          },
+          {
+            "intelligence": "4"
+          },
+          {
+            "wisdom": "5"
+          },
+          {
+            "charisma": "5"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "7"
+          },
+          {
+            "athletics": "4"
+          },
+          {
+            "deception": "9"
+          },
+          {
+            "insight": "9"
+          },
+          {
+            "investigation": "8"
+          },
+          {
+            "perception": "5"
+          },
+          {
+            "persuasion": "9"
+          },
+          {
+            "stealth": "7"
+          },
+          {
+            "survival": "9"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 25",
+        "languages": "Abyssal, Common, Draconic, Elvish, Thieves' Cant, Undercommon",
+        "cr": "18",
+        "traits": [
+          {
+            "name": "Assassinate",
+            "desc": "During her first turn, Vex has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Vex scores against a surprised creature is a critical hit."
+          },
+          {
+            "name": "Evasion",
+            "desc": "If Vex is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, she instead takes no damage if she succeeds on the saving throw, and only half damage if she fails."
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "Vex has advantage on saving throws against being charmed, and magic can't put her to sleep."
+          },
+          {
+            "name": "Ranged Master",
+            "desc": "Vex's ranged weapon attacks have a +2 bonus to hit (included in attacks), and ignore half cover and three-quarters cover, and have no range penalty. Additionally, Vex can take a −5 penalty to any ranged attack roll to gain a +10 bonus to the damage roll."
+          },
+          {
+            "name": "Sneak Attack (1/Turn)",
+            "desc": "Vex deals an extra 14 (4d6) damage when she hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of Vex that isn't incapacitated and she doesn't have disadvantage on the attack roll."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "Vex wears +2 Studded White Dragon Leather Armor of Cold Resistance|TDCSR and a +2 ring of protection|TDCSR|ring of protection with a +2 bonus. She carries a broom of flying and a raven's slumber|TDCSR {@homebrew |(see page 197)}, and wields Fenthras (Exalted)|TDCSR|Fenthras {@homebrew |(see page 205)}."
+          },
+          {
+            "name": "Trinket",
+            "desc": "Trinket|TDCSR moves and acts on Vex's turn, and Vex can use a bonus action to command him to take the {@action Dash}, {@action Dodge}, {@action Disengage}, or {@action Attack} action. She can also command him to {@action Attack} as part of her Multiattack action (see below). Trinket|TDCSR can take only one action on each of Vex's turns."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Vex makes two ranged attacks, and can command Trinket|TDCSR to move up to his speed and use his Multiattack action."
+          },
+          {
+            "name": "Fenthras",
+            "desc": "Ranged Weapon Attack +16 to hit, range 600 ft., one target. 22 (1d8 + 18) piercing damage and 3 (1d6) lightning damage, and Vex can use the following ability:"
+          },
+          {
+            "name": "Bramble Shot (2/Short Rest)",
+            "desc": "The attack deals an extra 18 (4d8) piercing damage, and the target must succeed on a 17 Strength saving throw or be restrained. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Uncanny Dodge",
+            "desc": "When an attacker that Vex can see hits her with an attack, she takes half damage from the attack."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "Vex is a 13th-level spellcaster. Her spell-casting ability is Wisdom (spell save 17, +9 to hit with spell attacks). She has the following ranger spells prepared:",
+          {
+            "1st level (4 slots)": "cure wounds, hunter's mark"
+          },
+          {
+            "2nd level (3 slots)": "pass without trace, protection from poison"
+          },
+          {
+            "3rd level (3 slots)": "lightning arrow, nondetection"
+          },
+          {
+            "4th level (1 slots)": "freedom of movement, grasping vine"
+          }
+        ]
+      }
+    ],
+    [
+      "Pike Trickfoot",
+      {
+        "image": null,
+        "name": "Pike Trickfoot",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "gnome"
+          ]
+        },
+        "subtype": "",
+        "size": "Small",
+        "alignment": "",
+        "hp": 170,
+        "hit_dice": "20d8 + 80",
+        "ac": 23,
+        "speed": "25 ft.",
+        "stats": [
+          19,
+          12,
+          18,
+          14,
+          20,
+          14
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "fire, bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "frightened",
+        "saves": [
+          {
+            "wisdom": "1"
+          },
+          {
+            "charisma": "8"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "0"
+          },
+          {
+            "perception": "1"
+          },
+          {
+            "persuasion": "8"
+          },
+          {
+            "religion": "8"
+          },
+          {
+            "stealth": "7"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 21",
+        "languages": "Common, Dwarvish, Gnomish, Undercommon",
+        "cr": "17",
+        "traits": [
+          {
+            "name": "Gnome Cunning",
+            "desc": "Pike has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "Pike wields a mace of disruption and wears gauntlets of ogre power, boots of speed, and the plate of the dawnmartyr (exalted)|TDCSR|Plate of the Dawnmartyr."
+          },
+          {
+            "name": "Dawnmartyr's Grace (1/Long Rest)",
+            "desc": "When Pike is reduced to 0 hit points while wearing the plate of the dawnmartyr (exalted)|TDCSR|Plate of the Dawnmartyr, she can choose to have a blast of healing flame surround her. She regains 1 hit point and is lifted to her feet. Each enemy within 10 feet of her takes 7 (2d6) fire damage or radiant damage (her choice)."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mace of Disruption",
+            "desc": "Melee Weapon Attack +10 to hit, reach 5 ft., one target. 17 (3d8 + 4) bludgeoning damage, plus an extra 7 (2d6) radiant damage if the target is a fiend or an undead. If the target has 25 hit points or fewer after taking this damage, it must succeed on a 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of Pike until the end of her next turn."
+          },
+          {
+            "name": "Guiding Bolt (5th Level)",
+            "desc": "Ranged Spell Attack +11 to hit, range 120 ft., one target. 28 (8d6) radiant damage, and the next attack roll made against the target before the end of Pike's next turn has advantage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Dawnmartyr's Rebuke",
+            "desc": "When a creature within 5 feet of Pike hits her with a melee attack, she can deal 7 (2d6) fire or radiant damage to it (her choice)."
+          },
+          {
+            "name": "Everlight's Guidance (3/Short Rest)",
+            "desc": "When Pike or a creature she can see within 30 feet of her makes an attack roll, she can grant a +10 bonus to the roll. She can grant this bonus after the roll is made but before it hits or misses."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "Pike is a 20th-level spellcaster. Her spellcasting ability is Wisdom (spell save 19, +11 to hit with spell attacks). She has the following cleric spells prepared:",
+          {
+            "Cantrips (at will)": "light, sacred flame (4d8), spare the dying, thaumaturgy"
+          },
+          {
+            "1st level (4 slots)": "command, cure wounds, guiding bolt, healing word, sanctuary, shield of faith"
+          },
+          {
+            "2nd level (3 slots)": "aid, lesser restoration, spiritual weapon"
+          },
+          {
+            "3rd level (3 slots)": "glyph of warding, mass healing word, protection from energy, revivify, speak with dead"
+          },
+          {
+            "4th level (3 slots)": "death ward, freedom of movement, guardian of faith"
+          },
+          {
+            "5th level (3 slots)": "flame strike, greater restoration, hallow, mass cure wounds, scrying"
+          },
+          {
+            "6th level (2 slots)": "heal, heroes' feast, planar ally"
+          },
+          {
+            "7th level (2 slots)": "resurrection"
+          },
+          {
+            "8th level (1 slots)": "holy aura"
+          },
+          {
+            "9th level (1 slots)": "mass heal"
+          }
+        ]
+      }
+    ],
+    [
+      "Trinket",
+      {
+        "image": null,
+        "name": "Trinket",
+        "source": "TDCSR",
+        "type": {
+          "type": "beast",
+          "tags": [
+            "brown bear"
+          ]
+        },
+        "subtype": "",
+        "size": "Large",
+        "alignment": "",
+        "hp": 61,
+        "hit_dice": "6d10 + 18 + 10",
+        "ac": 18,
+        "speed": "40 ft., climb 30 ft.",
+        "stats": [
+          19,
+          10,
+          16,
+          5,
+          13,
+          7
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "perception": "0"
+          }
+        ],
+        "senses": ", passive Perception 20",
+        "languages": "understands Common but can't speak it",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Chosen Companion",
+            "desc": "Trinket has an additional 10 hit points, and has a +6 bonus to attack and damage rolls and to Wisdom (Perception) checks."
+          },
+          {
+            "name": "Empowered Attacks",
+            "desc": "Trinket's attacks are treated as magical for the purpose of overcoming resistance and immunity to damage from nonmagical attacks."
+          },
+          {
+            "name": "Keen Smell",
+            "desc": "Trinket has advantage on Wisdom (Perception) checks that rely on smell."
+          },
+          {
+            "name": "Raven's Slumber",
+            "desc": "If Trinket is reduced to 0 hit points and is within 100 feet of Vex, he is immediately drawn into the demiplane within Vex'ahlia|TDCSR|Vex's raven's slumber|TDCSR and stabilized."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Trinket makes two attacks: one with his bite and one with his claws."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +13 to hit, reach 5 ft., one target. 14 (1d8 + 10) piercing damage."
+          },
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack +13 to hit, reach 5 ft., one target. 17 (2d6 + 10) slashing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Scanlan Shorthalt",
+      {
+        "image": null,
+        "name": "Scanlan Shorthalt",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "gnome"
+          ]
+        },
+        "subtype": "",
+        "size": "Small",
+        "alignment": "",
+        "hp": 190,
+        "hit_dice": "20d8 + 60 + 40",
+        "ac": 16,
+        "speed": "25 ft.",
+        "stats": [
+          13,
+          11,
+          16,
+          16,
+          7,
+          22
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "acid",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": "3"
+          },
+          {
+            "dexterity": "7"
+          },
+          {
+            "constitution": "5"
+          },
+          {
+            "intelligence": "5"
+          },
+          {
+            "wisdom": "0"
+          },
+          {
+            "charisma": "3"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "5"
+          },
+          {
+            "arcana": "8"
+          },
+          {
+            "athletics": "6"
+          },
+          {
+            "deception": "6"
+          },
+          {
+            "intimidation": "1"
+          },
+          {
+            "investigation": "3"
+          },
+          {
+            "performance": "6"
+          },
+          {
+            "persuasion": "6"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 8",
+        "languages": "Common, Gnomish, Marquesian",
+        "cr": "15",
+        "traits": [
+          {
+            "name": "Gnome Cunning",
+            "desc": "Scanlan has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
+          },
+          {
+            "name": "Focused",
+            "desc": "Scanlan has advantage on Constitution saving throws made to maintain concentration on spells."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "Scanlan wields Mythcarver (Exalted)|TDCSR|Mythcarver {@homebrew |(see page 207)}, wears +2 Studded Leather Armor of Acid Resistance|TDCSR and a +2 ring of protection|TDCSR|ring of protection with a +2 bonus, and carries a hat of disguise and a wand of magic missiles."
+          },
+          {
+            "name": "Toughness",
+            "desc": "Scanlan has an additional 40 hit points."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mythcarver",
+            "desc": "Melee Weapon Attack +9 to hit, reach 5 ft., one target. 7 (1d8 + 3) piercing damage and 3 (1d6) force damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Cutting Words",
+            "desc": "When a creature Scanlan can see within 60 feet of him makes an attack roll, an ability check, or a damage roll, he can expend a use of Bardic Inspiration to roll a d12 and subtract the number rolled from the creature's roll. The creature also has disadvantage on its next saving throw."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "Scanlan is a 20th-level spellcaster. His spellcasting ability is Charisma (spell save 19, +11 to hit with spell attacks). He has the following bard spells prepared:",
+          {
+            "Cantrips (at will)": "mage hand, message, minor illusion, vicious mockery"
+          },
+          {
+            "1st level (4 slots)": "healing word, thunderwave"
+          },
+          {
+            "2nd level (3 slots)": "blindness/deafness, hold person, invisibility, suggestion"
+          },
+          {
+            "3rd level (3 slots)": "counterspell, lightning bolt, stinking cloud"
+          },
+          {
+            "4th level (3 slots)": "dimension door, polymorph, Otiluke's Resilient Sphere||resilient sphere"
+          },
+          {
+            "5th level (3 slots)": "bigby's hand||arcane hand, dominate person, modify memory, seeming"
+          },
+          {
+            "6th level (2 slots)": "eyebite"
+          },
+          {
+            "7th level (2 slots)": "Mordenkainen's Magnificent Mansion||magnificent mansion, reverse gravity"
+          },
+          {
+            "8th level (1 slots)": "dominate monster"
+          },
+          {
+            "9th level (1 slots)": "true polymorph"
+          }
+        ]
+      }
+    ],
+    [
+      "Doty X",
+      {
+        "image": null,
+        "name": "Doty X",
+        "source": "TDCSR",
+        "type": "construct",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 78,
+        "hit_dice": "9d8 + 18 + 20",
+        "ac": 17,
+        "speed": "40 ft.",
+        "stats": [
+          14,
+          12,
+          14,
+          4,
+          10,
+          6
+        ],
+        "damage_immunities": "poison",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, poisoned",
+        "saves": [
+          {
+            "dexterity": "4"
+          },
+          {
+            "constitution": "5"
+          }
+        ],
+        "skillsaves": [
+          {
+            "athletics": "7"
+          },
+          {
+            "perception": "8"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 18",
+        "languages": "understands the languages that {@creature Taryon Darrington|TDCSR|Tary} speaks",
+        "cr": "6",
+        "traits": [
+          {
+            "name": "Arcane Surge (4/Day)",
+            "desc": "When Doty hits a target, Taryon Darrington|TDCSR|Tary can channel magical energy to deal an extra 14 (4d6) force damage to the target as long as Taryon Darrington|TDCSR|Tary is not incapacitated."
+          },
+          {
+            "name": "Dedicated Servant",
+            "desc": "Doty has an additional 20 hit points, and has a +2 modifier to saving throws, ability checks using skill proficiencies, and attack rolls."
+          },
+          {
+            "name": "Limited Vocabulary",
+            "desc": "Doty can say the following words in Common: \"Tary,\" \"Yes,\" \"Correct,\" \"Absolutely,\" \"Soon,\" and \"Handsome.\""
+          },
+          {
+            "name": "Vigilant",
+            "desc": "Doty can't be surprised."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Empowered Fist",
+            "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 8 (1d8 + 4) force damage."
+          },
+          {
+            "name": "Repair (3/Day)",
+            "desc": "Doty regains 15 (2d8 + 6) hit points."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Deflect",
+            "desc": "If a creature within 5 feet of Doty that he can see makes an attack against a creature other than Doty, he can impose disadvantage on the attack roll. The attacker then takes 6 (1d4 + 4) force damage."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": []
+      }
+    ],
+    [
+      "Taryon Darrington",
+      {
+        "image": null,
+        "name": "Taryon Darrington",
+        "source": "TDCSR",
+        "type": {
+          "type": "humanoid",
+          "tags": [
+            "human"
+          ]
+        },
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 127,
+        "hit_dice": "15d8 + 30 + 30",
+        "ac": 15,
+        "speed": "40 ft., fly 50 ft. (with {@item broom of flying})",
+        "stats": [
+          12,
+          11,
+          14,
+          18,
+          8,
+          15
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "acid, poison",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "poisoned",
+        "saves": [
+          {
+            "constitution": "7"
+          },
+          {
+            "intelligence": "9"
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": "9"
+          },
+          {
+            "history": "9"
+          },
+          {
+            "perception": "4"
+          },
+          {
+            "survival": "4"
+          }
+        ],
+        "senses": ", passive Perception 9",
+        "languages": "Common, Draconic, Gnomish, Sylvan, Undercommon",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Alchemical Defense",
+            "desc": "Tary's experimental concoctions have granted him resistance to acid and poison damage, and immunity to the poisoned condition."
+          },
+          {
+            "name": "Doty",
+            "desc": "Doty X|TDCSR|Doty moves and acts on Tary's turn, and Tary can use a bonus action to command him to use the {@action Dash}, {@action Dodge}, {@action Disengage}, or {@action Attack} action. He can also command him to {@action Attack} as part of his Multitask action (see below). Doty can take only one action on each of Tary's turns."
+          },
+          {
+            "name": "Focused",
+            "desc": "Tary has advantage on Constitution saving throws made to maintain concentration on spells."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "Tary wears a helm of brilliance, a robe of useful items, and a ring of the ram. He carries a rod of mercurial form|TDCSR {@homebrew |(see page 197)}, as well as a bag of holding, 1d4 + 4 bead of force||beads of force, a broom of flying, and a chime of opening."
+          },
+          {
+            "name": "Toughness",
+            "desc": "Tary has an additional 30 hit points."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multitask",
+            "desc": "Tary makes two weapon attacks or casts a spell with a casting time of 1 action, and can also command Doty X|TDCSR|Doty to use his Empowered Fist or Repair action."
+          },
+          {
+            "name": "Mercurial Longsword",
+            "desc": "Melee Weapon Attack +5 to hit, reach 5 ft., one target. 6 (1d10 + 1) slashing damage."
+          },
+          {
+            "name": "Bead of Force",
+            "desc": "Tary throws a bead of force up to 60 feet. Each creature within a 10-foot radius of where the bead landed must succeed on a 15 Dexterity saving throw or take 12 (5d4) force damage. A sphere of transparent force then encloses the area for 1 minute. A creature that fails the save and is completely within the area is trapped inside the sphere."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Brilliant Intellect",
+            "desc": "When Tary or another creature he can see within 30 feet of him makes an ability check or a saving throw, he can use his reaction to add +4 to the roll."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "Tary is a 15th-level spellcaster. His spellcasting ability is Intelligence (spell save 16, +8 to hit with spell attacks). He has the following spells prepared:",
+          {
+            "Cantrips (at will)": "mending, prestidigitation, ray of frost (3d8)"
+          },
+          {
+            "1st level (4 slots)": "detect magic, heroism, identify, shield"
+          },
+          {
+            "2nd level (3 slots)": "alter self, branding smite, see invisibility, warding bond"
+          },
+          {
+            "3rd level (3 slots)": "dispel magic, fly, haste, magic circle, revivify"
+          },
+          {
+            "4th level (2 slots)": "banishment, fabricate, fire shield"
+          }
+        ]
+      }
+    ],
+    [
+      "Champion of Ravens",
+      {
+        "image": null,
+        "name": "Champion of Ravens",
+        "source": "TDCSR",
+        "type": "celestial",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 150,
+        "hit_dice": "20d10 + 40",
+        "ac": 20,
+        "speed": "30 ft., fly 60 ft.",
+        "stats": [
+          14,
+          20,
+          14,
+          16,
+          14,
+          17
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "radiant, necrotic, poison, bludgeoning, piercing, slashing from nonmagical attacks",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "charmed, exhaustion, frightened, unconscious",
+        "saves": [
+          {
+            "strength": "5"
+          },
+          {
+            "dexterity": "5"
+          },
+          {
+            "constitution": "5"
+          },
+          {
+            "intelligence": "3"
+          },
+          {
+            "wisdom": "5"
+          },
+          {
+            "charisma": "6"
+          }
+        ],
+        "skillsaves": [
+          {
+            "acrobatics": "9"
+          },
+          {
+            "intimidation": "0"
+          },
+          {
+            "investigation": "0"
+          },
+          {
+            "perception": "6"
+          },
+          {
+            "persuasion": "0"
+          },
+          {
+            "sleight of hand": "2"
+          },
+          {
+            "stealth": "9"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 26",
+        "languages": "Abyssal, Celestial, Common, Druidic, Elvish, Thieves' cant",
+        "cr": "21",
+        "traits": [
+          {
+            "name": "Assassinate",
+            "desc": "During his first turn, the Champion has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the Champion scores against a surprised creature is a critical hit."
+          },
+          {
+            "name": "Aura of Protection",
+            "desc": "While the Champion is conscious, he and friendly creatures within 10 feet of him have a +3 bonus to saving throws (included above)."
+          },
+          {
+            "name": "Eternal Champion",
+            "desc": "When the Champion is reduced to 0 hit points or dies, his body is destroyed but his spirit returns to the {@deity The Matron of Ravens|Exandria|TDCSR|Raven Queen's} side, and he gains a new body after 1d4 days."
+          },
+          {
+            "name": "Evasion",
+            "desc": "If the Champion is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, he instead takes no damage if he succeeds on the saving throw, and only half damage if he fails."
+          },
+          {
+            "name": "Fate-Touched (4/Day)",
+            "desc": "When the Champion makes an attack roll, ability check, or saving throw, he can reroll the d20 and use either roll. Alternatively, when a creature the Champion can see makes an attack roll against him, or a saving throw against one of his spells or features, he can force that creature to reroll the attack or save and use the new roll."
+          },
+          {
+            "name": "Shadow Smite (1/Turn)",
+            "desc": "The Champion deals an extra 49 (14d6) radiant or necrotic damage (his choice) when he hits a target with a weapon attack and he doesn't have disadvantage on the attack roll."
+          },
+          {
+            "name": "Unerring Sight",
+            "desc": "The Champion's ranged weapon attacks ignore half cover and three-quarters cover and have no range penalty."
+          },
+          {
+            "name": "Special Equipment",
+            "desc": "The Champion wears boots of haste|TDCSR {@homebrew |(see page 194)} and the deathwalker's ward (Exalted)|TDCSR|Deathwalker's Ward {@homebrew |(see page 204)}, and wields Whisper (Exalted)|TDCSR|Whisper {@homebrew |(see page 211)}."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Champion makes three attacks with Whisper (Exalted)|TDCSR|Whisper."
+          },
+          {
+            "name": "Whisper",
+            "desc": "Melee / Ranged Weapon Attack +15 to hit, reach 5 ft. or range 60 ft., one target. 10 (1d4 + 8) piercing damage plus 4 (1d8) psychic damage. On a critical hit, the target must succeed on a 18 Wisdom saving throw or be frightened of the Champion for 1 minute. On a ranged attack, the Champion can teleport with Whisper (Exalted)|TDCSR|Whisper, appearing within 5 feet of the target on a hit, or in a random space within 30 feet of the target on a miss."
+          },
+          {
+            "name": "Touch of Life and Death (Recharges after a Short or Long Rest)",
+            "desc": "The Champion touches a creature within 5 feet of him, and chooses to either heal or harm that creature, restoring 55 (10d10) hit points or dealing 55 (10d10) necrotic damage. If the creature is an unwilling target, it can avoid either effect with a successful 20 Dexterity saving throw."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Uncanny Dodge",
+            "desc": "The Champion halves the damage that he takes from an attack that hits him. He must be able to see the attacker."
+          }
+        ],
+        "legendary_actions": [],
+        "spells": [
+          "The Champion's innate spellcasting ability is Charisma (+10 to hit with spell attacks, save 18). He can innately cast the following spells, requiring no material components:",
+          {
+            "At will": "bane, bless, druidcraft"
+          },
+          {
+            "Daily (1)": "greater invisibility"
+          }
+        ]
+      }
+    ]
+  ],
+  "layouts": [],
+  "default": "Basic 5e Layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 2,
+    "minor": 14,
+    "patch": 8
+  },
+  "path": "/",
+  "autoParse": false
+}

@@ -8,5 +8,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
   "obsidian-reading-time",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-dice-roller",
+  "obsidian-5e-statblocks"
 ]
