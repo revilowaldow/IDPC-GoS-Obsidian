@@ -20,7 +20,8 @@
           "type": "markdown",
           "state": {
             "file": "tes2t.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": false
           }
         }
       }
