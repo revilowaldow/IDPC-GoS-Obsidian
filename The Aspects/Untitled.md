@@ -1,1 +1,0 @@
-# Shimanteoroth, the Noxious Tempest
