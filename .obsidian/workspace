@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backstories/Nix.md",
+            "file": "Backstories/Gerhard.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstories/Nix.md",
+                "file": "Backstories/Gerhard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Backstories/Gerhard.md",
     "Backstories/Nix.md",
     "Backstories/Auberon.md",
+    "Locations/Saltmarsh/Saltmarsh Village.md",
     "Assets/Tiamat.jpg",
-    "Backstories/Gerhard.md",
     "Backstories/Kairon.md",
     "Assets/Shimanteoroth.webp",
     "The Aspects/Chorazzo.md",
     "The Aspects/Viondrút.md",
-    "The Aspects/Shimanteoroth.md",
-    "Overarching Plot.md"
+    "The Aspects/Shimanteoroth.md"
   ]
 }
