@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Backstories/Auberon.md",
+            "file": "Backstories/Nix.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backstories/Auberon.md",
+                "file": "Backstories/Nix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Backstories/Nix.md",
     "Backstories/Auberon.md",
     "Assets/Tiamat.jpg",
     "Backstories/Gerhard.md",
@@ -104,7 +105,6 @@
     "The Aspects/Chorazzo.md",
     "The Aspects/Viondrút.md",
     "The Aspects/Shimanteoroth.md",
-    "Overarching Plot.md",
-    "tes2t.md"
+    "Overarching Plot.md"
   ]
 }
