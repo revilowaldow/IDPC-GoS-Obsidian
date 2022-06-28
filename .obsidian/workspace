@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/2022 06 28 - Carnival.md",
+            "file": "Backstories/Gerhard.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 06 28 - Carnival.md",
+                "file": "Backstories/Gerhard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Backstories/Gerhard.md",
+    "Backstories/Eragon.md",
+    "Backstories/Auberon.md",
     "Session Notes/2022 06 28 - Carnival.md",
     "Session Notes/2022 04 02 - Abbey Cellar.md",
-    "Backstories/Eragon.md",
     "Deities/Hercules.md",
     "Overarching Plot.md",
     "Backstories/Nix.md",
-    "Backstories/Gerhard.md",
     "Backstories/Party Members.md",
-    "The Aspects/The Aspects.md",
-    "The Aspects/Viondrúit.md"
+    "The Aspects/The Aspects.md"
   ]
 }
