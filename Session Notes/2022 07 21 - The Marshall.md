@@ -53,7 +53,12 @@ Creatures and objects that are fully immersed in water have resistance to fire d
 The town council to give the party use of the Sea Ghost, it continues to belong to the council
 Talk about freedom of movment in game
 Talk about settng up officers
-Talk about
+Talk about a crew
+Show the stat block
+Must return if called
+
+Contested by Gellan and Anders Solmar
+
 
 
 
