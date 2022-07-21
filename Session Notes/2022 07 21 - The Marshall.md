@@ -62,6 +62,11 @@ Contested by Gellan and Anders Solmar
 
 
 
+In the water, Pulse to be sent out by the artifact of [[Viondrúit]]
+Calling [[Chorazzo]] who replies suddenly and much much much louder.
+
+
+
 
 
 
