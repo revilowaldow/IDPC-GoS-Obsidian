@@ -73,3 +73,4 @@ Robbed 6 potions of healing, a potion of underwater breating, and a potion of ma
 Graham - similar accent to xendros
 
 
+Kairon Captain
