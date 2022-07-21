@@ -108,9 +108,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "48a485f56fd70c63",
+  "active": "aa215fc1835a0173",
   "lastOpenFiles": [
     "The Aspects/Chorazzo.md",
     "Session Notes/2022 07 21 - The Marshall.md",
