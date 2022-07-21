@@ -71,6 +71,11 @@ Robbed 6 potions of healing, a potion of underwater breating, and a potion of ma
 
 
 Graham - similar accent to xendros
+French
+
 
 
 Kairon Captain
+Gerhard First mate
+Bosun Eragon
+Nix Surgeon
