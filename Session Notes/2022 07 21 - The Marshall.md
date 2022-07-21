@@ -16,8 +16,6 @@ Wellgar Brinehanded
 Statue of [[St Cuthbert]]
 
 
-Arla & Vengi Carmaclo
-
 ## Golem Diver[
 
 Wellgar Brinehanded wants the statue in the cargo hold ([area M3](https://5e.warlow.engineer/adventure.html#GoS,8,m3.%20cargo%20hold,0)) of the _Marshal_ because he wants to put it in the temple of procan in saltmarsh to encourage greater attendance and diversity of faith. At the same time, Arla and Vengi Carmaclo, twin mages and worshipers of Iuz, want to recover the statue for themselves as it will please their deity.
@@ -40,7 +38,7 @@ Iron Golem. 
 
 When the characters arrive at the wreck of the _Marshal_, Arla and Vengi's [iron golem](https://5e.warlow.engineer/bestiary.html#iron%20golem_mm) is in [area M3](https://5e.warlow.engineer/adventure.html#GoS,8,m3.%20cargo%20hold,0), breaking the chains that bind the statue before it attempts to lift it out of the ship. If the characters try to hinder the golem, it attacks, fighting until the characters retreat. The golem allows the characters to help it bring the statue back to the _Bat Guano_.
 
-# Underwater CombatPHB p198[–]
+# Underwater Combat PHB p198[–]
 
 When adventurers pursue sahuagin back to their undersea homes, fight off sharks in an ancient shipwreck, or find themselves in a flooded dungeon room, they must fight in a challenging environment. Underwater the following rules apply.
 
@@ -49,6 +47,14 @@ When making a **melee weapon attack**, a creature that doesn't have a swimming 
 A **ranged weapon attack** automatically misses a target beyond the weapon's normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.
+
+<hr>
+
+The town council to give the party use of the Sea Ghost, it continues to belong to the council
+Talk about freedom of movment in game
+Talk about settng up officers
+Talk about
+
 
 
 
