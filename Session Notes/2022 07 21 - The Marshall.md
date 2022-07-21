@@ -79,3 +79,9 @@ Kairon Captain
 Gerhard First mate
 Bosun Eragon
 Nix Surgeon
+
+
+Remove BetterRolls45e
+
+Need to deliver Ki potion to Nix
+
