@@ -57,8 +57,7 @@ Talk about a crew
 Show the stat block
 Must return if called
 
-Contested by Gellan and Anders Solmar
-
+Contested by Gellan and Anders Solmar (Skerrin doesn't care)
 
 
 
