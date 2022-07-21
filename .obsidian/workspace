@@ -108,20 +108,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Locations/Azure Sea/The Wreck of the Marshall.md",
+    "Deities/St Cuthbert.md",
     "Session Notes/2022 07 21 - The Marshall.md",
+    "Locations/Azure Sea/Azure Sea.md",
     "Session Notes/2022 06 28 - Carnival.md",
     "Backstories/Nix.md",
     "Backstories/Kairon.md",
     "Granny Nightshade.md",
     "The Brotherhood.md",
-    "Backstories/Gerhard.md",
-    "Backstories/Eragon.md",
-    "Backstories/Auberon.md",
-    "Session Notes/2022 04 02 - Abbey Cellar.md"
+    "Backstories/Gerhard.md"
   ]
 }
