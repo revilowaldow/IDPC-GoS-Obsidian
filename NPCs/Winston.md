@@ -19,4 +19,6 @@ Reprisal?
 	Bandits
 	Guards
 
-Likely to take a vindictive
+Likely to take a vindictive approach
+
+Ambush - 
