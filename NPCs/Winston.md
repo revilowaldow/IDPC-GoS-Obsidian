@@ -21,4 +21,4 @@ Reprisal?
 
 Likely to take a vindictive approach
 
-Ambush - 
+Ambush - 3 beserkers, 1 gladiator
