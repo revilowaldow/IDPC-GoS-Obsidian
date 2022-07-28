@@ -8,3 +8,9 @@ The second city after the capital. Gradsul acts as the gateway between the Sangu
 
 Locations of note:
 - The Great Ring
+- Salt Baths
+- The Mines
+- The Citadel
+- The Docks
+- Tinker's Guild
+- 
