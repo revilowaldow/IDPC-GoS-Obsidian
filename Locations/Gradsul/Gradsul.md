@@ -1,0 +1,6 @@
+# Gradsul
+## The 
+
+![[Gradsul.webp]]
+
+
