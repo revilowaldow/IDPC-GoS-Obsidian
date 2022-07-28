@@ -13,4 +13,8 @@ Locations of note:
 - The Citadel
 - The Docks
 - Tinker's Guild
-- 
+- The Sapphire Conclave
+- Elven Tree
+- Timber Yard
+- Desert Hold Temple
+- Gilt Rock
