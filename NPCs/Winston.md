@@ -22,3 +22,5 @@ Reprisal?
 Likely to take a vindictive approach
 
 Ambush - 3 beserkers, 1 gladiator
+Intersection Map
+
