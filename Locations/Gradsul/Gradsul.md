@@ -1,5 +1,5 @@
 # Gradsul
-## The 
+## The Second City
 
 ![[Gradsul.webp]]
 
