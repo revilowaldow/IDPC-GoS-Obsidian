@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Gradsul/Gradsul.md",
+            "file": "Session Notes/2022 08 04 - The Marshall Wreck.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Gradsul/Gradsul.md",
+                "file": "Session Notes/2022 08 04 - The Marshall Wreck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
-    "NPCs/Winston.md",
     "Session Notes/2022 07 21 - The Marshall.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
+    "Session Notes/2022 0.md",
+    "Locations/Gradsul/Gradsul.md",
+    "NPCs/Winston.md",
     "Untitled.md",
     "Session Notes/2022 06 28 - Carnival.md",
     "The Aspects/Chorazzo.md",
     "Session Notes/2022 04 02 - Abbey Cellar.md",
-    "Locations/Azure Sea/The Wreck of the Marshall.md",
-    "Deities/St Cuthbert.md",
-    "Locations/Azure Sea/Azure Sea.md"
+    "Locations/Azure Sea/The Wreck of the Marshall.md"
   ]
 }
