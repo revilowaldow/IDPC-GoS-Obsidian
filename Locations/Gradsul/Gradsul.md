@@ -32,3 +32,5 @@ Scan the ship?
 	- 
 
 
+Later in the week they're starting the academic year and many boats will be allowed through
+Try and meet people in the city.
