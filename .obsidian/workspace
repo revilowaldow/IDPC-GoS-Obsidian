@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organisations/The Party.md",
+            "file": "Organisations/The Most Excellent Party of Loutists.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/The Party.md",
+                "file": "Organisations/The Most Excellent Party of Loutists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
-    "Locations/Gradsul/Gradsul.md",
+    "Organisations/The Party.md",
     "Backstories/Gerhard.md",
+    "Backstories/Kairon.md",
+    "Backstories/Nix.md",
+    "Backstories/Party Members.md",
+    "Locations/Gradsul/Gradsul.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 07 21 - The Marshall.md",
     "Session Notes/2022 0.md",
-    "NPCs/Winston.md",
-    "Untitled.md",
-    "Session Notes/2022 06 28 - Carnival.md",
-    "The Aspects/Chorazzo.md",
-    "Session Notes/2022 04 02 - Abbey Cellar.md"
+    "NPCs/Winston.md"
   ]
 }
