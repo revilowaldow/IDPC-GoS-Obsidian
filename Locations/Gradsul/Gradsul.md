@@ -30,4 +30,5 @@ Scan the ship?
 	- Have one of the members of the party of loutists be a performer? Maybe a gladiator, maybe a musician? 
 	- How did they get here from the hold, could Gerhard choose to rescue the rest? Plot hOOK
 	- 
-	- 
+
+
