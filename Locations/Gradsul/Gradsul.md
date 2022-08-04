@@ -18,3 +18,12 @@ Locations of note:
 - Timber Yard
 - Desert Hold Temple
 - Gilt Rock
+
+
+Alll trade to Strixhaven must be on a manifest.
+Potential avenue in from the 
+
+Scan the ship? 
+
+
+- The Great Ring - Tie to [[Gerhard]]
