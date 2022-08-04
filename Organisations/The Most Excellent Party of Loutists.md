@@ -7,4 +7,6 @@ Members:
 
 Cardan Ashblossom - Human - Vocalist - Waifishly thin - Male
 
+Beliss Ironfoot - Gnome - Percussionist - Maces - Made a deal / joined the Hold?
+
 
