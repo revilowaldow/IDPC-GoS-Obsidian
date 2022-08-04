@@ -26,4 +26,8 @@ Potential avenue in from the
 Scan the ship? 
 
 
-- The Great Ring - Tie to [[Gerhard]]
+- The Great Ring - Tie to [[Gerhard]]'s backstory
+	- Have one of the members of the party of loutists be a performer? Maybe a gladiator, maybe a musician? 
+	- How did they get here from the hold, could Gerhard choose to rescue the rest? Plot hOOK
+	- 
+	- 
