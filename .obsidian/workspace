@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Gradsul/Gradsul.md",
+            "file": "Organisations/The Party.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Gradsul/Gradsul.md",
+                "file": "Organisations/The Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +113,8 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
-    "Backstories/Gerhard.md",
     "Locations/Gradsul/Gradsul.md",
+    "Backstories/Gerhard.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 07 21 - The Marshall.md",
     "Session Notes/2022 0.md",
