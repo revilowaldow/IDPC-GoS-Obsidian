@@ -16,7 +16,9 @@ Interrupted my soak.
 Chorazzo was an old student of mine
 She and some other students banded together in an attempt to overthrow the university.
 Different opinions about magic we restricted.
-It culminated 
+It culminated it a divergence of paths and we decided to a take a backseat in the running of the university. 
+
+We thought the dissenters had been 
 
   
 > Introduco te in collegium Prismari.
