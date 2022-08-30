@@ -7,9 +7,11 @@
         "id": "48a485f56fd70c63",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Assets/Chorazzo.jpg"
+            "file": "The Aspects/The Aspects.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Chorazzo.jpg",
+                "file": "The Aspects/The Aspects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +113,15 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
-    "Assets/Maps/Gradsul.webp",
+    "The Aspects/Shimanteoroth.md",
+    "The Aspects/Chorazzo.md",
+    "The Aspects/Viondrúit.md",
     "Assets/Chorazzo.jpg",
+    "Assets/Maps/Gradsul.webp",
     "Backstories/Auberon.md",
     "Pasted image 20220804220643.png",
     "The Aspects/The Aspects.md",
     "Backstories/Nix.md",
-    "Backstories/Kairon.md",
-    "Backstories/Gerhard.md",
-    "Backstories/Eragon.md",
-    "Assets/Viondrúit.jpg"
+    "Backstories/Kairon.md"
   ]
 }
