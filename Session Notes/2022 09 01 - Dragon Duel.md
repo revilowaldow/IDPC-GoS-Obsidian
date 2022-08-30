@@ -13,8 +13,10 @@ Front of boat, 10ft talon hands
 
 Who the fuck are you, where did you get that?
 Interrupted my soak.
-
-
+Chorazzo was an old student of mine
+She and some other students banded together in an attempt to overthrow the university.
+Different opinions about magic we restricted.
+It culminated 
 
   
 > Introduco te in collegium Prismari.
