@@ -5,6 +5,6 @@
 | [[Viondrúit]]     | The Blinding Shadow   | Black  | Underdark/Mine | Adult   |
 | [[Chorazzo]]      | The Voltaic Maelstrom | Blue   | Azure Sea      | Ancient |
 | Tyvalth       | The Blizzard          | White  |                |         |
-|               |                       | Red    |                |         |
+| Chaeldrat     | The Inferno           | Red    |                |         |
 
 ![[Tiamat.jpg]]
