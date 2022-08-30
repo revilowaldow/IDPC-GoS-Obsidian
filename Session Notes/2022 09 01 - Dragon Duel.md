@@ -22,6 +22,7 @@ We thought the dissenters had been
 
   
 > Introduco te in collegium Prismari.
+> Collegii tui praesidium sit tibi.
 
 Precision of a quill but with a talon the size of a glaive
 
