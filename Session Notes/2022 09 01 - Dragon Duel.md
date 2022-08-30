@@ -10,4 +10,14 @@ Have chorazon breathweapon Galeth
 Rescue the party and drive off Chorazzo
 
 Front of boat, 10ft talon hands
+
 Who the fuck are you, where did you get that?
+Interrupted my soak.
+
+
+
+  
+> Introduco te in collegium Prismari.
+
+Precision of a quill but with a talon the size of a glaive
+
