@@ -7,11 +7,9 @@
         "id": "48a485f56fd70c63",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Session Notes/2022 07 21 - The Marshall.md",
-            "mode": "source",
-            "source": false
+            "file": "Assets/Chorazzo.jpg"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 07 21 - The Marshall.md",
+                "file": "Assets/Chorazzo.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +111,15 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Assets/Maps/Gradsul.webp",
+    "Assets/Chorazzo.jpg",
+    "Backstories/Auberon.md",
     "Pasted image 20220804220643.png",
-    "Session Notes/2022 07 21 - The Marshall.md",
-    "Deities/St Cuthbert.md",
-    "Session Notes/2022 06 28 - Carnival.md",
-    "Session Notes/2022 08 04 - The Marshall Wreck.md",
-    "Organisations/The Most Excellent Party of Loutists.md",
-    "Organisations/The Party.md",
-    "Backstories/Gerhard.md",
+    "The Aspects/The Aspects.md",
+    "Backstories/Nix.md",
     "Backstories/Kairon.md",
-    "Backstories/Nix.md"
+    "Backstories/Gerhard.md",
+    "Backstories/Eragon.md",
+    "Assets/Viondrúit.jpg"
   ]
 }
