@@ -9,3 +9,5 @@ Have Galeth Prismari join after one round.
 Have chorazon breathweapon Galeth
 Rescue the party and drive off Chorazzo
 
+Front of boat, 10ft talon hands
+Who the fuck are you, where did you get that?
