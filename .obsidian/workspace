@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Session Notes/2022 09 01 - Dragon Duel.md",
+            "file": "The Aspects/The Aspects.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 09 01 - Dragon Duel.md",
+                "file": "The Aspects/The Aspects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,8 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Granny Nightshade.md",
+    "Session Notes/2022 09 01 - Dragon Duel.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 07 21 - The Marshall.md",
     "The Aspects/The Aspects.md",
@@ -120,8 +122,6 @@
     "The Aspects/Chorazzo.md",
     "The Aspects/Viondrúit.md",
     "Assets/Chorazzo.jpg",
-    "Assets/Maps/Gradsul.webp",
-    "Backstories/Auberon.md",
-    "Pasted image 20220804220643.png"
+    "Assets/Maps/Gradsul.webp"
   ]
 }
