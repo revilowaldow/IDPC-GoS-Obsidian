@@ -28,5 +28,5 @@ We thought the dissenters had been
 That should keep you safe, and uhhh, I put a little extra in it as well. 
 Precision of a quill but with a talon the size of a glaive
 
-Come to Strixhaven, where I will be able to remove this entirely. New academic year starting soon.  Ship repairs in Gradsul on your way I imagine.
+Come to Strixhaven, where I will be able to remove this entirely. New academic year starts new week.  Ship repairs in Gradsul on your way I imagine.
 
