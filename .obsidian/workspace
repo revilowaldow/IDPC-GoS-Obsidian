@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deities/St Cuthbert.md",
+            "file": "Session Notes/2022 09 01 - Dragon Duel.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities/St Cuthbert.md",
+                "file": "Session Notes/2022 09 01 - Dragon Duel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Deities/St Cuthbert.md",
     "The Aspects/The Aspects.md",
     "Granny Nightshade.md",
     "Session Notes/2022 09 01 - Dragon Duel.md",
@@ -121,7 +122,6 @@
     "The Aspects/Shimanteoroth.md",
     "The Aspects/Chorazzo.md",
     "The Aspects/Viondrúit.md",
-    "Assets/Chorazzo.jpg",
-    "Assets/Maps/Gradsul.webp"
+    "Assets/Chorazzo.jpg"
   ]
 }
