@@ -29,3 +29,5 @@ Precision of a quill but with a talon the size of a glaive
 
 Come to Strixhaven, where I will be able to remove this entirely. New academic year starts new week.  Ship repairs in Gradsul on your way I imagine.
 
+<hr>
+
