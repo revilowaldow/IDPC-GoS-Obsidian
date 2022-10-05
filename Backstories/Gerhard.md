@@ -16,3 +16,5 @@ The guards knew a fighter was missing, but they also knew the futility of search
 
 The ship made landfall in Saltmarsh. Gerhard set himself up as a performer in a local tavern, earning his keep and trying to forget about his time as a fighter in the Hold. It was here at the tavern he met the rest of Malc and Men, and determined to get revenge.
 
+<hr>
+
