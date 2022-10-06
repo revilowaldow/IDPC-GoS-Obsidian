@@ -10,3 +10,9 @@ Tavern?
 Crab - Bess wants to get things shipshape
 
 Maybe roll the incident table?
+
+
+Flames, get off the bandit
+Floating camel
+Winston
+
