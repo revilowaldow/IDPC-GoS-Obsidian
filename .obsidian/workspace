@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Founders/Galazeth Prismari.md",
+            "file": "Organisations/The Most Excellent Party of Loutists.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Founders/Galazeth Prismari.md",
+                "file": "Organisations/The Most Excellent Party of Loutists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "The Founders/Galazeth Prismari.md",
     "Locations/Saltmarsh/Saltmarsh Village.md",
     "Organisations/The Most Excellent Party of Loutists.md",
     "Backstories/Gerhard.md",
@@ -121,7 +122,6 @@
     "Session Notes/2022 09 01 - Dragon Duel.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Deities/St Cuthbert.md",
-    "The Aspects/The Aspects.md",
-    "Granny Nightshade.md"
+    "The Aspects/The Aspects.md"
   ]
 }
