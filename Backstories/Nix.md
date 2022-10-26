@@ -1,4 +1,3 @@
-# Nix
 ![[NIX.png]]
 ![[NixToken3.png]]
 Nix’s story starts not from tragedy, but from ambition and thirst for knowledge. His early years were spent amongst a warm, loyal and caring family, who were integral to their local town community. The mountain dwarves of Cipherus lived happily and quietly in a secluded network of caves and mountainous plateaus across the hilltops of the Cipher mountains. These were generally incredibly inhospitable lands, so rarely did they receive visitors of other races and creeds.

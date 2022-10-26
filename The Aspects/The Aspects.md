@@ -1,4 +1,4 @@
-# The Aspects
+
 | Name          | Title                 | Colour | Location       | Age     |
 | ------------- | --------------------- | ------ | -------------- | ------- |
 | [[Shimanteoroth]] | The Noxious Tempest   | Green  | Inland         | Ancient |

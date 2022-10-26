@@ -1,5 +1,3 @@
-# 2022 04 02 - Abbey Cellar
-
 Work through the basement
 
 Introduce the statue of [[Viondrúit]]

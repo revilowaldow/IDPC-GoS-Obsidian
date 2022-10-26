@@ -1,4 +1,3 @@
-# Auberon
 ![[Auberon.jpg]]
 ![[Auberon Token.png]]
 

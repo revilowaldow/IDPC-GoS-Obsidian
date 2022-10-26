@@ -1,4 +1,3 @@
-# The Party
 ## Of Malc and Men
 
 # Party Members

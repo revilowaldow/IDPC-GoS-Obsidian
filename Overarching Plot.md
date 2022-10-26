@@ -1,4 +1,3 @@
-# Overarching Plot
 
 Aspect of Tiamat
 

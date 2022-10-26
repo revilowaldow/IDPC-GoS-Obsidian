@@ -1,4 +1,3 @@
-# 2022 10 05 - Ambush in Saltmarsh
 
 Run combat
 Surrender?

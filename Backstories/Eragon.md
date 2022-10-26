@@ -1,4 +1,3 @@
-# Eragon
 ![[Eragon.jpg]]
 ![[Eragon Token.png]]
 

@@ -1,4 +1,3 @@
-# The Most Excellent Party of Loutists
 
 Members: 
 

@@ -1,5 +1,3 @@
-# 2022 09 01 - Dragon Duel
-
 Being attacked by the bat Guano, who want the statue.
 Out of most resources
 

@@ -1,4 +1,3 @@
-# Gerhard von Scineiffer
 ![[Assets/Party/Character Art/Gerhard.jpg]]
 ![[Gerhard Token.png]]
 

@@ -1,4 +1,3 @@
-# St Cuthbert
 https://greyhawk.fandom.com/wiki/St._Cuthbert
 
 

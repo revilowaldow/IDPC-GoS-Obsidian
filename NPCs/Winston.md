@@ -1,5 +1,3 @@
-# Winston
-
 Located in [[Saltmarsh Village]]
 Uses 
 

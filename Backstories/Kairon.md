@@ -1,4 +1,3 @@
-# Kairon
 ![[Kairon.jpg]]
  ![[Kairon Token.png]]
 ## Origin:
