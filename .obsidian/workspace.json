@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a04aae262b4f7163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,8 +151,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "132014ad66053a12",
+  "active": "a04aae262b4f7163",
   "lastOpenFiles": [
+    "Session Notes/Untitled.md",
     "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Deities/Hercules.md",
     "Backstories/Nix.md",
@@ -149,7 +162,6 @@
     "Backstories/Eragon.md",
     "Backstories/Gerhard.md",
     "Deities/St Cuthbert.md",
-    "Locations/Saltmarsh/Saltmarsh Village.md",
-    "Locations/Gradsul/Gradsul.md"
+    "Locations/Saltmarsh/Saltmarsh Village.md"
   ]
 }

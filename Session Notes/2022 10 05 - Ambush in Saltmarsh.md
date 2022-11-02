@@ -15,3 +15,8 @@ Flames, get off the bandit
 Floating camel
 Winston
 
+Fight in Winstons Store
+Escape into Basement
+Scrolls
+
+
