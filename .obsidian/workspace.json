@@ -145,13 +145,14 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "92ab773994d0b8e8",
+  "active": "c0bce58b9e528af7",
   "lastOpenFiles": [
     "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
