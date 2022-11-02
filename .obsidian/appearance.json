@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "justify"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Discordian"
 }
