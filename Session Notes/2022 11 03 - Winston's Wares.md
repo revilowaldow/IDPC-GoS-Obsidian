@@ -7,7 +7,7 @@ Loot Winston's Upper level
 
 Lower level
 - What order of entry
-- Transmuter Wizard teleport out
+- Transmuter Wizard teleport out/throw barrel at them?
 - Dragonborn gladiators - Dissenter Subordiantes
 - Winston throw ball bearings - golems
 - Brawler
