@@ -18,4 +18,16 @@ Lower level
 - Tools
 - Smugglers - Defended by loyalists
 - Potential Link to Kedlek?
-- 
+
+
+
+<hr>
+
+
+Fled the basement
+
+Used golden thread with mr witch - invisibility - reward
+
+Winston - sending stone - Gellan Primewater
+
+Head off in lo
