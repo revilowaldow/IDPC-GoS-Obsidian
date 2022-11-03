@@ -30,4 +30,6 @@ Used golden thread with mr witch - invisibility - reward
 
 Winston - sending stone - Gellan Primewater
 
-Head off in lo
+Head off in lobby
+
+
