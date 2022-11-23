@@ -3987,9 +3987,15 @@
   "showAdvanced": false,
   "version": {
     "major": 2,
-    "minor": 14,
-    "patch": 8
+    "minor": 23,
+    "patch": 0
   },
-  "path": "/",
-  "autoParse": false
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "path": "/"
 }

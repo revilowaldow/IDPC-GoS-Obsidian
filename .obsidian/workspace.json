@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 11 03 - Winston's Wares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,26 +108,10 @@
             }
           },
           {
-            "id": "c0bce58b9e528af7",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "b612bf143b98469d",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "92ab773994d0b8e8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
@@ -143,19 +125,35 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "66759dc315232045",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7d96f63b28b4f15",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "a04aae262b4f7163",
+  "active": "48a485f56fd70c63",
   "lastOpenFiles": [
-    "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
+    "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Deities/Hercules.md",
     "Backstories/Nix.md",
     "Backstories/Kairon.md",
