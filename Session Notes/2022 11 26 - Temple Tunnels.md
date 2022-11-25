@@ -4,7 +4,7 @@ Watch for day change and remove tiger
 
 Acquired items (potion from earlier session)
 
-Gellan Primewater still in basement
+[[Gellan Primewater]] still in basement
 - Clearing out evidence
 - Recovery of sending stone
 
@@ -20,7 +20,7 @@ Temple tunnels
 - Sign, go around - thieves cant
 - Small Bones everywhere
 - Broken bucket
-- Winston, double ball bearing golems
+- [[Winston]], double ball bearing golems
 
 ### Music
 - https://www.youtube.com/watch?v=K1JvqHnSHfc Tunnels

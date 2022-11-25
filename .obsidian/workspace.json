@@ -32,9 +32,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09d828a29705c82d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Seaton.md",
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d064a915e0a09744",
+  "active": "48a485f56fd70c63",
   "lastOpenFiles": [
-    "Organisations/The Brotherhood.md",
     "Locations/Cities/Seaton.md",
+    "Pasted image 20221125140946.png",
+    "Pasted image 20220804220643.png",
+    "Locations/Cities/Burle.md",
+    "Organisations/Scarlet Brotherhood.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Scarlet Brotherhood.md",
     "Organisations/The Most Excellent Party of Loutists.md",
     "Brotherhood.md",
-    "Locations/Cities/Gradsul.md",
-    "Session Notes/2022 11 03 - Winston's Wares.md",
-    "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
-    "Deities/Hercules.md"
+    "Locations/Cities/Gradsul.md"
   ]
 }
