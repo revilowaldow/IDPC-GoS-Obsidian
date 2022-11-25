@@ -29,3 +29,4 @@ Temple tunnels
 - https://sounds.tabletopaudio.com/233_The_Orrery.mp3 Temple
 - https://sounds.tabletopaudio.com/244_Vikings.mp3 Nautical Combat
 - https://sounds.tabletopaudio.com/223_Salt_Marsh.mp3 An actual Salt Marsh
+- https://sounds.tabletopaudio.com/172_Castle_Jail.mp3 Jail
