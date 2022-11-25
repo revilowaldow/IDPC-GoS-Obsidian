@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43b9a2460831787c",
+        "id": "1799d94e9213ad62",
         "type": "tabs",
         "children": [
           {
-            "id": "48a485f56fd70c63",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "132014ad66053a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a04aae262b4f7163",
+            "id": "e94ef85589f53425",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,8 +19,27 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "ce48464c1c458fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a485f56fd70c63",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 11 03 - Winston's Wares.md",
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a04aae262b4f7163",
+  "active": "48a485f56fd70c63",
   "lastOpenFiles": [
     "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
+    "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Deities/Hercules.md",
     "Backstories/Nix.md",
     "Backstories/Kairon.md",
     "Backstories/Auberon.md",
     "Backstories/Eragon.md",
     "Backstories/Gerhard.md",
-    "Deities/St Cuthbert.md",
-    "Locations/Saltmarsh/Saltmarsh Village.md"
+    "Deities/St Cuthbert.md"
   ]
 }
