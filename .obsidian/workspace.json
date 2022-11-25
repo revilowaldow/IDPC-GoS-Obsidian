@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/The Most Excellent Party of Loutists.md",
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e94ef85589f53425",
+  "active": "48a485f56fd70c63",
   "lastOpenFiles": [
+    "Organisations/The Most Excellent Party of Loutists.md",
     "Locations/Gradsul/Gradsul.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
@@ -161,7 +162,6 @@
     "Backstories/Nix.md",
     "Backstories/Kairon.md",
     "Backstories/Auberon.md",
-    "Backstories/Eragon.md",
-    "Backstories/Gerhard.md"
+    "Backstories/Eragon.md"
   ]
 }
