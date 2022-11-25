@@ -29,4 +29,8 @@ Temple tunnels
 - https://sounds.tabletopaudio.com/233_The_Orrery.mp3 Temple
 - https://sounds.tabletopaudio.com/244_Vikings.mp3 Nautical Combat
 - https://sounds.tabletopaudio.com/223_Salt_Marsh.mp3 An actual Salt Marsh
-- https://sounds.tabletopaudio.com/172_Castle_Jail.mp3 Jail
+- https://sounds.tabletopaudio.com/172_Castle_Jail.mp3 Jail, just in case
+- https://sounds.tabletopaudio.com/166_Quiet_Cove.mp3 Beach
+- https://sounds.tabletopaudio.com/132_Open_Ocean.mp3 Ocean
+- https://sounds.tabletopaudio.com/137_Mill_Town_a.mp3 Mill
+- https://sounds.tabletopaudio.com/62_Middle_Earth_Dawn.mp3 Dawn
