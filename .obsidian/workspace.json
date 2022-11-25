@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Scarlet Brotherhood.md",
+                "file": "Anders Solmor.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Scarlet Brotherhood.md",
+                "file": "Anders Solmor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,15 +187,15 @@
   },
   "active": "d79c4325478e2875",
   "lastOpenFiles": [
-    "[Anders.md",
+    "Locations/Saltmarsh/14. Council Hall.md",
     "Organisations/Scarlet Brotherhood.md",
+    "[Anders.md",
     "Anders.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Locations/Cities/Seaton.md",
     "The Aspects/The Aspects.md",
     "The Founders/The Founders.md",
     "The Founders/Galazeth Prismari.md",
-    "The Aspects/Shimanteoroth.md",
-    "The Aspects/Chorazzo.md"
+    "The Aspects/Shimanteoroth.md"
   ]
 }
