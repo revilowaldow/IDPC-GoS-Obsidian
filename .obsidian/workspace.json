@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Witchlight Festival.md",
+                "file": "Kiara Shadowbreaker.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kiara Shadowbreaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +225,9 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "822de292e782c1c8",
+  "active": "29a44cc2b6c97972",
   "lastOpenFiles": [
+    "Locations/Cities/Burle.md",
     "Organisations/Witchlight Festival.md",
     "Locations/Dreadwood.md",
     "Locations/Saltmarsh/Council Hall.md",
@@ -234,7 +236,6 @@
     "Of Malc and Men/Subordinates/Sea Ghost.md",
     "NPCs/Granny Nightshade.md",
     "NPCs/King Kimbertos Skotti.md",
-    "Locations/Saltmarsh/Saltmarsh.md",
-    "Of Malc and Men/Subordinates/The Snapping Line.md"
+    "Locations/Saltmarsh/Saltmarsh.md"
   ]
 }
