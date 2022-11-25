@@ -28,7 +28,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022 07 21 - The Marshall.md",
+                "file": "Strixhaven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8072444f4d4611f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Founders/The Founders.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 07 21 - The Marshall.md",
+                "file": "Strixhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,15 +190,15 @@
   },
   "active": "17bd2653f864b4fc",
   "lastOpenFiles": [
+    "The Founders/The Founders.md",
+    "Strixhaven.md",
+    "Of Malc and Men/Subordinates/Sea Ghost.md",
     "Session Notes/2022 07 21 - The Marshall.md",
+    "We.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
-    "Of Malc and Men/Subordinates/Sea Ghost.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Of Malc and Men/Auberon.md",
-    "Session Notes/2022 11 03 - Winston's Wares.md",
-    "Organisations/Scarlet Brotherhood.md",
-    "Gellan.md",
-    "NPCs/Council/Gellan Primewater.md"
+    "Session Notes/2022 11 03 - Winston's Wares.md"
   ]
 }

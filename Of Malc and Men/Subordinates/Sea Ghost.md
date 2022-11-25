@@ -8,9 +8,14 @@
 
 
 
+## Officers:
 
-
-
+| Person  | Role       |
+| ------- | ---------- |
+| [[Kairon]]  | Captain    |
+| [[Gerhard]] | First mate |
+| [[Eragon]]   | Bosun     |
+| [[Nix]]     | Surgeon    |
 
 
 
