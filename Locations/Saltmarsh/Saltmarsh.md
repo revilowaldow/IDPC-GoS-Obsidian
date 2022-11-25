@@ -3,4 +3,4 @@
 
 [[The Snapping Line]]
 
-[[14. Council Hall]]
+[[Council Hall]]
