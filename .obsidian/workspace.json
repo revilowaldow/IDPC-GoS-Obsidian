@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Seaton.md",
+                "file": "NPCs/King Kimbertos Skotti.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,8 +40,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "aa8de7679c98acb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
+                "file": "Session Notes/Session Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,24 +159,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "48a485f56fd70c63",
+  "active": "aa8de7679c98acb2",
   "lastOpenFiles": [
+    "NPCs/King Kimbertos Skotti.md",
+    "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Locations/Cities/Seaton.md",
     "Pasted image 20221125140946.png",
     "Pasted image 20220804220643.png",
     "Locations/Cities/Burle.md",
     "Organisations/Scarlet Brotherhood.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Scarlet Brotherhood.md",
     "Organisations/The Most Excellent Party of Loutists.md",
-    "Brotherhood.md",
-    "Locations/Cities/Gradsul.md"
+    "Brotherhood.md"
   ]
 }
