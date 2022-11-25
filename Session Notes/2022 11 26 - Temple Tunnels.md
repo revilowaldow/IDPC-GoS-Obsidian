@@ -25,5 +25,6 @@ Temple tunnels
 ### Music
 - https://www.youtube.com/watch?v=K1JvqHnSHfc Tunnels
 - https://www.youtube.com/watch?v=Da9S9yjZZP4 Gradsul
-- 
+- https://sounds.tabletopaudio.com/167_Fishing_Village.mp3 Saltmarsh
+- https://sounds.tabletopaudio.com/233_The_Orrery.mp3 Temple
 - 
