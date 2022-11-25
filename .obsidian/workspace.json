@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/The Most Excellent Party of Loutists.md",
+                "file": "Locations/Cities/Seaton.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
+                "file": "Locations/Cities/Seaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48a485f56fd70c63",
+  "active": "e94ef85589f53425",
   "lastOpenFiles": [
     "Organisations/The Most Excellent Party of Loutists.md",
-    "Locations/Gradsul/Gradsul.md",
+    "Brotherhood.md",
+    "Locations/Cities/Seaton.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Locations/Cities/Gradsul.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
     "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Deities/Hercules.md",
     "Backstories/Nix.md",
-    "Backstories/Kairon.md",
-    "Backstories/Auberon.md",
-    "Backstories/Eragon.md"
+    "Backstories/Kairon.md"
   ]
 }
