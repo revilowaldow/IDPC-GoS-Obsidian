@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Dreadwood.md",
+                "file": "Sea Princes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,18 +77,6 @@
             }
           },
           {
-            "id": "29a44cc2b6c97972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kiara Shadowbreaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "58bcb88455156cee",
             "type": "leaf",
             "state": {
@@ -113,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kiara Shadowbreaker.md",
+                "file": "Sea Princes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,17 +213,17 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "29a44cc2b6c97972",
+  "active": "17bd2653f864b4fc",
   "lastOpenFiles": [
-    "Locations/Cities/Burle.md",
-    "Organisations/Witchlight Festival.md",
-    "Locations/Dreadwood.md",
-    "Locations/Saltmarsh/Council Hall.md",
     "Locations/Cities/Seaton.md",
+    "Duke Marik Feldren.md",
+    "Locations/Cities/Burle.md",
+    "Kiara Shadowbreaker.md",
+    "Locations/Dreadwood.md",
+    "Organisations/Witchlight Festival.md",
+    "Locations/Saltmarsh/Council Hall.md",
     "Deities/Iuz.md",
     "Of Malc and Men/Subordinates/Sea Ghost.md",
-    "NPCs/Granny Nightshade.md",
-    "NPCs/King Kimbertos Skotti.md",
-    "Locations/Saltmarsh/Saltmarsh.md"
+    "NPCs/Granny Nightshade.md"
   ]
 }
