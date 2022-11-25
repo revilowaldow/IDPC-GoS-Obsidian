@@ -10,7 +10,13 @@ Gellan Primewater still in basement
 
 Burial Area for body disposal
 - Swimming with the fishes
-- Loot in pool?
+- Loot in pool? - Just a few coins
 - Bones in pool
+
+Temple tunnels
+- Phase Spider
+- Arms Cache
+- Dead Bandit - info?
+- Sign, go around
 - 
 
