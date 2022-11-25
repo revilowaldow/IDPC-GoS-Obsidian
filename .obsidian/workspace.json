@@ -28,13 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Founders/The Founders.md",
+                "file": "Session Notes/2022 09 01 - Dragon Duel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3f766d30d9967454",
@@ -63,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2022 09 01 - Dragon Duel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,17 +176,17 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "822de292e782c1c8",
+  "active": "c8072444f4d4611f",
   "lastOpenFiles": [
+    "The Founders/Galazeth Prismari.md",
+    "The Founders/The Founders.md",
+    "Of Malc and Men/Auberon.md",
     "Of Malc and Men/Subordinates/Sea Ghost.md",
     "Overarching Plot.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Organisations/Sea Princes.md",
     "Locations/Cities/Seaton.md",
     "Duke Marik Feldren.md",
-    "Locations/Cities/Burle.md",
-    "Kiara Shadowbreaker.md",
-    "Locations/Dreadwood.md",
-    "Organisations/Witchlight Festival.md"
+    "Locations/Cities/Burle.md"
   ]
 }
