@@ -3,12 +3,12 @@ Loot Winston's Upper level
 - Potions
 - Potion of maximum power missing
 - Smuggled equipment
-- Sending Stone to [[Gellan]]
+- Sending Stone to [[Gellan Primewater|Gellan]]
 
 Lower level
 - What order of entry
 - Transmuter Wizard teleport out/throw barrel at them?
-- Dragonborn gladiators - Dissenter Subordiantes
+- Dragonborn gladiators - [[The Dissenters|Dissenter]] Subordiantes
 - [[Winston]] throw ball bearings - golems
 - Brawler
 - Winston try to escape through tunnel

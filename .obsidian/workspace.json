@@ -6,6 +6,7 @@
       {
         "id": "ce48464c1c458fdb",
         "type": "tabs",
+        "dimension": 44.10229645093946,
         "children": [
           {
             "id": "48a485f56fd70c63",
@@ -26,6 +27,7 @@
       {
         "id": "3f766d30d9967454",
         "type": "tabs",
+        "dimension": 55.89770354906054,
         "children": [
           {
             "id": "30e9cea9ef75e145",
@@ -33,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Council/Skerrin Wavechaser.md",
+                "file": "Session Notes/2022 07 21 - The Marshall.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,21 +50,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "ccf722b8d4157241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Cities/Gradsul.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Gradsul.md",
+                "file": "Session Notes/2022 07 21 - The Marshall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,23 +156,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 565
   },
-  "active": "ccf722b8d4157241",
+  "active": "30e9cea9ef75e145",
   "lastOpenFiles": [
     "Session Notes/2022 11 03 - Winston's Wares.md",
+    "Session Notes/2022 07 21 - The Marshall.md",
+    "Organisations/Scarlet Brotherhood.md",
+    "Gellan.md",
+    "NPCs/Council/Gellan Primewater.md",
+    "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Locations/Cities/Gradsul.md",
     "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Session Notes/2022 09 01 - Dragon Duel.md",
-    "The Dissenters/The Dissenters.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Session Notes/2022 08 04 - The Marshall Wreck.md",
-    "Session Notes/2022 07 21 - The Marshall.md",
-    "Session Notes/2022 06 28 - Carnival.md",
-    "Organisations/Scarlet Brotherhood.md",
-    "Locations/Saltmarsh/14. Council Hall.md"
+    "The Dissenters/The Dissenters.md"
   ]
 }

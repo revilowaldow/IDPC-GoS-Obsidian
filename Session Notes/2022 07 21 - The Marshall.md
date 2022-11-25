@@ -49,14 +49,14 @@ Creatures and objects that are fully immersed in water have resistance to fire d
 
 <hr>
 
-The town council to give the party use of the Sea Ghost, it continues to belong to the council
+The town council to give the party use of the [[Sea Ghost]], it continues to belong to the council
 Talk about freedom of movment in game
 Talk about settng up officers
 Talk about a crew
 Show the stat block
 Must return if called
 
-Contested by [[Gellan]] and [[Anders Solmor]] ([[Skerrin Wavechaser|Skerrin]] doesn't care)
+Contested by [[Gellan Primewater|Gellan]] and [[Anders Solmor]] ([[Skerrin Wavechaser|Skerrin]] doesn't care)
 
 
 
@@ -69,7 +69,7 @@ Calling [[Chorazzo]] who replies suddenly and much much much louder.
 Robbed 6 potions of healing, a potion of underwater breating, and a potion of maximum power from [[Winston]]
 
 
-Graham - similar accent to xendros
+[[Graham]] - similar accent to [[xendros]]
 French
 
 
@@ -80,7 +80,7 @@ Bosun Eragon
 Nix Surgeon
 
 
-Remove BetterRolls45e
+- [x] Remove BetterRolls45e
 
 Need to deliver Ki potion to Nix
 

@@ -2,7 +2,7 @@
 
 The Scarlet Brotherhood is an opportunistic faction. It seeks to cause the maximum amount of disruption with the least amount of risk.
 
-The Brotherhood wants to tilt the town council in its favor and install [[Anders Solmor|Anders]] as the most prominent member. Their first goal is to find evidence of [[Gellan Primewater]]'s involvement with the [[Sea Princes]] and implicate his participation in the slave trade. Such evidence is not hard to find once [[Gellan]]'s dealings with the [[Sea Princes]] are revealed.
+The Brotherhood wants to tilt the town council in its favor and install [[Anders Solmor|Anders]] as the most prominent member. Their first goal is to find evidence of [[Gellan Primewater]]'s involvement with the [[Sea Princes]] and implicate his participation in the slave trade. Such evidence is not hard to find once [[Gellan Primewater|Gellan]]'s dealings with the [[Sea Princes]] are revealed.
 
 The Brotherhood plans to use such accusations to increase tension in town between the [[Traditionalists]] and the [[Loyalists]], ignite a civil war, assassinate leaders on both sides, and then use Anders as a peacemaker. Then the Brotherhood plans to assassinate [[Anders Solmor|Anders]], frame the [[Sea Princes]], and install [[Skerrin Wavechaser|Skerrin]] as his replacement as the town's foremost leader. Finally, [[Skerrin Wavechaser|Skerrin]] will agitate for war and continue to help Brotherhood agents infiltrate [[Keoland]]'s towns in the south.
 
