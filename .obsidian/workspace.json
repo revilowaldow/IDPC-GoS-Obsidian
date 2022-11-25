@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anders Solmor.md",
+                "file": "NPCs/Council/Anders Solmor.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anders Solmor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +184,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d79c4325478e2875",
+  "active": "822de292e782c1c8",
   "lastOpenFiles": [
+    "NPCs/Council/Anders Solmor.md",
     "Locations/Saltmarsh/14. Council Hall.md",
     "Organisations/Scarlet Brotherhood.md",
     "[Anders.md",
@@ -195,7 +195,6 @@
     "Locations/Cities/Seaton.md",
     "The Aspects/The Aspects.md",
     "The Founders/The Founders.md",
-    "The Founders/Galazeth Prismari.md",
-    "The Aspects/Shimanteoroth.md"
+    "The Founders/Galazeth Prismari.md"
   ]
 }
