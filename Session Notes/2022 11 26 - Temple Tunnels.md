@@ -27,4 +27,5 @@ Temple tunnels
 - https://www.youtube.com/watch?v=Da9S9yjZZP4 Gradsul
 - https://sounds.tabletopaudio.com/167_Fishing_Village.mp3 Saltmarsh
 - https://sounds.tabletopaudio.com/233_The_Orrery.mp3 Temple
-- 
+- https://sounds.tabletopaudio.com/244_Vikings.mp3 Nautical Combat
+- https://sounds.tabletopaudio.com/223_Salt_Marsh.mp3 An actual Salt Marsh
