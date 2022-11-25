@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022 09 01 - Dragon Duel.md",
+                "file": "NPCs/Winston.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 09 01 - Dragon Duel.md",
+                "file": "NPCs/Winston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,15 +178,15 @@
   },
   "active": "c8072444f4d4611f",
   "lastOpenFiles": [
+    "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
+    "Of Malc and Men/Auberon.md",
+    "Session Notes/2022 07 21 - The Marshall.md",
+    "Session Notes/2022 08 04 - The Marshall Wreck.md",
+    "The Dissenters/Chorazzo.md",
+    "Session Notes/2022 09 01 - Dragon Duel.md",
     "The Founders/Galazeth Prismari.md",
     "The Founders/The Founders.md",
-    "Of Malc and Men/Auberon.md",
     "Of Malc and Men/Subordinates/Sea Ghost.md",
-    "Overarching Plot.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Organisations/Sea Princes.md",
-    "Locations/Cities/Seaton.md",
-    "Duke Marik Feldren.md",
-    "Locations/Cities/Burle.md"
+    "Overarching Plot.md"
   ]
 }
