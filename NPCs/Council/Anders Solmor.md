@@ -11,7 +11,7 @@ Anders is sunny and optimistic. He sees the potential for profit and opportunity
 Anders believes that freedom is the root of happiness. He pays his employees well and wants to help [[Saltmarsh]] grow into a prosperous town. Above all else, he hates the [[Sea Princes]] and wants to see their realm and its slave trade scoured from the earth.
 
 #### Bond. 
-Anders's mother [[Petra]] was the center of his life, and his sense of responsibility stems from her example. Every important decision he makes is guided by his desire to live up to her standards. If [[Skerrin]] is implicated in her murder, his hold over Anders would be shattered. For now, [[Skerrin]] uses [[Petra]]'s memory to fan Anders's antipathy toward the [[Sea Princes]].
+Anders's mother [[Petra]] was the center of his life, and his sense of responsibility stems from her example. Every important decision he makes is guided by his desire to live up to her standards. If [[Skerrin Wavechaser|Skerrin]] is implicated in her murder, his hold over Anders would be shattered. For now, [[Skerrin Wavechaser|Skerrin]] uses [[Petra]]'s memory to fan Anders's antipathy toward the [[Sea Princes]].
 
 #### Flaw. 
-Due to a combination of his youth and his somewhat sheltered upbringing, Anders is naïve. He relied on his mother's expertise in most matters, which has allowed [[Skerrin]] to worm his way into Anders's confidence.
+Due to a combination of his youth and his somewhat sheltered upbringing, Anders is naïve. He relied on his mother's expertise in most matters, which has allowed [[Skerrin Wavechaser|Skerrin]] to worm his way into Anders's confidence.
