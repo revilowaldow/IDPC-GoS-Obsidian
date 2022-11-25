@@ -44,18 +44,6 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "fa0441415d0daf3b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Deities/Procan.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ]
           }
@@ -77,8 +65,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d79c4325478e2875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Aspects/The Aspects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Saltmarsh/14. Council Hall.md",
+                "file": "The Aspects/The Aspects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +190,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f7d96f63b28b4f15",
+  "active": "d79c4325478e2875",
   "lastOpenFiles": [
-    "Locations/Saltmarsh/Saltmarsh.md",
-    "Locations/Saltmarsh/13. The Snapping Line.md",
+    "The Founders/Galazeth Prismari.md",
+    "The Aspects/The Aspects.md",
+    "The Aspects/Shimanteoroth.md",
+    "The Aspects/Chorazzo.md",
     "Locations/Cities/Seaton.md",
     "Deities/Procan.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Pasted image 20221125140946.png",
-    "Pasted image 20220804220643.png",
-    "Session Notes/2022 11 03 - Winston's Wares.md",
-    "Assets/Viondrúit.jpg",
-    "Assets/Tiamat.jpg"
+    "Locations/Saltmarsh/14. Council Hall.md",
+    "Locations/Saltmarsh/Saltmarsh.md",
+    "Locations/Saltmarsh/13. The Snapping Line.md",
+    "Session Notes/2022 11 26 - Temple Tunnels.md"
   ]
 }
