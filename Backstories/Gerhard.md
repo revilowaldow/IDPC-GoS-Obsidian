@@ -1,7 +1,7 @@
 ![[Assets/Party/Character Art/Gerhard.jpg]]
 ![[Gerhard Token.png]]
 
-Gerhard von Schineiffer grew far inland from [[Saltmarsh Village|Saltmarsh]], in the capital of Niole Dra. He grew up with a talent for music and performance, often attending performances in the local taverns and keeping abreast of the latest stars of the lute and bagpipes as they travelled through Keoland. All of the most ambitious musicians would eventually venture to the capital. Gerhard joined a company of minstrels, [[The Most Excellent Party of Loutists]], who caught his ear with their northern style of music. The company travelled far and wide within Keoland. The company was poor however, and often beset by difficult conditions and robbed by bandits along the dangerous routes of southern Keoland.
+Gerhard von Schineiffer grew far inland from [[Saltmarsh|Saltmarsh]], in the capital of Niole Dra. He grew up with a talent for music and performance, often attending performances in the local taverns and keeping abreast of the latest stars of the lute and bagpipes as they travelled through Keoland. All of the most ambitious musicians would eventually venture to the capital. Gerhard joined a company of minstrels, [[The Most Excellent Party of Loutists]], who caught his ear with their northern style of music. The company travelled far and wide within Keoland. The company was poor however, and often beset by difficult conditions and robbed by bandits along the dangerous routes of southern Keoland.
 
 Gerhard had to get smart, and quickly. Often the difference between robbery and murder would be a well placed word or the expression on a musicians face. Gerhard quickly learned when to lean on his powers of persuasion and when he knew he could terrify a potential opponent.
 

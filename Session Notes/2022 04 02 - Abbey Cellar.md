@@ -4,7 +4,7 @@ Introduce the statue of [[Viondrúit]]
 
 [[Doby]] encounter
 
-Return to [[Saltmarsh Village]]
+Return to [[Saltmarsh]]
 
 Mariner's guild reward and clue in on island base
 
@@ -20,4 +20,4 @@ Under table deals?
 
 Walk down the coast line?
 
-Introduce the construction area in [[Saltmarsh Village]]?
+Introduce the construction area in [[Saltmarsh]]?
