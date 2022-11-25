@@ -2,7 +2,7 @@ Young Anders (LG male human  noble) recently inherited his family's fleet of f
 
 Everyone involved in the town's fishing industry supports Anders, and his energy and ambition have made him something of a folk hero on the docks. On the other hand, his open opposition to smuggling and his hatred of the Sea Princes' practice of slavery makes him a thorn in the smugglers' side.
 
-Unbeknownst to Anders, his butler, [[Skerrin Wavechaser]], is an agent for the [[Scarlet Brotherhood]]. He engineered the death of [[Anders]]' mother and has placed a number of [[Brotherhood]] agents in key positions in the Solmor fleet.
+Unbeknownst to Anders, his butler, [[Skerrin Wavechaser]], is an agent for the [[Scarlet Brotherhood]]. He engineered the death of [[Anders Solmor|Anders]]' mother and has placed a number of [[Brotherhood]] agents in key positions in the Solmor fleet.
 
 #### Personality Traits. 
 Anders is sunny and optimistic. He sees the potential for profit and opportunity in every challenge. Unfortunately, he is too young to temper his views with a realistic assessment of the risks.
