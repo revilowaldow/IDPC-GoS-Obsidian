@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strixhaven.md",
+                "file": "Deities/St Cuthbert.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,15 +213,15 @@
   },
   "active": "822de292e782c1c8",
   "lastOpenFiles": [
-    "Of Malc and Men/Subordinates/Sea Ghost.md",
-    "Deities/Iuz.md",
-    "Session Notes/2022 07 21 - The Marshall.md",
-    "Strixhaven.md",
     "Deities/St Cuthbert.md",
+    "Deities/Procan.md",
+    "Deities/Iuz.md",
+    "Organisations/Witchlight Festival.md",
+    "Session Notes/2022 04 02 - Abbey Cellar.md",
+    "Locations/Cities/Strixhaven.md",
+    "Of Malc and Men/Subordinates/Sea Ghost.md",
+    "Session Notes/2022 07 21 - The Marshall.md",
     "The Founders/The Founders.md",
-    "We.md",
-    "Session Notes/2022 08 04 - The Marshall Wreck.md",
-    "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md"
+    "We.md"
   ]
 }
