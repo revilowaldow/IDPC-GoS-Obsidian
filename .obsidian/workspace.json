@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Saltmarsh/14. Council Hall.md",
+                "file": "NPCs/Council/Skerrin Wavechaser.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Founders/The Founders.md",
+                "file": "Session Notes/2022 06 28 - Carnival.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "skerrin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2022 06 28 - Carnival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,17 +186,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "822de292e782c1c8",
+  "active": "41420fac8d4504ac",
   "lastOpenFiles": [
-    "NPCs/Council/Anders Solmor.md",
+    "Skerrin.md",
+    "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "The Founders/The Founders.md",
+    "NPCs/Council/Skerrin Wavechaser.md",
     "Locations/Saltmarsh/14. Council Hall.md",
+    "NPCs/Council/Anders Solmor.md",
     "Organisations/Scarlet Brotherhood.md",
     "[Anders.md",
     "Anders.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Locations/Cities/Seaton.md",
-    "The Aspects/The Aspects.md",
-    "The Founders/The Founders.md",
-    "The Founders/Galazeth Prismari.md"
+    "Locations/Cities/Seaton.md"
   ]
 }
