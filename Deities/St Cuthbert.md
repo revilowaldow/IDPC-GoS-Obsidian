@@ -3,7 +3,7 @@ https://greyhawk.fandom.com/wiki/St._Cuthbert
 
 **St. Cuthbert**, also known as **St. Cuthbert of the Cudgel**, is a deity of Greyhawk.
 
-Saint Cuthbert is a foe of many evil deities, including [Iuz](https://greyhawk.fandom.com/wiki/Iuz "Iuz") and [Vecna](https://greyhawk.fandom.com/wiki/Vecna "Vecna"). He also has an intense rivalry with [Pholtus](https://greyhawk.fandom.com/wiki/Pholtus "Pholtus"), a similarly intolerant though good-leaning god.
+Saint Cuthbert is a foe of many evil deities, including [[Iuz]] and [Vecna](https://greyhawk.fandom.com/wiki/Vecna "Vecna"). He also has an intense rivalry with [Pholtus](https://greyhawk.fandom.com/wiki/Pholtus "Pholtus"), a similarly intolerant though good-leaning god.
 
 Saint Cuthbert is strongly allied with [Rao](https://greyhawk.fandom.com/wiki/Rao "Rao").
 
