@@ -19,5 +19,6 @@ Temple tunnels
 - Dead Bandit - info?
 - Sign, go around - thieves cant
 - Small Bones everywhere
+- Broken bucket
 - 
 
