@@ -17,6 +17,7 @@ Temple tunnels
 - Phase Spider
 - Arms Cache
 - Dead Bandit - info?
-- Sign, go around
+- Sign, go around - thieves cant
+- Small Bones everywhere
 - 
 
