@@ -5,7 +5,7 @@ Adam
 Sean - late
 
 
-Wellgar Brinehanded
+[[Wellgar Brinehanded]]
 	Shipwreck - Are you interested in an underwater recovery mission?
 	[[The Wreck of the Marshall]]
 	Bandits may also be after the ship
@@ -17,7 +17,7 @@ Statue of [[St Cuthbert]]
 
 ## Golem Diver
 
-Wellgar Brinehanded wants the statue in the cargo hold ([area M3](https://5e.warlow.engineer/adventure.html#GoS,8,m3.%20cargo%20hold,0)) of the _Marshal_ because he wants to put it in the temple of procan in saltmarsh to encourage greater attendance and diversity of faith. At the same time, Arla and Vengi Carmaclo, twin mages and worshipers of Iuz, want to recover the statue for themselves as it will please their deity.
+[[Wellgar Brinehanded]] wants the statue in the cargo hold ([area M3](https://5e.warlow.engineer/adventure.html#GoS,8,m3.%20cargo%20hold,0)) of the _Marshal_ because he wants to put it in the temple of [[procan]] in [[saltmarsh]] to encourage greater attendance and diversity of faith. At the same time, Arla and Vengi Carmaclo, twin mages and worshipers of Iuz, want to recover the statue for themselves as it will please their deity.
 
 Saltmarsh Story Hook. 
 
@@ -69,7 +69,7 @@ Calling [[Chorazzo]] who replies suddenly and much much much louder.
 Robbed 6 potions of healing, a potion of underwater breating, and a potion of maximum power from [[Winston]]
 
 
-[[Graham]] - similar accent to [[xendros]]
+[[Graham]] - similar accent to [[Xendros]]
 French
 
 

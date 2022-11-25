@@ -6,7 +6,7 @@ Who else around here is dirty?
 
 Explore [[saltmarsh]]?
 Tavern?
-Crab - [[Bess]] wants to get things shipshape
+Crab - [[Barnacle Bess]] wants to get things shipshape
 
 Maybe roll the incident table?
 

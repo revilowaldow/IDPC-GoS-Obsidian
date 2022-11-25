@@ -26,7 +26,7 @@ Lower level
 
 Fled the basement
 
-Used golden thread with [[mr witch]] - invisibility - reward
+Used golden thread with [[Mr Witch]] - invisibility - reward
 
 Winston - sending stone - [[Gellan Primewater]]
 

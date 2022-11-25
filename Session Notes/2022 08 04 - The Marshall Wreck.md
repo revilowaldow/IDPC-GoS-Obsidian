@@ -11,3 +11,10 @@ The _Marshal_ has the following features:
 **Light**. The exposed decks of the _Marshal_ and areas outside the ship are brightly lit by the sun during the day and dimly lit by the moon at night. The interior of the ship and the sea cave are concealed in darkness.
 
 **Structure**. The wood of the _Marshal_'s hull, deck, and doors is rotting. Unless otherwise noted, a door or a 5-foot-square section of wall, ceiling, or floor of the ship has AC 10, 10 hit points, and immunity to poison and psychic damage.
+
+
+<hr>
+
+
+Met [[Barnacle Bess]]
+
