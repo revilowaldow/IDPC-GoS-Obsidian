@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Granny Nightshade.md",
+                "file": "Dreadwood.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,14 +94,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deities/Iuz.md",
+                "file": "Locations/Cities/Seaton.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Cities/Seaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,19 +210,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 565
+    "width": 565,
+    "collapsed": true
   },
-  "active": "822de292e782c1c8",
+  "active": "a54e44c38ffb2b8c",
   "lastOpenFiles": [
+    "Deities/Iuz.md",
+    "Of Malc and Men/Subordinates/Sea Ghost.md",
+    "Dreadwood.md",
     "NPCs/Granny Nightshade.md",
     "Locations/Cities/Seaton.md",
     "NPCs/King Kimbertos Skotti.md",
     "Locations/Saltmarsh/Saltmarsh.md",
     "Of Malc and Men/Subordinates/The Snapping Line.md",
     "Of Malc and Men/Subordinates/Hanna Rist.md",
-    "Of Malc and Men/The Party.md",
-    "Deities/St Cuthbert.md",
-    "Deities/Procan.md",
-    "Deities/Iuz.md"
+    "Of Malc and Men/The Party.md"
   ]
 }
