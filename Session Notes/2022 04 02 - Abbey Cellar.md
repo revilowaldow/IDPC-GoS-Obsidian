@@ -2,7 +2,7 @@ Work through the basement
 
 Introduce the statue of [[Viondrúit]]
 
-Doby encounter
+[[Doby]] encounter
 
 Return to [[Saltmarsh Village]]
 

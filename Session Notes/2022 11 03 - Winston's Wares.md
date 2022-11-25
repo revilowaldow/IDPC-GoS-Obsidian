@@ -32,4 +32,8 @@ Winston - sending stone - Gellan Primewater
 
 Head off in lobby
 
-
+- Breastplate of Acid Resistance
+- Circlet of Blasting
+- Orb of Gonging
+- Tan Bag of Tricks
+- Veteran's Cane

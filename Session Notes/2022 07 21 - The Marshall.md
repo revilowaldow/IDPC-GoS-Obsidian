@@ -15,7 +15,7 @@ Wellgar Brinehanded
 Statue of [[St Cuthbert]]
 
 
-## Golem Diver[
+## Golem Diver
 
 Wellgar Brinehanded wants the statue in the cargo hold ([area M3](https://5e.warlow.engineer/adventure.html#GoS,8,m3.%20cargo%20hold,0)) of the _Marshal_ because he wants to put it in the temple of procan in saltmarsh to encourage greater attendance and diversity of faith. At the same time, Arla and Vengi Carmaclo, twin mages and worshipers of Iuz, want to recover the statue for themselves as it will please their deity.
 
