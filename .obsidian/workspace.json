@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Keoland.md",
+                "file": "Locations/Cities/Gradsul.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[anders",
+                "query": "loyali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Keoland.md",
+                "file": "Locations/Cities/Gradsul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +175,15 @@
   },
   "active": "ccf722b8d4157241",
   "lastOpenFiles": [
-    "Organisations/Keoland.md",
+    "Session Notes/2022 11 03 - Winston's Wares.md",
+    "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
+    "Session Notes/2022 09 01 - Dragon Duel.md",
+    "The Dissenters/The Dissenters.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "NPCs/Council/Skerrin Wavechaser.md",
-    "NPCs/Council/Eda Oweland.md",
-    "loyalists.md",
-    "NPCs/Council/Anders Solmor.md",
-    "Organisations/Scarlet Brotherhood.md",
-    "Session Notes/2022 06 28 - Carnival.md",
+    "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 07 21 - The Marshall.md",
+    "Session Notes/2022 06 28 - Carnival.md",
+    "Organisations/Scarlet Brotherhood.md",
     "Locations/Saltmarsh/14. Council Hall.md"
   ]
 }

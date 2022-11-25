@@ -3,21 +3,21 @@ Out of most resources
 
 Start a chase, switch to larger map
 Bigby's hand
-Add chorazzo to the chase - describe a wave/torpedo
-Have Galeth Prismari join after one round.
-Have chorazon breathweapon Galeth
-Rescue the party and drive off Chorazzo
+Add [[Chorazzo]] to the chase - describe a wave/torpedo
+Have [[Galazeth Prismari]] join after one round.
+Have [[Chorazzo]] breathweapon [[Galazeth Prismari]]
+Rescue the party and drive off [[Chorazzo]]
 
 Front of boat, 10ft talon hands
 
 Who the fuck are you, where did you get that?
 Interrupted my soak.
-Chorazzo was an old student of mine
+[[Chorazzo]] was an old student of mine
 She and some other students banded together in an attempt to overthrow the university.
 Different opinions about magic we restricted.
 It culminated it a divergence of paths and we decided to a take a backseat in the running of the university. 
 
-We thought the dissenters had been 
+We thought [[the dissenters]] had been 
   
 > Introduco te in collegium Prismari.
 > Collegii tui praesidium sit tibi.
@@ -25,7 +25,7 @@ We thought the dissenters had been
 That should keep you safe, and uhhh, I put a little extra in it as well. 
 Precision of a quill but with a talon the size of a glaive
 
-Come to Strixhaven, where I will be able to remove this entirely. New academic year starts new week.  Ship repairs in Gradsul on your way I imagine.
+Come to [[Strixhaven]], where I will be able to remove this entirely. New academic year starts new week.  Ship repairs in [[Gradsul]] on your way I imagine.
 
 <hr>
 

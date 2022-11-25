@@ -3,21 +3,21 @@ Loot Winston's Upper level
 - Potions
 - Potion of maximum power missing
 - Smuggled equipment
-- Sending Stone to Gellan
+- Sending Stone to [[Gellan]]
 
 Lower level
 - What order of entry
 - Transmuter Wizard teleport out/throw barrel at them?
 - Dragonborn gladiators - Dissenter Subordiantes
-- Winston throw ball bearings - golems
+- [[Winston]] throw ball bearings - golems
 - Brawler
 - Winston try to escape through tunnel
 - Arms cache
 - Stolen mining equipment
 - Poisons
 - Tools
-- Smugglers - Defended by loyalists
-- Potential Link to Kedlek?
+- Smugglers - Defended by [[Loyalists]]
+- Potential Link to [[Kedlek]]?
 
 
 
@@ -26,9 +26,9 @@ Lower level
 
 Fled the basement
 
-Used golden thread with mr witch - invisibility - reward
+Used golden thread with [[mr witch]] - invisibility - reward
 
-Winston - sending stone - Gellan Primewater
+Winston - sending stone - [[Gellan Primewater]]
 
 Head off in lobby
 

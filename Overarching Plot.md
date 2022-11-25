@@ -1,7 +1,7 @@
 
 Aspect of Tiamat
 
-[[The Aspects]]-5 dragons
+[[The Dissenters]]-5 dragons
 (inc Kairon's patron)
 
 

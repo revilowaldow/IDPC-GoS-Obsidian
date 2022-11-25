@@ -1,19 +1,19 @@
 
 Run combat
 Surrender?
-Dirt on Winston?
+Dirt on [[Winston]]?
 Who else around here is dirty?
 
-Explore saltmarsh?
+Explore [[saltmarsh]]?
 Tavern?
-Crab - Bess wants to get things shipshape
+Crab - [[Bess]] wants to get things shipshape
 
 Maybe roll the incident table?
 
 
 Flames, get off the bandit
 Floating camel
-Winston
+[[Winston]]
 
 Fight in Winstons Store
 Escape into Basement
