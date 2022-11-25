@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deities/St Cuthbert.md",
+                "file": "NPCs/Granny Nightshade.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,15 +213,15 @@
   },
   "active": "822de292e782c1c8",
   "lastOpenFiles": [
+    "NPCs/Granny Nightshade.md",
+    "Locations/Cities/Seaton.md",
+    "NPCs/King Kimbertos Skotti.md",
+    "Locations/Saltmarsh/Saltmarsh.md",
+    "Of Malc and Men/Subordinates/The Snapping Line.md",
+    "Of Malc and Men/Subordinates/Hanna Rist.md",
+    "Of Malc and Men/The Party.md",
     "Deities/St Cuthbert.md",
     "Deities/Procan.md",
-    "Deities/Iuz.md",
-    "Organisations/Witchlight Festival.md",
-    "Session Notes/2022 04 02 - Abbey Cellar.md",
-    "Locations/Cities/Strixhaven.md",
-    "Of Malc and Men/Subordinates/Sea Ghost.md",
-    "Session Notes/2022 07 21 - The Marshall.md",
-    "The Founders/The Founders.md",
-    "We.md"
+    "Deities/Iuz.md"
   ]
 }
