@@ -55,3 +55,7 @@ Kazoo of death
 
 Javelin 
 
+Cloak of billowing
+
+Lock of trickery 
+
