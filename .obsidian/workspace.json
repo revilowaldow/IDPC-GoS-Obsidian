@@ -10,13 +10,15 @@
           {
             "id": "30e9cea9ef75e145",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -133,6 +135,7 @@
   },
   "active": "30e9cea9ef75e145",
   "lastOpenFiles": [
+    "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Of Malc and Men/Auberon.md",
     "Organisations/The Most Excellent Party of Loutists.md",
     "Of Malc and Men/Gerhard.md",
@@ -141,7 +144,6 @@
     "Deities/Procan.md",
     "Deities/Iuz.md",
     "Deities/Hercules.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md",
     "NPCs/Winston.md"
   ]
 }
