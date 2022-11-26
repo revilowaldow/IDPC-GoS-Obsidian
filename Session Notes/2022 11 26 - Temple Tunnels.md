@@ -43,6 +43,9 @@ Temple tunnels
 Write up winston lore dump
 
 Floris
+Steve-alright & Dave - Abused
+Platinum/Illusion of platinum
+
 
 
 
