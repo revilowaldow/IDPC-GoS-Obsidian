@@ -38,5 +38,9 @@ Temple tunnels
 
 ## Session
 
+5 spell scrolls
+
+Write up winston lore dump
+
 
 
