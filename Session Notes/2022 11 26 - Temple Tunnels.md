@@ -47,5 +47,11 @@ Steve-alright & Dave - Abused
 Platinum/Illusion of platinum
 
 
-150gp 
+
+1650gp each w delivery
+
+
+Kazoo of death
+
+Javelin 
 
