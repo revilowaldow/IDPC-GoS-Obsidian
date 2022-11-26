@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Of Malc and Men/Auberon.md",
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "822de292e782c1c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +131,9 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "822de292e782c1c8",
+  "active": "30e9cea9ef75e145",
   "lastOpenFiles": [
+    "Of Malc and Men/Auberon.md",
     "Organisations/The Most Excellent Party of Loutists.md",
     "Of Malc and Men/Gerhard.md",
     "Of Malc and Men/The Party.md",
@@ -151,7 +142,6 @@
     "Deities/Iuz.md",
     "Deities/Hercules.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "NPCs/Winston.md",
-    "Of Malc and Men/Auberon.md"
+    "NPCs/Winston.md"
   ]
 }
