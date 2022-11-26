@@ -59,3 +59,7 @@ Cloak of billowing
 
 Lock of trickery 
 
+Next Shipment of Lumber or Textiles
+Morrigan 
+Painting
+
