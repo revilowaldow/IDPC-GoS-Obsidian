@@ -67,5 +67,10 @@ Client #4 meeting in 8 days
 10 pm 
 Draconic
 
+Barnacle Bess - Crabbers Cove
+
+Floris
+
+
 
 
