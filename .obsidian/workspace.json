@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Winston.md",
+                "file": "Of Malc and Men/Auberon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +176,9 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "c8072444f4d4611f",
+  "active": "30e9cea9ef75e145",
   "lastOpenFiles": [
+    "NPCs/Winston.md",
     "Session Notes/2022 10 05 - Ambush in Saltmarsh.md",
     "Of Malc and Men/Auberon.md",
     "Session Notes/2022 07 21 - The Marshall.md",
@@ -186,7 +187,6 @@
     "Session Notes/2022 09 01 - Dragon Duel.md",
     "The Founders/Galazeth Prismari.md",
     "The Founders/The Founders.md",
-    "Of Malc and Men/Subordinates/Sea Ghost.md",
-    "Overarching Plot.md"
+    "Of Malc and Men/Subordinates/Sea Ghost.md"
   ]
 }
