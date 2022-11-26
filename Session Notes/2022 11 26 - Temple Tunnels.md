@@ -47,5 +47,5 @@ Steve-alright & Dave - Abused
 Platinum/Illusion of platinum
 
 
-
+150gp 
 
