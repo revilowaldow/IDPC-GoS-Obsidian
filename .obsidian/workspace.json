@@ -68,11 +68,21 @@
           {
             "id": "c83adedc20c8b2bd",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8951f26c8078c145",
+            "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
@@ -93,14 +103,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Of Malc and Men/Subordinates/Bimz.md",
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Of Malc and Men/Subordinates/Bimz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,15 +220,15 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "8be08e6063198199",
+  "active": "8951f26c8078c145",
   "lastOpenFiles": [
-    "NPCs/Winston.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Of Malc and Men/Subordinates/Bimz.md",
+    "NPCs/Winston.md",
     "Organisations/Traditionalists.md",
     "Locations/Azure Sea/The Wreck of the Marshall.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 07 21 - The Marshall.md",
-    "Of Malc and Men/Subordinates/Bimz.md",
     "Session Notes/2022 04 02 - Abbey Cellar.md",
     "Session Notes/2022 06 28 - Carnival.md",
     "Organisations/Loyalists.md"

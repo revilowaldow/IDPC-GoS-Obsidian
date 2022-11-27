@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"Session Notes\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0534979423868573,
+  "scale": 0.5359795996226077,
   "close": true
 }
