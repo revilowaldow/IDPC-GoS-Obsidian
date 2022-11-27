@@ -18,7 +18,7 @@
       "query": "path:Locations",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14718464
       }
     },
     {
@@ -33,12 +33,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.00927835051546,
   "collapse-forces": false,
   "centerStrength": 0.47752808988764,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0534979423868518,
+  "scale": 0.5359795996226051,
   "close": true
 }
