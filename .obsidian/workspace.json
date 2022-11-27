@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Party/Character Art/Skerrin Wavechaser Token.png",
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,9 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "a8c6fc67f8f1a436",
+  "active": "62a22b1928832439",
   "lastOpenFiles": [
+    "Assets/Party/Character Art/Skerrin Wavechaser Token.png",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/00 Session Index.md",
@@ -168,7 +169,6 @@
     "Organisations/The Most Excellent Party of Loutists.md",
     "Of Malc and Men/Gerhard.md",
     "Of Malc and Men/The Party.md",
-    "Locations/Dreadwood.md",
-    "Deities/Procan.md"
+    "Locations/Dreadwood.md"
   ]
 }
