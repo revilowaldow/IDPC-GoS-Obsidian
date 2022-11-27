@@ -1,3 +1,6 @@
+![[Skerrin WaveChaser.jpeg]]
+
+
 Skerrin (LE male human  assassin) is secretly the head [[Scarlet Brotherhood|Brotherhood]] agent in town. Tall, lean, tan, with short silver hair, he speaks in precise, measured statements of a man who has a keen eye for detail. He is dispassionate and takes a protective stance toward [[Anders Solmor|Anders]]. To observers, he is nothing more than a faithful and trusted butler.
 
 [[Skerrin Wavechaser|Skerrin]] was renowned for his patience during his days as an assassin for the [[Scarlet Brotherhood|Brotherhood]]. Once, he hid himself in the attic above a noble's bedroom, waiting in a trance-like state for three days and nights until his target was positioned just below a small crack in the room's ceiling. Skerrin squeezed a single drop from a vial of poison he carried on to the noble's bald scalp. He waited in his hiding place for another full day until the contact poison killed the man.
@@ -13,3 +16,4 @@ When operating as [[Anders Solmor|Anders]]' servant, [[Skerrin Wavechaser|Skerri
 
 #### Flaw. 
 Arrogance. [[Skerrin Wavechaser|Skerrin]] genuinely believes that if he had to, he could murder everyone of consequence in town in a single night and secure the place for the [[Scarlet Brotherhood]]. Sometimes he is tempted to do so, if only to prove himself right.
+
