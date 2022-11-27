@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Petra Solmor.md",
+                "file": "NPCs/Petra Solmor.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Council/Anders Solmor.md",
+                "file": "NPCs/Council/Skerrin Wavechaser.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,17 +200,17 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "c83adedc20c8b2bd",
+  "active": "db1ecaed981d070e",
   "lastOpenFiles": [
-    "NPCs/Council/Anders Solmor.md",
-    "Petra Solmor.md",
+    "NPCs/Council/Skerrin Wavechaser.md",
+    "Of Malc and Men/Subordinates/The Snapping Line.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "NPCs/Council/Anders Solmor.md",
+    "NPCs/Petra Solmor.md",
     "Of Malc and Men/Subordinates/Barnacle Bess.md",
     "Assets/Party/Character Art/Skerrin Wavechaser Token.png",
     "Organisations/Witchlight Carnival.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
-    "Session Notes/00 Session Index.md",
-    "Session Notes/2022 11 03 - Winston's Wares.md",
-    "Of Malc and Men/Auberon.md"
+    "Session Notes/00 Session Index.md"
   ]
 }
