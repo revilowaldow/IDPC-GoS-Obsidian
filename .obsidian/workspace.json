@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "62a22b1928832439",
+  "active": "92e1c713a7c39a78",
   "lastOpenFiles": [
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Assets/Party/Character Art/Skerrin Wavechaser Token.png",
