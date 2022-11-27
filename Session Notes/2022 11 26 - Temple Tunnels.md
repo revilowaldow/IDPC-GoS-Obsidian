@@ -40,7 +40,7 @@ Temple tunnels
 
 5 spell scrolls
 
-Write up winston lore dump
+Write up [[winston]] lore dump
 
 Floris
 Steve-alright & Dave - Abused
@@ -67,13 +67,13 @@ Client #4 meeting in 8 days
 10 pm 
 Draconic
 
-Barnacle Bess - Crabbers Cove
+[[Barnacle Bess]] - [[Crabbers Cove]]
 
 Floris
 
-Track down a thief who stole a shipment of expensive mining gear in Saltmarsh.
+Track down a thief who stole a shipment of expensive mining gear in [[Saltmarsh]].
 
-Gradsul - lead on Kwalish Apparatus, Mordenkainen's Boat sink
+[[Gradsul]] - lead on [[Kwalish]] Apparatus, Mordenkainen's Boat sink
 
 
 
