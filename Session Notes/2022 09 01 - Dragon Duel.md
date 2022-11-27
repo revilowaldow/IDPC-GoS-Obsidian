@@ -17,7 +17,7 @@ She and some other students banded together in an attempt to overthrow the unive
 Different opinions about magic we restricted.
 It culminated it a divergence of paths and we decided to a take a backseat in the running of the university. 
 
-We thought [[the dissenters]] had been 
+We thought [[The Dissenters]] had been 
   
 > Introduco te in collegium Prismari.
 > Collegii tui praesidium sit tibi.
