@@ -89,6 +89,18 @@
             }
           },
           {
+            "id": "8be08e6063198199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2022 07 21 - The Marshall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af569242304b1c5b",
             "type": "leaf",
             "state": {
@@ -101,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Iuz",
+                "query": "warlow.engineer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 04 02 - Abbey Cellar.md",
+                "file": "Session Notes/2022 07 21 - The Marshall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,17 +226,17 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "10967ade1cef8c8b",
+  "active": "8be08e6063198199",
   "lastOpenFiles": [
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Of Malc and Men/Subordinates/Bimz.md",
+    "Session Notes/2022 04 02 - Abbey Cellar.md",
+    "Session Notes/2022 06 28 - Carnival.md",
     "NPCs/Winston.md",
     "Organisations/Loyalists.md",
     "Organisations/Traditionalists.md",
     "Assets/Crab Meme.png",
     "NPCs/Council/Skerrin Wavechaser.md",
-    "Of Malc and Men/Subordinates/The Snapping Line.md",
-    "NPCs/Council/Anders Solmor.md",
-    "NPCs/Petra Solmor.md",
-    "Of Malc and Men/Subordinates/Barnacle Bess.md"
+    "Of Malc and Men/Subordinates/The Snapping Line.md"
   ]
 }
