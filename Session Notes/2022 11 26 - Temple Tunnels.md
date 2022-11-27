@@ -78,7 +78,9 @@ Track down a thief who stole a shipment of expensive mining gear in [[Saltmarsh]
 
 <hr>
 
-Session Summary:
+## Session Summary:
+
+You chased after Winston down the tunnel, leaving Eliander behind. 
 
 
 
