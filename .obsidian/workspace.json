@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "344480632a0eea22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a8c6fc67f8f1a436",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
+                "file": "Session Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +158,10 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "30e9cea9ef75e145",
+  "active": "344480632a0eea22",
   "lastOpenFiles": [
-    "Session Notes/2022 11 03 - Winston's Wares.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Session Notes/2022 11 03 - Winston's Wares.md",
     "Of Malc and Men/Auberon.md",
     "Organisations/The Most Excellent Party of Loutists.md",
     "Of Malc and Men/Gerhard.md",
