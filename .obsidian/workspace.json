@@ -36,25 +36,33 @@
             }
           },
           {
-            "id": "92e1c713a7c39a78",
+            "id": "47e02f9c80d8dcc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/Subordinates/Barnacle Bess.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3a86892f2ce9b2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6deedb5fb8138706",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "a8c6fc67f8f1a436",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Party/Character Art/Skerrin Wavechaser Token.png"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,17 +173,17 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "92e1c713a7c39a78",
+  "active": "6deedb5fb8138706",
   "lastOpenFiles": [
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Of Malc and Men/Subordinates/Barnacle Bess.md",
     "Assets/Party/Character Art/Skerrin Wavechaser Token.png",
+    "Organisations/Witchlight Carnival.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/00 Session Index.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
     "Of Malc and Men/Auberon.md",
     "Organisations/The Most Excellent Party of Loutists.md",
-    "Of Malc and Men/Gerhard.md",
-    "Of Malc and Men/The Party.md",
-    "Locations/Dreadwood.md"
+    "Of Malc and Men/Gerhard.md"
   ]
 }

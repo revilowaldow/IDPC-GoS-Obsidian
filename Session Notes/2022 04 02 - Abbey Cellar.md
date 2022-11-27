@@ -8,7 +8,7 @@ Return to [[Saltmarsh]]
 
 Mariner's guild reward and clue in on island base
 
-[[Witchlight Festival]]
+[[Witchlight Carnival]]
 
 [[Gellan Primewater]]
 
