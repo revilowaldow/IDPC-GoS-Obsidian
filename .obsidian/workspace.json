@@ -24,13 +24,15 @@
           {
             "id": "62a22b1928832439",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -39,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2022 11 03 - Winston's Wares.md",
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,11 +160,11 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "62a22b1928832439",
+  "active": "a8c6fc67f8f1a436",
   "lastOpenFiles": [
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
-    "Session Notes/00 Session Index.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Session Notes/00 Session Index.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
     "Of Malc and Men/Auberon.md",
     "Organisations/The Most Excellent Party of Loutists.md",

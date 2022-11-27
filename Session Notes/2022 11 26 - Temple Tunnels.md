@@ -81,9 +81,10 @@ Track down a thief who stole a shipment of expensive mining gear in [[Saltmarsh]
 ## Session Summary:
 
 You chased after Winston down the tunnel, leaving Eliander behind. 
+After initially catching up with Winston half of you dealt with the bearing golem he summoned, by stuffing it in a bag of holding.
 
-After initially catching up with Winston half of you dealt with the bearing golem he summoned, by stuffing it in a bag
+You caught Winston and after several attempts, bound him.
 
-
+Winston bartered with you for his freedom in exchange for the following information.
 
 
