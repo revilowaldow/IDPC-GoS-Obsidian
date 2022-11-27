@@ -75,6 +75,8 @@ Track down a thief who stole a shipment of expensive mining gear in [[Saltmarsh]
 
 [[Gradsul]] - lead on [[Kwalish]] Apparatus, Mordenkainen's Boat sink
 
+Buy proeprty, looking for estimate on area 24 
+
 
 <hr>
 
@@ -88,3 +90,4 @@ You caught Winston and after several attempts, bound him.
 Winston bartered with you for his freedom in exchange for the following information.
 
 
+### Loyalists
