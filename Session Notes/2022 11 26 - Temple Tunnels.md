@@ -73,6 +73,11 @@ Floris
 
 Track down a thief who stole a shipment of expensive mining gear in Saltmarsh.
 
+Gradsul - lead on Kwalish Apparatus, Mordenkainen's Boat sink
+
+
+
+
 
 
 
