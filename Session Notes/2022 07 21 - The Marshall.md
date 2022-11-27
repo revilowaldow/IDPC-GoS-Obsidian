@@ -69,7 +69,7 @@ Calling [[Chorazzo]] who replies suddenly and much much much louder.
 Robbed 6 potions of healing, a potion of underwater breating, and a potion of maximum power from [[Winston]]
 
 
-[[Graham]] - similar accent to [[Xendros]]
+[[Gareth]] - similar accent to [[Xendros]]
 French
 
 
