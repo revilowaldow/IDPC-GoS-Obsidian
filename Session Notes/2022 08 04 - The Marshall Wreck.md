@@ -2,7 +2,7 @@ The _Marshal_ was a seafaring vessel built by missionaries of St. Cuthbert. Th
 
 The _Marshal_ has the following features:
 
-**Barnacles**. The outside of the _Marshal_ is covered in all manner of sharp barnacles. A creature that is pushed against the outside of the ship by magic like the [thunderwave](https://5e.warlow.engineer/spells.html#thunderwave_phb) spell, or by a shove attack, or that falls [prone](https://5e.warlow.engineer/conditionsdiseases.html#prone_phb) onto a barnacle-covered surface takes 3 (1d6) slashing damage.
+**Barnacles**. The outside of the _Marshal_ is covered in all manner of sharp barnacles. A creature that is pushed against the outside of the ship by magic like the [thunderwave](https://5e.tools/spells.html#thunderwave_phb) spell, or by a shove attack, or that falls [prone](https://5e.tools/conditionsdiseases.html#prone_phb) onto a barnacle-covered surface takes 3 (1d6) slashing damage.
 
 **Ceilings**. The ceilings of the _Marshal_'s lower deck are 8 feet high, with 6-foot-high doorways connecting the chambers.
 

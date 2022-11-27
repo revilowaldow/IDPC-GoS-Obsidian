@@ -27,7 +27,7 @@ If the characters recover the statue but don't give it to Wellgar, he excludes t
 
 Wizards. 
 
-When the characters approach the wreck, they notice a keelboat, the [[Bat Guano]], anchored in the distance. The boat belongs to the twins [[Arla Camaclo|Arla]] and [[Vengi Carmaclo]] (LN human [mages](https://5e.warlow.engineer/bestiary.html#mage_mm)), devout followers of [[Iuz]] on a mission to recover the statue, which was carved by their father, [[Fergos Carmaclo]]. They sent their iron golem to claim the work of art so they could avoid the harpies and are waiting for the construct to return.
+When the characters approach the wreck, they notice a keelboat, the [[Bat Guano]], anchored in the distance. The boat belongs to the twins [[Arla Camaclo|Arla]] and [[Vengi Carmaclo]] (LN human [mages](https://5e.tools/bestiary.html#mage_mm)), devout followers of [[Iuz]] on a mission to recover the statue, which was carved by their father, [[Fergos Carmaclo]]. They sent their iron golem to claim the work of art so they could avoid the harpies and are waiting for the construct to return.
 
 If the characters are polite, the wizards happily share their mission. A character who succeeds on a DC 18 Charisma (Deception or Persuasion) check convinces the mages to allow the characters to recover the statue for them. The wizards are willing to give 500 gp to the characters if they help with the recovery.
 
@@ -35,7 +35,7 @@ If the characters recover the statue without talking to the wizards, the mages a
 
 Iron Golem. 
 
-When the characters arrive at the wreck of the _Marshal_, Arla and Vengi's [iron golem](https://5e.warlow.engineer/bestiary.html#iron%20golem_mm) is in [area M3](https://5e.warlow.engineer/adventure.html#GoS,8,m3.%20cargo%20hold,0), breaking the chains that bind the statue before it attempts to lift it out of the ship. If the characters try to hinder the golem, it attacks, fighting until the characters retreat. The golem allows the characters to help it bring the statue back to the _Bat Guano_.
+When the characters arrive at the wreck of the _Marshal_, Arla and Vengi's [iron golem](https://5e.tools/bestiary.html#iron%20golem_mm) is in [area M3](https://5e.tools/adventure.html#GoS,8,m3.%20cargo%20hold,0), breaking the chains that bind the statue before it attempts to lift it out of the ship. If the characters try to hinder the golem, it attacks, fighting until the characters retreat. The golem allows the characters to help it bring the statue back to the _Bat Guano_.
 
 # Underwater Combat PHB p198[–]
 
