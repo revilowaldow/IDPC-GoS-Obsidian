@@ -83,11 +83,9 @@ Buy proeprty, looking for estimate on area 24
 ## Session Summary:
 
 You chased after Winston down the tunnel, leaving Eliander behind. 
-After initially catching up with Winston half of you dealt with the bearing golem he summoned, by stuffing it in a bag of holding.
+After initially catching up with Winston half of you dealt with the bearing golem he summoned, by stuffing it in a bag of holding. You caught Winston and after several attempts, bound him.
 
-You caught Winston and after several attempts, bound him.
-
-Winston bartered with you for his freedom in exchange for the following information.
+Winston bartered information with you for his freedom in exchange for the following information.
 
 
 ### Loyalists
@@ -97,7 +95,9 @@ Winston bartered with you for his freedom in exchange for the following informat
 
 #### Winston Interrogation
 
-The Saltmarsh council are split into two factions, the [[Loyalists]] and the [[Traditionalists]]. The [[Loyalists]] are typically loyal to the overall kingdom and are trying to ‘improve’ [[Saltmarsh]] (like they did with [[Seaton]]). However, this often means losing all sense of personality of a town/city. Taking [[Seaton]] as an example, the city is successful and a strong naval stronghold, but is devoid of meaningful life. The [[Loyalists]] also have good relationships with the dwarves and mines as they need the mines to be a success - Loyalists include: [[Eliander Fireborn|Eliander]], [[Manistrad Copperlocks]]
+The Saltmarsh council are split into two factions, the [[Loyalists]] and the [[Traditionalists]]. The [[Loyalists]] are typically loyal to the overall kingdom ([[Keoland]] and are trying to ‘improve’ [[Saltmarsh]] (like they did with [[Seaton]]). However, this often means losing all sense of personality of a town/city. Taking [[Seaton]] as an example, the city is successful and a strong naval stronghold, but is devoid of meaningful life. The [[Loyalists]] also have good relationships with the dwarves and mines as they need the mines to be a success - Loyalists include: [[Eliander Fireborn|Eliander]], [[Manistrad Copperlocks]]
+[[Eliander Fireborn]] has a writ from the [[King Kimbertos Skotti|King]] that allows him to take full command of the guards if needed. The Guards also tend to fall into the [[Loyalist]]
+
 
 [[Traditionalists]] are more interested in the personality and trade of the city and so will let smuggling go for the ‘good’ of the community (as well as being able to satiate whatever their level of greed may be). The idea being that a small amount of smuggling enhances the trade of the town and therefore the QOL of the community. It also entices a variety of personalities into the town to conduct business and so makes for a more interesting, vibrant place to inhabit. - Traditionalists include: [[Eda Oweland]], [[Gellan Primewater]]
 
