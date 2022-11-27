@@ -58,11 +58,38 @@
             "id": "6deedb5fb8138706",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Petra Solmor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6de7c59ec73a0123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Council/Anders Solmor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c83adedc20c8b2bd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,8 +200,10 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "6deedb5fb8138706",
+  "active": "c83adedc20c8b2bd",
   "lastOpenFiles": [
+    "NPCs/Council/Anders Solmor.md",
+    "Petra Solmor.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Of Malc and Men/Subordinates/Barnacle Bess.md",
     "Assets/Party/Character Art/Skerrin Wavechaser Token.png",
@@ -182,8 +211,6 @@
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/00 Session Index.md",
     "Session Notes/2022 11 03 - Winston's Wares.md",
-    "Of Malc and Men/Auberon.md",
-    "Organisations/The Most Excellent Party of Loutists.md",
-    "Of Malc and Men/Gerhard.md"
+    "Of Malc and Men/Auberon.md"
   ]
 }
