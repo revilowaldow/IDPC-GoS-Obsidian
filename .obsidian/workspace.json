@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "47e02f9c80d8dcc2",
+            "id": "99607c802d5ea945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Of Malc and Men/Subordinates/Barnacle Bess.md",
+                "file": "Of Malc and Men/Subordinates/The Snapping Line.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99607c802d5ea945",
+            "id": "2f2bf1510fe0a92a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Council/Skerrin Wavechaser.md",
+                "file": "Of Malc and Men/Subordinates/Hanna Rist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3a86892f2ce9b2cd",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Council/Skerrin Wavechaser.md",
+                "file": "Session Notes/2022 04 02 - Abbey Cellar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,17 +202,17 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "99607c802d5ea945",
+  "active": "10967ade1cef8c8b",
   "lastOpenFiles": [
-    "NPCs/Council/Gellan Primewater.md",
-    "Of Malc and Men/Subordinates/Barnacle Bess.md",
-    "Session Notes/2022 04 02 - Abbey Cellar.md",
-    "Of Malc and Men/Subordinates/Sea Ghost.md",
+    "Of Malc and Men/Subordinates/The Snapping Line.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Mr Witch.md",
-    "NPCs/Petra Solmor.md",
-    "Of Malc and Men/Subordinates/Gareth.md",
-    "Session Notes/2022 07 21 - The Marshall.md",
-    "Of Malc and Men/Subordinates/Bimz.md"
+    "Of Malc and Men/Subordinates/Hanna Rist.md",
+    "Overarching Plot.md",
+    "Of Malc and Men/Subordinates/Barnacle Bess.md",
+    "NPCs/Council/Skerrin Wavechaser.md",
+    "Session Notes/2022 04 02 - Abbey Cellar.md",
+    "NPCs/Council/Gellan Primewater.md",
+    "Of Malc and Men/Subordinates/Sea Ghost.md",
+    "Mr Witch.md"
   ]
 }

@@ -1,2 +1,1 @@
-Proprietier of [[The Snapping Line]]
-
+[[The Snapping Line]] is run by a young woman named [[Hanna Rist]] (NG female human  commoner), who comes from a family of well-known lobster catchers. The Rist family also makes a spirit from lobster meat and potatoes called claw wine; it is, to put it mildly, an acquired taste.

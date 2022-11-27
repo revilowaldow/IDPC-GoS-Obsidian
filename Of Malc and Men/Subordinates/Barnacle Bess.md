@@ -4,3 +4,6 @@ Found in [[The Wreck of the Marshall]] having beenn awakend by a bardic follower
 
 Currently serving as Bosun of the [[Sea Ghost]]
 
+![[Crab Meme.png]]
+
+

@@ -14,7 +14,7 @@ Return to [[Saltmarsh]]
 
 [[Smugglers]]
 
-Magical carnival
+The [[Witchlight Carnival]] is in town (or technically just outside it)
 
 Under table deals?
 
