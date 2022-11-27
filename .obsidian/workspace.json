@@ -77,6 +77,18 @@
             }
           },
           {
+            "id": "10967ade1cef8c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Winston.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af569242304b1c5b",
             "type": "leaf",
             "state": {
@@ -89,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +213,10 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "c83adedc20c8b2bd",
+  "active": "62a22b1928832439",
   "lastOpenFiles": [
+    "NPCs/Winston.md",
+    "Organisations/Loyalists.md",
     "Organisations/Traditionalists.md",
     "Assets/Crab Meme.png",
     "NPCs/Council/Skerrin Wavechaser.md",
@@ -209,8 +224,6 @@
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "NPCs/Council/Anders Solmor.md",
     "NPCs/Petra Solmor.md",
-    "Of Malc and Men/Subordinates/Barnacle Bess.md",
-    "Assets/Party/Character Art/Skerrin Wavechaser Token.png",
-    "Organisations/Witchlight Carnival.md"
+    "Of Malc and Men/Subordinates/Barnacle Bess.md"
   ]
 }
