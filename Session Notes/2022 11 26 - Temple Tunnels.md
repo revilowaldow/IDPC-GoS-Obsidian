@@ -123,9 +123,11 @@ The party visited the council building and enquired with a very bored looking wo
 
 #### Xendros Shop
 
+The party spoke to Xendros about the notice she had put on the board about the "Apparatus of Kwalish". SHe was disappointed you had not come with news but expressed that she and the nation she comes from would be very interested in acquiring the item were you to 
 [[Auberon]] paid 1650gp to have a magic rapier (and any potential change) delivered to him when [[Xendros]] locates one. Unsure on everyone else’s purchases…
 
+
 #### Minor
-Manistrad mentioned she had a job available to track down a thief who stole a shipment of expensive mining gear. You recovered and deposited an arms cache with the town Guard.
-[[Auberon]] made friends with the psuedodragon [[Bimz]], convincing him to leave his accrued hoard of scrolls and b
+- Manistrad mentioned she had a job available to track down a thief who stole a shipment of expensive mining gear. You recovered and deposited an arms cache with the town Guard.
+- [[Auberon]] made friends with the psuedodragon [[Bimz]], convincing him to leave his accrued hoard of scrolls and books and come with the party. [[Bimz]] has currently been left in a room at the Snapping Line with two books for entertainment: the ledger for the pub, and "The Lusty Argonian Maid" which was found under a bed in one of the rooms of the pub.
 
