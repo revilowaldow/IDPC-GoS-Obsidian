@@ -119,8 +119,13 @@ We need to somehow get [[Anders Solmor|Anders]] on side to become a [[Traditiona
 
 #### Property in Saltmarsh
 
-The party visited the council building and enquired with a very [[Gareth]] stated that [[Barnacle Bess]] was a very good ship hand and mentioned that [[Barnacle Bess|Bess]] could have something to do with [[Crabbers Cove]] further up the dock (Not sure, but worth checking out)? Apparently it is a warehouse that is full to the brim with crabs - We could take [[Barnacle Bess|Bess]] with us and see if there are other crabs like her?
+The party visited the council building and enquired with a very bored looking woman called Floris who said she'd look into an estimate for you to build a residence, but in order to buy property you need to have contributed to Saltmarsh in some way. THe party identified area 24 on the map as being of interest. This is near to the location known as [[Crabbers Cove]]. [[Gareth]] stated that [[Barnacle Bess]] was a very good ship hand and mentioned that [[Barnacle Bess|Bess]] could have something to do with [[Crabbers Cove]] further up the dock (Not sure, but worth checking out)? Apparently it is a warehouse that is full to the brim with crabs - We could take [[Barnacle Bess|Bess]] with us and see if there are other crabs like her?
 
 #### Xendros Shop
 
 [[Auberon]] paid 1650gp to have a magic rapier (and any potential change) delivered to him when [[Xendros]] locates one. Unsure on everyone else’s purchases…
+
+#### Minor
+Manistrad mentioned she had a job available to track down a thief who stole a shipment of expensive mining gear. You recovered and deposited an arms cache with the town Guard.
+[[Auberon]] made friends with the psuedodragon [[Bimz]], convincing him to leave his accrued hoard of scrolls and b
+
