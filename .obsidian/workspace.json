@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdd8b0cb5cf0cd9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3a86892f2ce9b2cd",
@@ -190,7 +200,18 @@
     "width": 565,
     "collapsed": true
   },
-  "active": "2f2bf1510fe0a92a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "cdd8b0cb5cf0cd9f",
   "lastOpenFiles": [
     "Organisations/The Party.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
