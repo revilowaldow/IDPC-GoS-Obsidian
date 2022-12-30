@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cdd8b0cb5cf0cd9f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "3a86892f2ce9b2cd",
@@ -147,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2022 11 26 - Temple Tunnels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +201,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cdd8b0cb5cf0cd9f",
+  "active": "2f2bf1510fe0a92a",
   "lastOpenFiles": [
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Organisations/The Party.md",
