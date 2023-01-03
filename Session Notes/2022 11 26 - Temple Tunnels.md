@@ -39,13 +39,13 @@ Temple tunnels
 ## Session
 
 5 spell scrolls:
-|Name                     |Level|Classes                                                                         |
-|-------------------------|-----|--------------------------------------------------------------------------------|
-|Commune                  |5th  |Cleric|
-|Guards and Wards         |6th  |Bard, Wizard                                                      |
-|Mass Cure Wounds         |5th  |Bard, Cleric, Druid                                        |
-|Raulothim's Psychic Lance|4th  |Bard, Sorcerer, Warlock, Wizard                                                 |
-|True Seeing              |6th  |Bard, Cleric, Sorcerer, Warlock, Wizard|
+|Name                     |Level|Classes | Usable By |
+|-------------------------|-----|--------------------------------------|-------|
+|Commune                  |5th  |Cleric| None |
+|Guards and Wards         |6th  |Bard, Wizard                                                      | [[Gerhard]] |
+|Mass Cure Wounds         |5th  |Bard, Cleric, Druid                                        | [[Gerhard]] |
+|Raulothim's Psychic Lance|4th  |Bard, Sorcerer, Warlock, Wizard                | [[Gerhard]], [[Kairon]] |
+|True Seeing              |6th  |Bard, Cleric, Sorcerer, Warlock, Wizard| [[Gerhard]], [[Kairon]] |
 
 Write up [[winston]] lore dump
 
