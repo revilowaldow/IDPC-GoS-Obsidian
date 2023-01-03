@@ -38,7 +38,14 @@ Temple tunnels
 
 ## Session
 
-5 spell scrolls
+5 spell scrolls:
+|Name                     |Level|Classes                                                                         |
+|-------------------------|-----|--------------------------------------------------------------------------------|
+|Commune                  |5th  |Cleric|
+|Guards and Wards         |6th  |Bard, Wizard                                                      |
+|Mass Cure Wounds         |5th  |Bard, Cleric, Druid                                        |
+|Raulothim's Psychic Lance|4th  |Bard, Sorcerer, Warlock, Wizard                                                 |
+|True Seeing              |6th  |Bard, Cleric, Sorcerer, Warlock, Wizard|
 
 Write up [[winston]] lore dump
 
