@@ -13,3 +13,4 @@ Start going through the notes from last session all bring Sean up to speed
 <hr>
 
 
+Property, estimate? 
