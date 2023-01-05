@@ -4,6 +4,8 @@ Fuck knows, post car crash, session may be car crash.
 
 If heist, do stakeout
 
+If dinner
+
 Finish early
 
 Start going through the notes from last session all bring Sean up to speed
@@ -12,6 +14,8 @@ Start going through the notes from last session all bring Sean up to speed
 
 <hr>
 
+
+Who bought the other weapon? 
 
 Property, estimate? 15,000 gold
 Material, Stone or timber?

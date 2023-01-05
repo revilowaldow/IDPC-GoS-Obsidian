@@ -48,9 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "614ef4b559de0707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Council/Anders Solmor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Saltmarsh/Crabber's Cove.md",
+                "file": "NPCs/Council/Anders Solmor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,11 +184,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "69963b39b2550209",
+  "active": "614ef4b559de0707",
   "lastOpenFiles": [
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
-    "Locations/Saltmarsh/Crabber's Cove.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Locations/Saltmarsh/Crabber's Cove.md",
     "Organisations/The Party.md",
     "Of Malc and Men/Subordinates/Hanna Rist.md",
     "Of Malc and Men/Subordinates/The Snapping Line.md",
