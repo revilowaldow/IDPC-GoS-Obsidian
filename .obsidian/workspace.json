@@ -22,19 +22,33 @@
             }
           },
           {
-            "id": "06ce2d46b82141b5",
+            "id": "dc14ed3e8a2f61ae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2023 01 05 - Anders Aquiesces.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "69963b39b2550209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Saltmarsh/Crabbers Cove.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 01 05 - Anders Aquiesces.md",
+                "file": "Locations/Saltmarsh/Crabbers Cove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +170,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "06ce2d46b82141b5",
+  "active": "db1ecaed981d070e",
   "lastOpenFiles": [
+    "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
+    "Locations/Saltmarsh/Crabbers Cove.md",
     "Organisations/The Party.md",
     "Of Malc and Men/Subordinates/Hanna Rist.md",
-    "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Of Malc and Men/Subordinates/The Snapping Line.md",
     "Session Notes/2022 04 02 - Abbey Cellar.md",
     "Overarching Plot.md",
     "Of Malc and Men/Subordinates/Barnacle Bess.md",
-    "NPCs/Council/Skerrin Wavechaser.md",
-    "NPCs/Council/Gellan Primewater.md"
+    "NPCs/Council/Skerrin Wavechaser.md"
   ]
 }

@@ -32,3 +32,7 @@ Clear [[Crabbers Cove]]
 Contribute to the economics of the area
 
 [[Traditionalists]] object to the increased construction!
+
+![[Pasted image 20230105181719.png]]
+
+
