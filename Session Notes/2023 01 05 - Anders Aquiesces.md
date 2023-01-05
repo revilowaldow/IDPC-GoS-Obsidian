@@ -53,3 +53,5 @@ Contribute to the economics of the area
 
 Mariner's Guildhall
 
+Guildmaster [[Taberth]]
+
