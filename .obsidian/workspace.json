@@ -38,17 +38,19 @@
           {
             "id": "69963b39b2550209",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Saltmarsh/Crabbers Cove.md",
+                "file": "Locations/Saltmarsh/Crabber's Cove.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Saltmarsh/Crabbers Cove.md",
+                "file": "Session Notes/2023 01 05 - Anders Aquiesces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,11 +172,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "db1ecaed981d070e",
+  "active": "dc14ed3e8a2f61ae",
   "lastOpenFiles": [
+    "Locations/Saltmarsh/Crabber's Cove.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Locations/Saltmarsh/Crabbers Cove.md",
     "Organisations/The Party.md",
     "Of Malc and Men/Subordinates/Hanna Rist.md",
     "Of Malc and Men/Subordinates/The Snapping Line.md",

@@ -28,8 +28,12 @@ Upgrades:
 	Moat?
 	Walls?
 	
-Clear [[Crabbers Cove]]
+Clear [[Crabber's Cove]]
 Contribute to the economics of the area
+
+[[Xolec]]
+
+
 
 [[Traditionalists]] object to the increased construction!
 
