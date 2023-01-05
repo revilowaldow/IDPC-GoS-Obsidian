@@ -69,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Of Malc and Men/The Party/Auberon.md",
+                "file": "Of Malc and Men/The Party/Gerhard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 01 05 - Anders Aquiesces.md",
+                "file": "Of Malc and Men/The Party/Gerhard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,12 +198,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dc14ed3e8a2f61ae",
+  "active": "76fcc0cc13b1d2c4",
   "lastOpenFiles": [
+    "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Locations/Saltmarsh/Crabber's Cove.md",
     "NPCs/Council/Anders Solmor.md",
     "Of Malc and Men/The Party/Auberon.md",
-    "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Organisations/The Party.md",
     "Of Malc and Men/Subordinates/Hanna Rist.md",
