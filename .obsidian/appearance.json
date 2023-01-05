@@ -3,5 +3,6 @@
     "justify"
   ],
   "cssTheme": "Discordian",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 18
 }
