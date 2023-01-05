@@ -13,4 +13,17 @@ Start going through the notes from last session all bring Sean up to speed
 <hr>
 
 
-Property, estimate? 
+Property, estimate? 15,000 gold
+Material, Stone or timber?
+
+Upgrades:
+	Jetty> Dock
+	Lab
+	Pen
+	Tunnel - hidden/secret areas? 
+	Cellar?
+	Traps?
+	Wards
+	Making money, economics
+	Moat?
+Clear Crabbers Cove? 
