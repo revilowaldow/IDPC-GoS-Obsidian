@@ -54,4 +54,9 @@ Contribute to the economics of the area
 Mariner's Guildhall
 
 Guildmaster [[Taberth]]
+Today Thursday
+
+Shipment Textiles and Lumber Sunday 3 days
+
+
 
