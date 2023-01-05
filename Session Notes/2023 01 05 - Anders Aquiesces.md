@@ -18,6 +18,8 @@ Manistrad has a stolen shipment, tie to smugglers expanding tunnels?
 
 
 Who bought the other weapon? 
+	Nix wanted a magical ranged weapon
+
 
 Property, estimate? 15,000 gold
 Material, Stone or timber?
