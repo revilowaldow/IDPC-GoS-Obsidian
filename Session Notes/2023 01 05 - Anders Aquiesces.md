@@ -14,6 +14,8 @@ Start going through the notes from last session all bring Sean up to speed
 
 <hr>
 
+Manistrad has a stolen shipment, tie to smugglers expanding tunnels?
+
 
 Who bought the other weapon? 
 
