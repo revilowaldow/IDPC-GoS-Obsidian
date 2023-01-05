@@ -70,6 +70,8 @@ Ingo the Drover
 	Muscle protection
 	guards etc
 
+Necklace can't be taken off
+
 
 
 
