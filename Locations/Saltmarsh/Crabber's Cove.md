@@ -4,3 +4,4 @@ Just east of the docks, built along the shores of a secluded bay, are a handful 
 
 [[Xolec]] is best left trapped, except for one detail: by a stroke of fate, agents of the [[Scarlet Brotherhood]] use the cabin above him for clandestine meetings. He knows the full details of their operation and [[Skerrin]]'s role in it. He trades this information for his freedom if confronted by adventurers.
 
+![[Pasted image 20230105182351.jpg]]
