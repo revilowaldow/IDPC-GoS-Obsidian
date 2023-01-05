@@ -61,6 +61,8 @@ Shipment Textiles and Lumber Sunday 3 days
 40 years
 
 [[Duke Marik Feldren]]
- - Visited Seaton
-- 
+- Visited Seaton
+- Passing through a few years ago when his brother died
+
+
 
