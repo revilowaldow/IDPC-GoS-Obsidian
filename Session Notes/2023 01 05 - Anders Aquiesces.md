@@ -26,4 +26,9 @@ Upgrades:
 	Wards
 	Making money, economics
 	Moat?
-Clear Crabbers Cove? 
+	Walls?
+	
+Clear [[Crabbers Cove]]
+Contribute to the economics of the area
+
+[[Traditionalists]] object to the increased construction!
