@@ -66,6 +66,10 @@ Shipment Textiles and Lumber Sunday 3 days
 
 Five Years
 Ingo the Drover
+	Has worked with winston
+	Muscle protection
+	guards etc
+
 
 
 
