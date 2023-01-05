@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Of Malc and Men/The Party/Gerhard.md",
+                "file": "Session Notes/2023 01 05 - Anders Aquiesces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +198,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "76fcc0cc13b1d2c4",
+  "active": "dc14ed3e8a2f61ae",
   "lastOpenFiles": [
+    "Of Malc and Men/The Party/Gerhard.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Locations/Saltmarsh/Crabber's Cove.md",
     "NPCs/Council/Anders Solmor.md",
@@ -208,7 +209,6 @@
     "Organisations/The Party.md",
     "Of Malc and Men/Subordinates/Hanna Rist.md",
     "Of Malc and Men/Subordinates/The Snapping Line.md",
-    "Session Notes/2022 04 02 - Abbey Cellar.md",
-    "Overarching Plot.md"
+    "Session Notes/2022 04 02 - Abbey Cellar.md"
   ]
 }

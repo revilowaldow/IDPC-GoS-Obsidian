@@ -60,4 +60,7 @@ Shipment Textiles and Lumber Sunday 3 days
 
 40 years
 
+[[Duke Marik Feldren]]
+ - Visited Seaton
+- 
 
