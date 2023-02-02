@@ -118,7 +118,7 @@ Many clients are detailed numerically in the ledger, however the key detail pick
 
 #### Scrying on Primewater
 
-Next slave trade to come with the next delivery of either Lumber or Textiles. This info is likely corroborated in what’s assumed to be [[Gellan Primewater|Primewater]]’s ledger which he has hidden in a secret vault behind a painting of a ship in the office in his house which appears to be magically opened and closed by whispering the word ‘[[Morrigan]]’.
+Next slave trade to come with the next delivery of either Lumber or Textiles. This info is likely corroborated in what’s assumed to be [[Gellan Primewater|Primewater]]’s ledger which he has hidden in a secret vault behind a painting of a ship in a bedroom in his house which appears to be magically opened and closed by whispering the word ‘[[Morrigan]]’.
 
 #### Plan to take down Primewater
 
