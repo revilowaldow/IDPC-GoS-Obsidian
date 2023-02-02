@@ -69,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Of Malc and Men/The Party/Gerhard.md",
+                "file": "Organisations/Scarlet Brotherhood.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 278
   },
   "right": {
     "id": "a32a20bc5ff8c607",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 01 05 - Anders Aquiesces.md",
+                "file": "Organisations/Scarlet Brotherhood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +198,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dc14ed3e8a2f61ae",
+  "active": "76fcc0cc13b1d2c4",
   "lastOpenFiles": [
-    "Of Malc and Men/The Party/Gerhard.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
+    "Of Malc and Men/The Party/Gerhard.md",
     "Locations/Saltmarsh/Crabber's Cove.md",
     "NPCs/Council/Anders Solmor.md",
     "Of Malc and Men/The Party/Auberon.md",
