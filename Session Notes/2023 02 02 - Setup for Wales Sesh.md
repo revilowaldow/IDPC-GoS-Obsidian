@@ -19,3 +19,11 @@ Kiear Shadowbreaker
 
 Lumber to Seaton by Land from Scarstone basin
 
+Party left Saltmarsh, understand they wish to use this as an alibi if they sneak back in
+
+Mentioned Winston but not who it was
+	Gave Winston's Ledger to Kiara
+
+Heist on Primewater Mansion - acquire evidence
+
+Shipment of Lumber and textiles
