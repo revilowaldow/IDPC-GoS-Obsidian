@@ -27,3 +27,10 @@ Mentioned Winston but not who it was
 Heist on Primewater Mansion - acquire evidence
 
 Shipment of Lumber and textiles
+
+Overheard rumors in the wicker goat:
+
+	1. Guards discussed tainted grain and spreading sickness (scarlet brotherhood action)
+	2. Miners discussed dockside improvements due to recent find in mine
+		1. N.B. link this back to traditionalists getting fed up of costruction and development + potential house
+
