@@ -25,3 +25,5 @@ Kiara gives orders to stake out Scarstone Basin. Stealthy
 Sending Stone
 Intercept Boat after discovery
 Prevent the boat from reaching Saltmarsh or Seaton
+Trolls in forest outskirts if camping and watch etc
+
