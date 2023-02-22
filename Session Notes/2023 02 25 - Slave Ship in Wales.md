@@ -12,6 +12,7 @@
 - https://sounds.tabletopaudio.com/137_Mill_Town_a.mp3 Mill
 - https://sounds.tabletopaudio.com/62_Middle_Earth_Dawn.mp3 Dawn
 - https://sounds.tabletopaudio.com/54_Mountain_Tavern.mp3 Tavern
+- https://www.youtube.com/watch?v=qkXlgCFnJC8&themeRefresh=1 Lumber Camp Ambience
 
 ### Plan 
 Start in Burle having just long rested
