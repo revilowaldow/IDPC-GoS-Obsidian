@@ -74,6 +74,16 @@
             }
           },
           {
+            "id": "301b704c798ffcfd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "69963b39b2550209",
             "type": "leaf",
             "pinned": true,
@@ -112,9 +122,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d3dfc04d5699771",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -172,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 02 25 - Slave Ship in Wales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,11 +253,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4252325524037a94",
+  "active": "3d3dfc04d5699771",
   "lastOpenFiles": [
+    "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "Locations/Saltmarsh/Crabber's Cove.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "NPCs/Council/Anders Solmor.md",
