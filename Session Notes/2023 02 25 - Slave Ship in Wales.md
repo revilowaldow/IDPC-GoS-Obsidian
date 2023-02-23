@@ -51,4 +51,11 @@ Amanda Keetes, pirate assigned to transfer the slaves
 
 Crew on slave ship from Scarstone are hobgoblins
 	Working in alliance with Granny Nightshade
-	
+	Dreadwood
+	Slaves? Gnolls? Gnomes? Jackalwere?
+	Lycanthropes - wererat
+	Peopel who've annoyed nightshade basically
+	Some innocents
+	Some miscreants
+
+
