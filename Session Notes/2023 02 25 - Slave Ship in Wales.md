@@ -38,3 +38,17 @@ Leshanna - driven out?
 
 Julian Breuer - Incompetent knight
 
+
+
+
+Seaton:
+
+Duke mArik Feldren
+Hates smugglers vindictive
+
+Amanda Keetes, pirate assigned to transfer the slaves
+	Supported by crew of bandits and swashbukclers
+
+Crew on slave ship from Scarstone are hobgoblins
+	Working in alliance with Granny Nightshade
+	
