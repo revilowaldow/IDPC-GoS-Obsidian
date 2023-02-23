@@ -50,6 +50,7 @@ Amanda Keetes, pirate assigned to transfer the slaves
 	Supported by crew of bandits and swashbukclers
 
 Crew on slave ship from Scarstone are hobgoblins
+	Faction name?
 	Working in alliance with Granny Nightshade
 	Dreadwood
 	Slaves? Gnolls? Gnomes? Jackalwere?
