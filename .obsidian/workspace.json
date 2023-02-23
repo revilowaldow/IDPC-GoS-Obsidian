@@ -64,13 +64,15 @@
           {
             "id": "4252325524037a94",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2023 02 25 - Slave Ship in Wales.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -122,17 +124,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3d3dfc04d5699771",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2023 02 25 - Slave Ship in Wales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,15 +248,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3d3dfc04d5699771",
+  "active": "4252325524037a94",
   "lastOpenFiles": [
     "Session Notes/2023 02 25 - Slave Ship in Wales.md",
+    "Organisations/Scarlet Brotherhood.md",
     "Locations/Saltmarsh/Crabber's Cove.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "NPCs/Council/Anders Solmor.md",
-    "Organisations/Scarlet Brotherhood.md",
     "Of Malc and Men/The Party/Gerhard.md",
     "Of Malc and Men/The Party/Auberon.md",
     "Organisations/The Party.md"

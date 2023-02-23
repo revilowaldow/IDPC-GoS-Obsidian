@@ -27,3 +27,14 @@ Intercept Boat after discovery
 Prevent the boat from reaching Saltmarsh or Seaton
 Trolls in forest outskirts if camping and watch etc
 
+Antagonists:
+
+Erdan & Rohan Hillhand
+Dwarf brothers
+Scouts/Ambushers
+Trafficers
+
+Leshanna - driven out?
+
+Julian Breuer - Incompetent knight
+
