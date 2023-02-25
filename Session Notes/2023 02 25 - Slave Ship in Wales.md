@@ -60,3 +60,8 @@ Crew on slave ship from Scarstone are hobgoblins
 	Some miscreants
 
 
+==========================================
+
+Milard 
+Fran
+Phillip
