@@ -43,7 +43,7 @@ Julian Breuer - Incompetent knight
 
 Seaton:
 
-Duke mArik Feldren
+Duke Marik Feldren
 Hates smugglers vindictive
 
 Amanda Keetes, pirate assigned to transfer the slaves
@@ -65,3 +65,27 @@ Crew on slave ship from Scarstone are hobgoblins
 Milard 
 Fran
 Phillip
+
+Assault on Scarstone basin
+
+Gerhard had been involved with the legion before.
+
+Sucessfully halted the boat for 24 hours with feather token
+
+Nix (Wheatabix) has a fighting ring appointment this evening
+
+Learned that Amada Keetes is the buyer
+Learned that Granny Nightshade is the Seller
+Legion are facilitators
+Have worked with Winston
+Unsure if have worked with Gellan
+
+Phillip has gone to bring back sailors from Burle to impound the boat
+
+Griffin Was killed
+
+Leshanna helped but was kicked out
+
+Julian Breuer - Confirmed to be inept and delinberately placed "out of the way"
+
+
