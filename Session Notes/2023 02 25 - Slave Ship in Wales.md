@@ -82,10 +82,11 @@ Unsure if have worked with Gellan
 
 Phillip has gone to bring back sailors from Burle to impound the boat
 
-Griffin Was killed
+Griffin was killed
 
 Leshanna helped but was kicked out
 
 Julian Breuer - Confirmed to be inept and delinberately placed "out of the way"
+
 
 
