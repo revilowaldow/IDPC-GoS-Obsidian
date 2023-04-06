@@ -104,13 +104,15 @@
           {
             "id": "f4329c3fbbd13b13",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2023 02 25 - Slave Ship in Wales.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -250,10 +252,10 @@
   },
   "active": "76fcc0cc13b1d2c4",
   "lastOpenFiles": [
-    "NPCs/Council/Anders Solmor.md",
-    "Organisations/Scarlet Brotherhood.md",
     "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "Session Notes/2023 04 06 - Pirates and Cargo.md",
+    "NPCs/Council/Anders Solmor.md",
+    "Organisations/Scarlet Brotherhood.md",
     "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
