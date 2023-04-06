@@ -5,8 +5,10 @@ Get boat sailed back (impound), do they want to remain on it or go to Wheatabix'
 Keira thank for rescuing the slaves
 	Some of them led away in irons
 	Gold reward - 250 gp
+	If they visit jail Winston is there
 
 Breuer? What hppened in scarstone basin?
+How was this allowed to happen, did you find anyting out?
 Go back?
 
 Amada Keetes in Seaton?
