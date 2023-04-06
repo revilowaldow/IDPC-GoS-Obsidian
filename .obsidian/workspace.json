@@ -67,19 +67,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2023 02 25 - Slave Ship in Wales.md",
+                "file": "Organisations/Legion of Maglubiyet.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "301b704c798ffcfd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
               }
             }
           },
@@ -125,6 +115,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "0ecb895b0f8fc760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4329c3fbbd13b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023 04 06 - Pirates and Cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 02 25 - Slave Ship in Wales.md",
+                "file": "Organisations/Legion of Maglubiyet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,12 +256,15 @@
   },
   "active": "4252325524037a94",
   "lastOpenFiles": [
+    "Session Notes/2023 02 25 - Slave Ship in Wales.md",
+    "Organisations/Legion of Maglubiyet.md",
+    "Session Notes/2023 04 06 - Pirates and Cargo.md",
+    "Untitled.canvas",
     "Session Notes/2022 04 02 - Abbey Cellar.md",
     "Session Notes/2022 09 01 - Dragon Duel.md",
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 07 21 - The Marshall.md",
     "Session Notes/2022 06 28 - Carnival.md",
-    "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "Organisations/Scarlet Brotherhood.md",
     "Locations/Saltmarsh/Crabber's Cove.md",

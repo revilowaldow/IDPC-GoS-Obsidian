@@ -1,0 +1,3 @@
+Hobgoblin faction
+
+Responsible f
