@@ -36,4 +36,9 @@ cider manufacturing
 pickling guild in Burle
 
 Amanda Keetes
-	
+	Pirate involved with sea princes
+	Boat travelling to port torvin
+
+Someoen in the dreadwood
+
+
