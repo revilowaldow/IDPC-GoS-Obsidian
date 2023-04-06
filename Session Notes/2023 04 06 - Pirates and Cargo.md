@@ -29,3 +29,9 @@ Level up soon
 Defat troll
 
 
+Bisted by a troll
+
+cider manufacturing
+
+pickling guild in Burle
+
