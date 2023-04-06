@@ -119,14 +119,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Scarlet Brotherhood.md",
+                "file": "Session Notes/2023 04 06 - Pirates and Cargo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 02 25 - Slave Ship in Wales.md",
+                "file": "Session Notes/2023 04 06 - Pirates and Cargo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,13 +248,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f4329c3fbbd13b13",
+  "active": "76fcc0cc13b1d2c4",
   "lastOpenFiles": [
+    "NPCs/Council/Anders Solmor.md",
+    "Organisations/Scarlet Brotherhood.md",
+    "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "Session Notes/2023 04 06 - Pirates and Cargo.md",
     "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "Session Notes/2023 01 05 - Anders Aquiesces.md",
     "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "Session Notes/2022 04 02 - Abbey Cellar.md",
     "Organisations/Legion of Maglubiyet.md",
     "Untitled.canvas",
@@ -262,7 +264,6 @@
     "Session Notes/2022 08 04 - The Marshall Wreck.md",
     "Session Notes/2022 07 21 - The Marshall.md",
     "Session Notes/2022 06 28 - Carnival.md",
-    "Organisations/Scarlet Brotherhood.md",
     "Locations/Saltmarsh/Crabber's Cove.md"
   ]
 }
