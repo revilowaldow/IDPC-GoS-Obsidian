@@ -14,3 +14,8 @@ That's about it.
 
 Get dan to reroll 1
 
+
+Burle Shopping
+
+Blacksmith - No Fire
+
