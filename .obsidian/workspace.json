@@ -126,9 +126,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4af88ccf53e963df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023 04 06 - Pirates and Cargo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
+      },
+      {
+        "id": "d89bc1f52b74ab49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1b951bd2a711dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023 05 01 - May Day In Burle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 04 06 - Pirates and Cargo.md",
+                "file": "Session Notes/2023 05 01 - May Day In Burle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,10 +280,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "76fcc0cc13b1d2c4",
+  "active": "f1b951bd2a711dc8",
   "lastOpenFiles": [
-    "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "Session Notes/2023 04 06 - Pirates and Cargo.md",
+    "Session Notes/2023 05 01 - May Day In Burle.md",
+    "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "NPCs/Council/Anders Solmor.md",
     "Organisations/Scarlet Brotherhood.md",
