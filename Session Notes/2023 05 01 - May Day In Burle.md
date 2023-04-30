@@ -29,7 +29,7 @@ Payment of Bounty on Some captured
 “_Why do I ferment? Consider this: you and I may separately follow the recipe for a cake and bake two identical desserts. But if you and I follow the exact same recipe for fermented cabbage, why, no power on earth will allow these two cabbages to taste the same. To ferment is to create art. To ferment is to be individual._”
 — Ivmal Alef
 
-Scrawny, redheaded, and fresh out of his teens, apprentice alchemist [Ivmal](https://5etools-mirror-1.github.io/bestiary.html#ivmal%20alef_ar7) is an ardent Annual Member of the Pickling Guild who doesn't suspect its true purpose. 
+Scrawny, white hair, and fresh out of his teens, apprentice alchemist [Ivmal](https://5etools-mirror-1.github.io/bestiary.html#ivmal%20alef_ar7) is an ardent Annual Member of the Pickling Guild who doesn't suspect its true purpose. 
 
 -   Signature Look: [Ivmal](https://5etools-mirror-1.github.io/bestiary.html#ivmal%20alef_ar7) always wears one item of clothing or jewelry with a vegetable motif. 
 -   Personality: [Ivmal](https://5etools-mirror-1.github.io/bestiary.html#ivmal%20alef_ar7) is effusive, enthusiastic, and artsy.
@@ -41,3 +41,7 @@ Has a guild fermenter's sickleThis beautifully forged sickle is made entirely of
 ### Armorer Fenkasys Orwyse (Gnome, female)
 
 Long, straight, dyed red hair and green eyes.
+She uses sarcasm and insults commonly.
+She talks so fast that she is very difficult to understand.
+
+![[Artificer.webp]]
