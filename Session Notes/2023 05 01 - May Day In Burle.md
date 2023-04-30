@@ -6,3 +6,11 @@ Made Cider
 
 Tried openig the bearing golem bag
 
+That's about it.
+
+"Bisted"
+
+<hr>
+
+Get dan to reroll 1
+
