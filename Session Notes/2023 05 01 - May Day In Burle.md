@@ -44,4 +44,7 @@ Long, straight, dyed red hair and green eyes.
 She uses sarcasm and insults commonly.
 She talks so fast that she is very difficult to understand.
 
-![[Artificer.webp]]
+![[Artificer.webp]]![[Pasted image 20230430221951.png]]
+
+
+jdfjsfg
