@@ -56,4 +56,5 @@ Sepulcheese
 
 ## Heist planning
 
-Bad grain 
+Bad grain  - garret, chef, knows Tim
+
