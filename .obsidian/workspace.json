@@ -138,14 +138,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
-        "id": "d89bc1f52b74ab49",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "f1b951bd2a711dc8",
             "type": "leaf",
@@ -158,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
