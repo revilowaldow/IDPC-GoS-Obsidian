@@ -150,9 +150,79 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4944d11ed5bdb7cf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Artificer.webp"
+              }
+            }
+          },
+          {
+            "id": "b26018cd1f6ce936",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Pasted image 20230105181719.png"
+              }
+            }
+          },
+          {
+            "id": "072e15b1d21f31a3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Pasted image 20230105181758.png"
+              }
+            }
+          },
+          {
+            "id": "1e3f2c83988cda7d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Maps/Pasted image 20230105182351.jpg"
+              }
+            }
+          },
+          {
+            "id": "e22b17ae20002713",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20230202192831.png"
+              }
+            }
+          },
+          {
+            "id": "32d561c4e3f14eb3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20230202224457.png"
+              }
+            }
+          },
+          {
+            "id": "1faa99ed44c5d520",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20230430221951.png"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -218,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 05 01 - May Day In Burle.md",
+                "file": "Assets/Pasted image 20230430221951.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,12 +352,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1b951bd2a711dc8",
+  "active": "db1ecaed981d070e",
   "lastOpenFiles": [
-    "Session Notes/2023 04 06 - Pirates and Cargo.md",
+    "Assets/Pasted image 20230202224457.png",
+    "Assets/Pasted image 20230202192831.png",
+    "Assets/Maps/Pasted image 20230105182351.jpg",
+    "Assets/Maps/Pasted image 20230105181758.png",
+    "Assets/Maps/Pasted image 20230105181719.png",
+    "Assets/Artificer.webp",
     "Session Notes/2023 05 01 - May Day In Burle.md",
-    "Pasted image 20230430221951.png",
-    "Artificer.webp",
+    "clean.bat",
+    "Session Notes/2023 04 06 - Pirates and Cargo.md",
+    "Assets/Pasted image 20230430221951.png",
     "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
     "Session Notes/2023 02 25 - Slave Ship in Wales.md",
     "NPCs/Council/Anders Solmor.md",

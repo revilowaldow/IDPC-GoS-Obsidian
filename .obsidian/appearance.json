@@ -2,7 +2,7 @@
   "enabledCssSnippets": [
     "justify"
   ],
-  "cssTheme": "Discordian",
-  "accentColor": "",
+  "cssTheme": "",
+  "accentColor": "#0e772d",
   "baseFontSize": 18
 }
