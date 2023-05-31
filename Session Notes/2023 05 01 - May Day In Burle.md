@@ -35,7 +35,7 @@ Scrawny, white hair, and fresh out of his teens, apprentice alchemist [Ivmal](h
 -   Personality: [Ivmal](https://5etools-mirror-1.github.io/bestiary.html#ivmal%20alef_ar7) is effusive, enthusiastic, and artsy.
 -   Statistics: [Ivmal](https://5etools-mirror-1.github.io/bestiary.html#ivmal%20alef_ar7) uses the statistics of a [commoner](https://5etools-mirror-1.github.io/bestiary.html#commoner_mm).
 
-Has a guild fermenter's sickleThis beautifully forged sickle is made entirely of silver. A branching pattern reminiscent of the underground network of a fungus colony is etched into the hilt.
+Has a guild fermenter's sickle This beautifully forged sickle is made entirely of silver. A branching pattern reminiscent of the underground network of a fungus colony is etched into the hilt.
 
 
 ### Armorer Fenkasys Orwyse (Gnome, female)
