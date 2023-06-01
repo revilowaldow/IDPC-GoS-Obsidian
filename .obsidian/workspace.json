@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "4a206bdb0a541e7a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023 05 01 - May Day In Burle.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "30e9cea9ef75e145",
             "type": "leaf",
             "pinned": true,
@@ -221,26 +235,6 @@
               "state": {
                 "file": "Assets/Pasted image 20230430221951.png"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "28b0dbeb74aa512f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4a206bdb0a541e7a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023 05 01 - May Day In Burle.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
             }
           }
         ]
