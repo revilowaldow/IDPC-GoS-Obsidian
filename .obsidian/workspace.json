@@ -237,11 +237,14 @@
             "id": "fb552a1c94a053b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Assets/Pasted image 20230430221951.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -307,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 06 01 - The Heist.md",
+                "file": "Assets/Pasted image 20230202192831.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,12 +374,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1b951bd2a711dc8",
+  "active": "e22b17ae20002713",
   "lastOpenFiles": [
-    "Session Notes/2023 05 01 - May Day In Burle.md",
-    "Session Notes/2023 06 01 - The Heist.md",
-    "Assets/Pasted image 20230430221951.png",
     "Assets/Pasted image 20230202224457.png",
+    "Assets/Pasted image 20230430221951.png",
+    "Session Notes/2023 06 01 - The Heist.md",
+    "Session Notes/2023 05 01 - May Day In Burle.md",
     "Assets/Pasted image 20230202192831.png",
     "Assets/Maps/Pasted image 20230105182351.jpg",
     "Assets/Maps/Pasted image 20230105181758.png",
