@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "8b0810ab6dd87a9d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "4a206bdb0a541e7a",
             "type": "leaf",
             "state": {
@@ -254,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -384,7 +394,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1faada47a148aee7",
+  "active": "8b0810ab6dd87a9d",
   "lastOpenFiles": [
     "Assets/Pasted image 20230202192831.png",
     "Assets/Pasted image 20230202224457.png",
