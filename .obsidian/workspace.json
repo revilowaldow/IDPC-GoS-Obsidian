@@ -30,12 +30,14 @@
             }
           },
           {
-            "id": "8b0810ab6dd87a9d",
+            "id": "d76f12011488837f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Session Notes/2023 06 01 - The Heist.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -394,7 +396,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b0810ab6dd87a9d",
+  "active": "db1ecaed981d070e",
   "lastOpenFiles": [
     "Assets/Pasted image 20230202192831.png",
     "Assets/Pasted image 20230202224457.png",
