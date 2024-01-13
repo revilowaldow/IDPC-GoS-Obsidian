@@ -264,9 +264,45 @@
                 "file": "Assets/Pasted image 20230430221951.png"
               }
             }
+          },
+          {
+            "id": "7b54360ac4ff0406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/The Founders/The Founders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d08f173408ed0b26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/The Founders/Galazeth Prismari.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64c077a013eaed20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/The Dissenters/Chorazzo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -332,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023 06 01 - The Heist.md",
+                "file": "NPCs/The Dissenters/Chorazzo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -408,12 +444,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db1ecaed981d070e",
+  "active": "64c077a013eaed20",
   "lastOpenFiles": [
+    "NPCs/The Founders/Galazeth Prismari.md",
+    "NPCs/The Founders/The Founders.md",
+    "Session Notes/2023 06 01 - The Heist.md",
     "Assets/Pasted image 20230202192831.png",
     "Assets/Pasted image 20230202224457.png",
     "Assets/Pasted image 20230430221951.png",
-    "Session Notes/2023 06 01 - The Heist.md",
     "Session Notes/2023 05 01 - May Day In Burle.md",
     "Assets/Maps/Pasted image 20230105182351.jpg",
     "Assets/Maps/Pasted image 20230105181758.png",
