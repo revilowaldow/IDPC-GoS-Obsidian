@@ -120,6 +120,42 @@
             }
           },
           {
+            "id": "dc8042e9cf2c6c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Keoland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0823e1c2a11a1b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Loyalists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0deb9b9acb87d470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Scarlet Brotherhood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "69963b39b2550209",
             "type": "leaf",
             "pinned": true,
@@ -314,6 +350,174 @@
             }
           },
           {
+            "id": "1e965dccdb160a05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/King Kimbertos Skotti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a69d2ad4988a904c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Winston.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8eef7f0bee8cf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Petra Solmor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f834355d07ecdd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/Subordinates/Barnacle Bess.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c71bfa7345cbd6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/Subordinates/Bimz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ba8af01a4bfd228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/Subordinates/Gareth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2b1bd546e98d251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/Subordinates/Hanna Rist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1406e22010f46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/Subordinates/Sea Ghost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fa4d7e8b4c996f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/Subordinates/The Snapping Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1904718c372f8567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/The Party/Auberon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26f1e0f339a2a969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/The Party/Eragon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fbec9b95fe204f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/The Party/Gerhard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3913e9291e1eb542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/The Party/Kairon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6470e2176f0f6f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Malc and Men/The Party/Nix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d08f173408ed0b26",
             "type": "leaf",
             "state": {
@@ -406,7 +610,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -472,7 +676,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Saltmarsh/Crabber's Cove.md",
+                "file": "Organisations/Loyalists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -548,43 +752,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5199f2c45d0011e9",
+  "active": "0823e1c2a11a1b88",
   "lastOpenFiles": [
-    "Locations/Saltmarsh/Saltmarsh.md",
-    "Locations/Saltmarsh/Crabber's Cove.md",
-    "Locations/Saltmarsh/Council Hall.md",
-    "NPCs/Granny Nightshade.md",
+    "Organisations/Legion of Maglubiyet.md",
+    "Organisations/Scarlet Brotherhood.md",
+    "Organisations/Loyalists.md",
+    "Organisations/Keoland.md",
+    "Of Malc and Men/The Party/Nix.md",
+    "Of Malc and Men/The Party/Kairon.md",
+    "Of Malc and Men/The Party/Gerhard.md",
+    "Of Malc and Men/The Party/Eragon.md",
+    "Of Malc and Men/The Party/Auberon.md",
+    "Of Malc and Men/Subordinates/The Snapping Line.md",
+    "Of Malc and Men/Subordinates/Sea Ghost.md",
+    "Of Malc and Men/Subordinates/Hanna Rist.md",
+    "Of Malc and Men/Subordinates/Gareth.md",
+    "Of Malc and Men/Subordinates/Bimz.md",
+    "Of Malc and Men/Subordinates/Barnacle Bess.md",
+    "NPCs/Petra Solmor.md",
+    "NPCs/Winston.md",
+    "NPCs/King Kimbertos Skotti.md",
     "NPCs/Kiara Shadowbreaker.md",
+    "NPCs/Granny Nightshade.md",
+    "Locations/Saltmarsh/Crabber's Cove.md",
+    "Locations/Saltmarsh/Saltmarsh.md",
+    "Locations/Saltmarsh/Council Hall.md",
     "NPCs/The Founders/The Founders.md",
     "NPCs/The Founders/Galazeth Prismari.md",
     "Assets/Viondrúit.jpg",
     "NPCs/The Dissenters/Viondrúit.md",
-    "NPCs/The Dissenters/Shimanteoroth.md",
     "Assets/Chorazzo.jpg",
-    "NPCs/The Dissenters/Chorazzo.md",
-    "Session Notes/2023 06 01 - The Heist.md",
     "Assets/Pasted image 20230202192831.png",
     "Assets/Pasted image 20230202224457.png",
     "Assets/Pasted image 20230430221951.png",
-    "Session Notes/2023 05 01 - May Day In Burle.md",
     "Assets/Maps/Pasted image 20230105182351.jpg",
     "Assets/Maps/Pasted image 20230105181758.png",
     "Assets/Maps/Pasted image 20230105181719.png",
     "Assets/Artificer.webp",
     "clean.bat",
-    "Session Notes/2023 04 06 - Pirates and Cargo.md",
-    "Session Notes/2023 02 02 - Setup for Wales Sesh.md",
-    "Session Notes/2023 02 25 - Slave Ship in Wales.md",
-    "NPCs/Council/Anders Solmor.md",
-    "Organisations/Scarlet Brotherhood.md",
-    "Session Notes/2023 01 05 - Anders Aquiesces.md",
-    "Session Notes/2022 11 26 - Temple Tunnels.md",
-    "Session Notes/2022 04 02 - Abbey Cellar.md",
-    "Organisations/Legion of Maglubiyet.md",
-    "Untitled.canvas",
-    "Session Notes/2022 09 01 - Dragon Duel.md",
-    "Session Notes/2022 08 04 - The Marshall Wreck.md",
-    "Session Notes/2022 07 21 - The Marshall.md",
-    "Session Notes/2022 06 28 - Carnival.md"
+    "Untitled.canvas"
   ]
 }
