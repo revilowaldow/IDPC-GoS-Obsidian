@@ -156,6 +156,66 @@
             }
           },
           {
+            "id": "22ce1afffa75e3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Sea Princes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21dd53144bae2bfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/The Most Excellent Party of Loutists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e57cf63bdcbf8b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/The Party.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d501a7937e49c4f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Traditionalists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b96cca3167e882a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisations/Witchlight Carnival.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "69963b39b2550209",
             "type": "leaf",
             "pinned": true,
@@ -610,7 +670,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -676,7 +736,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Loyalists.md",
+                "file": "Of Malc and Men/The Party/Gerhard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -752,11 +812,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0823e1c2a11a1b88",
+  "active": "5fbec9b95fe204f1",
   "lastOpenFiles": [
-    "Organisations/Legion of Maglubiyet.md",
+    "Organisations/Witchlight Carnival.md",
+    "Organisations/Traditionalists.md",
+    "Organisations/The Party.md",
+    "Organisations/The Most Excellent Party of Loutists.md",
+    "Organisations/Sea Princes.md",
     "Organisations/Scarlet Brotherhood.md",
     "Organisations/Loyalists.md",
+    "Organisations/Legion of Maglubiyet.md",
     "Organisations/Keoland.md",
     "Of Malc and Men/The Party/Nix.md",
     "Of Malc and Men/The Party/Kairon.md",
@@ -775,12 +840,7 @@
     "NPCs/Kiara Shadowbreaker.md",
     "NPCs/Granny Nightshade.md",
     "Locations/Saltmarsh/Crabber's Cove.md",
-    "Locations/Saltmarsh/Saltmarsh.md",
-    "Locations/Saltmarsh/Council Hall.md",
-    "NPCs/The Founders/The Founders.md",
-    "NPCs/The Founders/Galazeth Prismari.md",
     "Assets/Viondrúit.jpg",
-    "NPCs/The Dissenters/Viondrúit.md",
     "Assets/Chorazzo.jpg",
     "Assets/Pasted image 20230202192831.png",
     "Assets/Pasted image 20230202224457.png",
